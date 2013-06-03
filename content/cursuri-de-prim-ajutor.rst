@@ -17,8 +17,8 @@ Cluj-Napoca. După o perioadă am primit un email de la respectiva
 asociație cum că vor fi organizate cursurile la `ISU Cluj`_. Mi-am
 anunțat participarea.
 
-Cursurile sunt foarte utile și se concentrează pe acordarea primului
-ajutor în caz de stop cardio-respirator (la adulți și la nou-născuți).
+Cursurile sunt foarte utile și se concentrează pe acordarea primului ajutor în
+caz de stop cardio-respirator (la adulți și la nou-născuți).
 
 O să enumerez pe scurt etapele, dar e doar un rezumat al acestora.
 Pentru o descriere detaliată, vedeți `video-urile`_ de pe site-ul
