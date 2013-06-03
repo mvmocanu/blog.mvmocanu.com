@@ -11,31 +11,29 @@ TIMEZONE = 'Europe/Bucharest'
 DEFAULT_LANG = u'ro'
 
 # Feed generation is usually not desired when developing
-FEED_ALL_RSS = None
-TAG_FEED_RSS = None
+FEED_ALL_RSS = "feeds/all.rss.xml"
+TAG_FEED_RSS = "feeds/%s.rss.xml"
 
-FEED_ALL_ATOM = None
-TAG_FEED_ATOM = None
+FEED_ALL_ATOM = "feeds/all.atom.xml"
+TAG_FEED_ATOM = "feeds/%s.atom.xml"
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+#LINKS = (('Pelican', 'http://getpelican.com/'),
+         #('Python.org', 'http://python.org/'),
+         #('Jinja2', 'http://jinja.pocoo.org/'),
+         #('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+#SOCIAL = (('You can add links in your config file', '#'),
+          #('Another social link', '#'),)
 
-DEFAULT_PAGINATION = 30
+DEFAULT_PAGINATION = 20
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
-DELETE_OUTPUT_DIRECTORY = False
+DELETE_OUTPUT_DIRECTORY = True
 
-GITHUB_URL = 'https://github.com/mvmocanu/'
-LINKEDIN_URL = 'http://linkedin.com/in/mihaimocanu/'
 MAIL_USERNAME = 'contact'
 MAIL_HOST = 'mvmocanu.com'
 
