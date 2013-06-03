@@ -48,9 +48,9 @@ DISQUS_SITENAME = "bmvm"
 
 SECTIONS = [
     ('Blog', 'index.html'),
-    ('Archive', 'archives.html'),
-    ('Categories', 'categories.html'),
-    ('Tags', 'tags.html'),
+    ('Cu bicicleta', 'category/cu-bicicleta.html'),
+    ('Arhivă', 'archives.html'),
+    ('Tag-uri', 'tags.html'),
     #('Projects', 'projects.html'),
 ]
 TAG_CLOUD_STEPS = 6
