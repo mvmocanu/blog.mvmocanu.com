@@ -1,7 +1,7 @@
 The View - Rooftop party - Alpha Business Center (Cluj-Napoca)
 ##############################################################
 :date: 2012-07-21 23:53
-:author: admin
+:author: mihai
 :category: Hai Hui
 :tags: cluj, customer support, dezolant
 :slug: the-view-rooftop-party-alpha-business-center-cluj-napoca
@@ -14,9 +14,10 @@ Pe la ora 21 începe muzica. Am crezut că sunt ceva vecini pe strada din
 zonă. La ora 23 muzica puţin mai tare. Prin zonă niciun semn de
 petrecere. Dar realizez că muzica de fapt venea de pe strada Frunzişului
 (varianta Zorilor - Mănăştur). Eu locuiesc în zona Câmpului.
- Am căutat puţin pe Google şi-am ajuns pe următoarea pagină:
- [caption id="attachment\_739" align="aligncenter" width="786"]\ `|Info
-despre petrecere|`_ Info despre petrecere[/caption]
+
+Am căutat puţin pe Google şi-am ajuns pe următoarea pagină:
+
+![Info despre petrecere](|filename|/images/rooftop-1.jpg)
 
 Muzica pusă la petrecerea asta acoperă toată valea unde se află strada
 Câmpului. În imaginea de mai jos în punctul 1 e petrecerea, iar toată

@@ -42,13 +42,14 @@ MAIL_HOST = 'mvmocanu.com'
 PATH = 'content'
 THEME = 'theme'
 
-#DISQUS_SITENAME = "ionelmc"
+DISQUS_SITENAME = "bmvm"
 #GOOGLE_ANALYTICS_ACCOUNT = "UA-822534-14"
 #GOOGLE_ANALYTICS_DOMAIN = 'ionelmc.ro'
 
 SECTIONS = [
     ('Blog', 'index.html'),
     ('Archive', 'archives.html'),
+    ('Categories', 'categories.html'),
     ('Tags', 'tags.html'),
     #('Projects', 'projects.html'),
 ]
