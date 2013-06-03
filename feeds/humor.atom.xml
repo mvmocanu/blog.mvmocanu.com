@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>blog</title><link href="http://mvmocanu.github.io/blog.mvmocanu.com/" rel="alternate"></link><link href="http://mvmocanu.github.io/blog.mvmocanu.com/feeds/humor.atom.xml" rel="self"></link><id>http://mvmocanu.github.io/blog.mvmocanu.com/</id><updated>2008-04-09T11:45:00+03:00</updated><entry><title>Linux Kernel swer counts</title><link href="http://mvmocanu.github.io/blog.mvmocanu.com/linux-kernel-swer-counts/" rel="alternate"></link><updated>2008-04-09T11:45:00+03:00</updated><author><name>admin</name></author><id>tag:mvmocanu.github.io/blog.mvmocanu.com,2008-04-09:linux-kernel-swer-counts/</id><summary type="html">&lt;p&gt;&lt;a href="#id2"&gt;&lt;span class="problematic" id="id3"&gt;`Aici`_&lt;/span&gt;&lt;/a&gt; se poate observa un grafic cu cuvintele &amp;quot;obsecene&amp;quot;, care exista
+in kernelul Linux. &lt;a href="#id4"&gt;&lt;span class="problematic" id="id5"&gt;`Aici`_&lt;/span&gt;&lt;/a&gt; sunt unele exemple, desi e cam veche pagina.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://lists.lug.ro/lurker/message/20080408.232056.e49f7f5c.en.html"&gt;via&lt;/a&gt;&lt;/p&gt;
+&lt;div class="system-message"&gt;
+&lt;p class="system-message-title"&gt;System Message: WARNING/2 (&lt;tt class="docutils"&gt;/home/local/3PILLAR/mmocanu/work/blog.mvmocanu.com/content/linux-kernel-swer-counts.rst&lt;/tt&gt;, line 15); &lt;em&gt;&lt;a href="#id1"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+Duplicate explicit target name: &amp;quot;aici&amp;quot;.&lt;/div&gt;
+&lt;div class="system-messages section"&gt;
+&lt;h2&gt;Docutils System Messages&lt;/h2&gt;
+&lt;div class="system-message" id="id2"&gt;
+&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;/home/local/3PILLAR/mmocanu/work/blog.mvmocanu.com/content/linux-kernel-swer-counts.rst&lt;/tt&gt;, line 9); &lt;em&gt;&lt;a href="#id3"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+Duplicate target name, cannot be used as a unique reference: &amp;quot;aici&amp;quot;.&lt;/div&gt;
+&lt;div class="system-message" id="id4"&gt;
+&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;/home/local/3PILLAR/mmocanu/work/blog.mvmocanu.com/content/linux-kernel-swer-counts.rst&lt;/tt&gt;, line 9); &lt;em&gt;&lt;a href="#id5"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+Duplicate target name, cannot be used as a unique reference: &amp;quot;aici&amp;quot;.&lt;/div&gt;
+&lt;/div&gt;
+</summary><category term="humor"></category><category term="linux"></category></entry></feed>
