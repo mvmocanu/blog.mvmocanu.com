@@ -18,7 +18,7 @@ de cateva ori. Si este destul de "interesant" sa circuli cu el.
 
 In primul rand aici, organizarea Baltimore-ului este in felul urmator:
 
--  Centrul orasului (downtown) unde totul este frumos si curat. Cladiri
+ *  Centrul orasului (downtown) unde totul este frumos si curat. Cladiri
    inalte si curate, magazine frumoase, lume plimbandu-se. Te simti in
    siguranta si simti si pulsul orasului
 -  Cartierele de langa downtown. Cum iesi din downtown si intri intr-un
