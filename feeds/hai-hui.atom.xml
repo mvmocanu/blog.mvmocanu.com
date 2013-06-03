@@ -332,10 +332,21 @@ Block quote ends without a blank line; unexpected unindent.&lt;/div&gt;
 estul Baltimore County. In luna asta, de cand sunt aici, am folosit 35-u
 de cateva ori. Si este destul de &amp;quot;interesant&amp;quot; sa circuli cu el.&lt;/p&gt;
 &lt;p&gt;In primul rand aici, organizarea Baltimore-ului este in felul urmator:&lt;/p&gt;
+&lt;blockquote&gt;
 &lt;ul class="simple"&gt;
-&lt;li&gt;Centrul orasului (downtown) unde totul este frumos si curat. Cladiri
+&lt;li&gt;Centrul orasului (downtown) unde totul este frumos si curat. Cladiri&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="system-message"&gt;
+&lt;p class="system-message-title"&gt;System Message: WARNING/2 (&lt;tt class="docutils"&gt;/home/local/3PILLAR/mmocanu/work/blog.mvmocanu.com/content/mta-35.rst&lt;/tt&gt;, line 22)&lt;/p&gt;
+Bullet list ends without a blank line; unexpected unindent.&lt;/div&gt;
+&lt;blockquote&gt;
 inalte si curate, magazine frumoase, lume plimbandu-se. Te simti in
-siguranta si simti si pulsul orasului&lt;/li&gt;
+siguranta si simti si pulsul orasului&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;div class="system-message"&gt;
+&lt;p class="system-message-title"&gt;System Message: WARNING/2 (&lt;tt class="docutils"&gt;/home/local/3PILLAR/mmocanu/work/blog.mvmocanu.com/content/mta-35.rst&lt;/tt&gt;, line 24)&lt;/p&gt;
+Block quote ends without a blank line; unexpected unindent.&lt;/div&gt;
+&lt;ul class="simple"&gt;
 &lt;li&gt;Cartierele de langa downtown. Cum iesi din downtown si intri intr-un
 astfel de cartier observi o diferenta uriasa de la ce-a fost in
 downtown si ce este in cartier. In aceste cartiere, casele sunt
