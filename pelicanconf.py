@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Mihai Mocanu'
 SITENAME = u'blog'
-SITEURL = ''
+SITEURL = 'http://mvmocanu.github.io/blog.mvmocanu.com/'
 
 TIMEZONE = 'Europe/Bucharest'
 
@@ -27,7 +27,7 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
 SOCIAL = (('You can add links in your config file', '#'),
           ('Another social link', '#'),)
 
-DEFAULT_PAGINATION = 10
+DEFAULT_PAGINATION = 30
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
@@ -83,6 +83,6 @@ FILES_TO_COPY = [
 STATIC_PATHS = ['images']
 
 ARTICLE_URL = '{slug}/'
-#ARTICLE_SAVE_AS = '/{slug}/index.html'
+ARTICLE_SAVE_AS = '{slug}/index.html'
 
-PAGE_URL = PAGE_SAVE_AS = '{slug}'
+PAGE_URL = PAGE_SAVE_AS = '{slug}.html'
