@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>blog</title><link>http://mvmocanu.github.io/blog.mvmocanu.com/</link><description></description><atom:link href="http://mvmocanu.github.io/blog.mvmocanu.com/feeds/bontida.rss.xml" rel="self"></atom:link><lastBuildDate>Mon, 26 Jul 2010 15:11:00 +0300</lastBuildDate><item><title>Bonțida</title><link>http://mvmocanu.github.io/blog.mvmocanu.com/bontida/</link><description>&lt;p&gt;Ultima dată am fost la Bonțida în urmă cu vreo 6 ani. Lucrările la
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>blog</title><link>/</link><description></description><atom:link href="/feeds/bontida.rss.xml" rel="self"></atom:link><lastBuildDate>Mon, 26 Jul 2010 15:11:00 +0300</lastBuildDate><item><title>Bonțida</title><link>/bontida/</link><description>&lt;p&gt;Ultima dată am fost la Bonțida în urmă cu vreo 6 ani. Lucrările la
 castel începuseră deja de câțiva ani atunci și eram curios să aflu ce
 s-a mai întâmplat între timp. Astfel că mi-am făcut un traseu până la
 Bonțida pe drumuri cât mai puțin circulate și mai pitorești.&lt;/p&gt;
@@ -75,4 +75,4 @@ Undefined substitution referenced: &amp;quot;Castelul Banffy de la Bonțida&amp;
 &lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;/home/local/3PILLAR/mmocanu/work/blog.mvmocanu.com/content/bontida.rst&lt;/tt&gt;, line 69); &lt;em&gt;&lt;a href="#id4"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 Undefined substitution referenced: &amp;quot;Castelul Banffy de la Bonțida&amp;quot;.&lt;/div&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">admin</dc:creator><pubDate>Mon, 26 Jul 2010 15:11:00 +0300</pubDate><guid>tag:mvmocanu.github.io/blog.mvmocanu.com,2010-07-26:bontida/</guid><category>50-100km</category><category>bontida</category><category>fanatele clujului</category><category>offroad</category></item></channel></rss>
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">admin</dc:creator><pubDate>Mon, 26 Jul 2010 15:11:00 +0300</pubDate><guid>tag:,2010-07-26:bontida/</guid><category>50-100km</category><category>bontida</category><category>fanatele clujului</category><category>offroad</category></item></channel></rss>

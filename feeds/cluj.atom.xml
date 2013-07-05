@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>blog</title><link href="http://mvmocanu.github.io/blog.mvmocanu.com/" rel="alternate"></link><link href="http://mvmocanu.github.io/blog.mvmocanu.com/feeds/cluj.atom.xml" rel="self"></link><id>http://mvmocanu.github.io/blog.mvmocanu.com/</id><updated>2012-07-21T23:53:00+03:00</updated><entry><title>The View - Rooftop party - Alpha Business Center (Cluj-Napoca)</title><link href="http://mvmocanu.github.io/blog.mvmocanu.com/the-view-rooftop-party-alpha-business-center-cluj-napoca/" rel="alternate"></link><updated>2012-07-21T23:53:00+03:00</updated><author><name>mihai</name></author><id>tag:mvmocanu.github.io/blog.mvmocanu.com,2012-07-21:the-view-rooftop-party-alpha-business-center-cluj-napoca/</id><summary type="html">&lt;ul class="simple"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>blog</title><link href="/" rel="alternate"></link><link href="/feeds/cluj.atom.xml" rel="self"></link><id>/</id><updated>2012-07-21T23:53:00+03:00</updated><entry><title>The View - Rooftop party - Alpha Business Center (Cluj-Napoca)</title><link href="/the-view-rooftop-party-alpha-business-center-cluj-napoca/" rel="alternate"></link><updated>2012-07-21T23:53:00+03:00</updated><author><name>mihai</name></author><id>tag:,2012-07-21:the-view-rooftop-party-alpha-business-center-cluj-napoca/</id><summary type="html">&lt;ul class="simple"&gt;
 &lt;li&gt;&lt;strong&gt;Data:&lt;/strong&gt; Sâmbătă, 21 iulie 2012&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Locaţie&lt;/strong&gt; Strada Frunzisului, nr 75, Alpha Business Center,
 Cluj-Napoca&lt;/li&gt;
@@ -32,7 +32,7 @@ Aşteptăm un răspuns.&lt;/p&gt;
 &lt;p&gt;Noapte bună, Mănăştur.&lt;/p&gt;
 &lt;p&gt;PS către presă: puteţi folosi absolut orice din acest articol pentru a
 scrie despre această petrecere fabuloasă.&lt;/p&gt;
-</summary><category term="cluj"></category><category term="customer support"></category><category term="dezolant"></category></entry><entry><title>Cu bicicleta prin Cluj-Napoca</title><link href="http://mvmocanu.github.io/blog.mvmocanu.com/cum-ma-deplasez-cu-bicicleta-prin-cluj-napoca/" rel="alternate"></link><updated>2012-07-03T12:05:00+03:00</updated><author><name>admin</name></author><id>tag:mvmocanu.github.io/blog.mvmocanu.com,2012-07-03:cum-ma-deplasez-cu-bicicleta-prin-cluj-napoca/</id><summary type="html">&lt;p&gt;Circul de prin 2010 cu bicicleta prin Cluj. Am mers cu ea în tot felul
+</summary><category term="cluj"></category><category term="customer support"></category><category term="dezolant"></category></entry><entry><title>Cu bicicleta prin Cluj-Napoca</title><link href="/cum-ma-deplasez-cu-bicicleta-prin-cluj-napoca/" rel="alternate"></link><updated>2012-07-03T12:05:00+03:00</updated><author><name>admin</name></author><id>tag:,2012-07-03:cum-ma-deplasez-cu-bicicleta-prin-cluj-napoca/</id><summary type="html">&lt;p&gt;Circul de prin 2010 cu bicicleta prin Cluj. Am mers cu ea în tot felul
 de condiții (pe ploaie, pe zăpadă). Și cred că nu e chiar atât de
 periculos pe cât pare.&lt;/p&gt;
 &lt;p&gt;Când sunt cu bicicleta am posibilitatea să fiu pieton sau vehicul sau
@@ -146,7 +146,7 @@ serviciu|&lt;/span&gt;&lt;/a&gt; image:: &lt;a class="reference external" href="
 &lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;/home/local/3PILLAR/mmocanu/work/blog.mvmocanu.com/content/cum-ma-deplasez-cu-bicicleta-prin-cluj-napoca.rst&lt;/tt&gt;, line 73); &lt;em&gt;&lt;a href="#id6"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 Undefined substitution referenced: &amp;quot;Trasee posibile pe care merg de-acasă la serviciu&amp;quot;.&lt;/div&gt;
 &lt;/div&gt;
-</summary><category term="articole"></category><category term="cluj"></category><category term="cu bicicleta"></category><category term="howto"></category><category term="recomandari"></category></entry><entry><title>Software-ul liber și microsoft</title><link href="http://mvmocanu.github.io/blog.mvmocanu.com/software-ul-liber-si-microsoft/" rel="alternate"></link><updated>2008-05-22T15:57:00+03:00</updated><author><name>admin</name></author><id>tag:mvmocanu.github.io/blog.mvmocanu.com,2008-05-22:software-ul-liber-si-microsoft/</id><summary type="html">&lt;p&gt;În data de 24 mai 2008 &lt;a class="reference external" href="http://softwareliber.ro"&gt;Grupul pentru software liber&lt;/a&gt; trebuia să țină o
+</summary><category term="articole"></category><category term="cluj"></category><category term="cu bicicleta"></category><category term="howto"></category><category term="recomandari"></category></entry><entry><title>Software-ul liber și microsoft</title><link href="/software-ul-liber-si-microsoft/" rel="alternate"></link><updated>2008-05-22T15:57:00+03:00</updated><author><name>admin</name></author><id>tag:,2008-05-22:software-ul-liber-si-microsoft/</id><summary type="html">&lt;p&gt;În data de 24 mai 2008 &lt;a class="reference external" href="http://softwareliber.ro"&gt;Grupul pentru software liber&lt;/a&gt; trebuia să țină o
 prezentare în cadrul Concursului de informatica aplicată (etapa
 națională). Subiectul prezentării era avantajele softwarelui liber și
 ale sistemelor deschise în educație. La această competiție printre
@@ -154,7 +154,7 @@ sponsori este și microsoft. Ei bine, microsoft a cerut să se renunțe la
 prezentare altfel renunță ei la a mai sponsoriza evenimentul. Normal,
 Inspectoratul Județean Cluj a ales banii, iar prezentarea s-a anulat.&lt;/p&gt;
 &lt;p&gt;Mai multe detalii în &lt;a class="reference external" href="http://www.softwareliber.ro/2008/05/21/avantajele-softului-liber-in-educatie-24-mai-2008"&gt;postul publicat&lt;/a&gt; pe &lt;a class="reference external" href="http://softwareliber.ro"&gt;softwareliber.ro&lt;/a&gt;&lt;/p&gt;
-</summary><category term="cluj"></category><category term="dezolant"></category><category term="tech"></category></entry><entry><title>Cum mi-am recuperat eu banii de la POLI</title><link href="http://mvmocanu.github.io/blog.mvmocanu.com/cum-mi-am-recuperat-eu-banii-de-la-poli/" rel="alternate"></link><updated>2007-09-28T16:24:00+03:00</updated><author><name>admin</name></author><id>tag:mvmocanu.github.io/blog.mvmocanu.com,2007-09-28:cum-mi-am-recuperat-eu-banii-de-la-poli/</id><summary type="html">&lt;p&gt;Eu sunt student la Universitatea Tehnica din Cluj - Napoca, la
+</summary><category term="cluj"></category><category term="dezolant"></category><category term="tech"></category></entry><entry><title>Cum mi-am recuperat eu banii de la POLI</title><link href="/cum-mi-am-recuperat-eu-banii-de-la-poli/" rel="alternate"></link><updated>2007-09-28T16:24:00+03:00</updated><author><name>admin</name></author><id>tag:,2007-09-28:cum-mi-am-recuperat-eu-banii-de-la-poli/</id><summary type="html">&lt;p&gt;Eu sunt student la Universitatea Tehnica din Cluj - Napoca, la
 Facultatea de Automatica si Calculatoare. Din motive obiective, am avut
 4 restante in toamna, din care am luat 3 si am ramas cu 1. Restanta
 care-am picat-o si in toamna am vrut s-o dau in re-uri.&lt;/p&gt;
@@ -220,7 +220,7 @@ asemenea e foarte interesanta birocratia prin care trebuie sa treci
 pentru a recupera niste bani.&lt;/p&gt;
 &lt;p&gt;Daca veti avea astfel de probleme in viitor, nu pot decat sa va urez
 succes!&lt;/p&gt;
-</summary><category term="cluj"></category><category term="dezolant"></category><category term="people"></category><category term="romania"></category><category term="utcn"></category></entry><entry><title>Politia rutiera recomanda</title><link href="http://mvmocanu.github.io/blog.mvmocanu.com/politia-rutiere-recomanda/" rel="alternate"></link><updated>2007-07-23T13:19:00+03:00</updated><author><name>admin</name></author><id>tag:mvmocanu.github.io/blog.mvmocanu.com,2007-07-23:politia-rutiere-recomanda/</id><summary type="html">&lt;p&gt;Acest inceput de propozitie il citesc/aud in toate stirile care au
+</summary><category term="cluj"></category><category term="dezolant"></category><category term="people"></category><category term="romania"></category><category term="utcn"></category></entry><entry><title>Politia rutiera recomanda</title><link href="/politia-rutiere-recomanda/" rel="alternate"></link><updated>2007-07-23T13:19:00+03:00</updated><author><name>admin</name></author><id>tag:,2007-07-23:politia-rutiere-recomanda/</id><summary type="html">&lt;p&gt;Acest inceput de propozitie il citesc/aud in toate stirile care au
 legatura cu accidentele de circulatie. &amp;quot;Politia rutiera recomanda&amp;quot; sa nu
 se treaca strada prin locuri nepermise, sa se respecte regulile de
 circulatie samd. Dar politia rutiera se opreste doar la recomandari,
@@ -235,7 +235,7 @@ drumul. Dupa ce o sa fie ceva accident grav in acea zona, pe langa
 recomandarile politistilor, probabil voi vedea si niste masuri. Pana
 atunci, raman cu recomandari si cu masina de politie mergand mai departe
 nepasatoare.&lt;/p&gt;
-</summary><category term="cluj"></category><category term="dezolant"></category><category term="people"></category><category term="romania"></category></entry><entry><title>Mindbomb - Avram Iancu</title><link href="http://mvmocanu.github.io/blog.mvmocanu.com/mindbomb-avram-iancu/" rel="alternate"></link><updated>2007-07-22T02:58:00+03:00</updated><author><name>admin</name></author><id>tag:mvmocanu.github.io/blog.mvmocanu.com,2007-07-22:mindbomb-avram-iancu/</id><summary type="html">&lt;p&gt;&lt;a href="#id1"&gt;&lt;span class="problematic" id="id2"&gt;`|image0|`_&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+</summary><category term="cluj"></category><category term="dezolant"></category><category term="people"></category><category term="romania"></category></entry><entry><title>Mindbomb - Avram Iancu</title><link href="/mindbomb-avram-iancu/" rel="alternate"></link><updated>2007-07-22T02:58:00+03:00</updated><author><name>admin</name></author><id>tag:,2007-07-22:mindbomb-avram-iancu/</id><summary type="html">&lt;p&gt;&lt;a href="#id1"&gt;&lt;span class="problematic" id="id2"&gt;`|image0|`_&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://mindbomb.ro"&gt;Mindbomb&lt;/a&gt; &lt;a class="reference external" href="http://mindbomb.ro/index.php?mod=sub_actiuni&amp;amp;id=9&amp;amp;lang=RO"&gt;descrie&lt;/a&gt; actiunea. Mai multe poze facute pe strada cu
 afisul, sunt &lt;a class="reference external" href="http://mindbomb.ro/index.php?mod=sub_actiuni&amp;amp;id=10&amp;amp;lang=RO"&gt;aici&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;De asemenea, &lt;a class="reference external" href="http://clujeanul.ro"&gt;Clujeanul&lt;/a&gt; a initiat o &lt;a class="reference external" href="http://www.petitiononline.com/iancu/"&gt;petitie&lt;/a&gt; pentru schimbarea
@@ -246,7 +246,7 @@ statuii.&lt;/p&gt;
 &lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;/home/local/3PILLAR/mmocanu/work/blog.mvmocanu.com/content/mindbomb-avram-iancu.rst&lt;/tt&gt;, line 9); &lt;em&gt;&lt;a href="#id2"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 Unknown target name: &amp;quot;|image0|&amp;quot;.&lt;/div&gt;
 &lt;/div&gt;
-</summary><category term="cluj"></category><category term="pictures"></category><category term="places"></category></entry><entry><title>Traim in Romania si aste ne ocupa tot timpu`!</title><link href="http://mvmocanu.github.io/blog.mvmocanu.com/traim-in-romania-si-aste-ne-ocupa-tot-timpu/" rel="alternate"></link><updated>2007-06-25T17:29:00+03:00</updated><author><name>admin</name></author><id>tag:mvmocanu.github.io/blog.mvmocanu.com,2007-06-25:traim-in-romania-si-aste-ne-ocupa-tot-timpu/</id><summary type="html">&lt;p&gt;Vin si eu ca tot omu de la serviciu si cand ajung aproape de casa, un ou
+</summary><category term="cluj"></category><category term="pictures"></category><category term="places"></category></entry><entry><title>Traim in Romania si aste ne ocupa tot timpu`!</title><link href="/traim-in-romania-si-aste-ne-ocupa-tot-timpu/" rel="alternate"></link><updated>2007-06-25T17:29:00+03:00</updated><author><name>admin</name></author><id>tag:,2007-06-25:traim-in-romania-si-aste-ne-ocupa-tot-timpu/</id><summary type="html">&lt;p&gt;Vin si eu ca tot omu de la serviciu si cand ajung aproape de casa, un ou
 la 2 metri de mine. Venit de sus. De foarte sus. Probabil tinta era
 capul meu.&lt;/p&gt;
 &lt;p&gt;Mai pe larg...&lt;/p&gt;
@@ -276,7 +276,7 @@ termini a opta).&lt;/p&gt;
 &lt;p&gt;Hmmm. Educatia in Romania este o educatie foarte stabila in timp. O tara
 in care e foarte bine sa-ti educi copilu` intr-un sistem educational
 atat de stabil. Recomand sa nu emigrati din aceasta minunata tara. NOT!&lt;/p&gt;
-</summary><category term="cluj"></category><category term="dezolant"></category><category term="people"></category><category term="romania"></category></entry><entry><title>BRD Studcard</title><link href="http://mvmocanu.github.io/blog.mvmocanu.com/brd-studcard/" rel="alternate"></link><updated>2007-06-19T22:11:00+03:00</updated><author><name>admin</name></author><id>tag:mvmocanu.github.io/blog.mvmocanu.com,2007-06-19:brd-studcard/</id><summary type="html">&lt;p&gt;In urma cu aproximativ o luna am vrut sa-mi fac Studcard. Am fost la
+</summary><category term="cluj"></category><category term="dezolant"></category><category term="people"></category><category term="romania"></category></entry><entry><title>BRD Studcard</title><link href="/brd-studcard/" rel="alternate"></link><updated>2007-06-19T22:11:00+03:00</updated><author><name>admin</name></author><id>tag:,2007-06-19:brd-studcard/</id><summary type="html">&lt;p&gt;In urma cu aproximativ o luna am vrut sa-mi fac Studcard. Am fost la
 BRD, acolo nu mai aveau fise de completat pentru Studcard, dar am aflat
 ceva interesant. Se poate face cererea si pe net si la banca trebuie sa
 mergi cu carnetul, cu 16 roni, din care 6 pentru cont si 10 taxa de
@@ -329,7 +329,7 @@ Unknown target name: &amp;quot;|image0|&amp;quot;.&lt;/div&gt;
 &lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;/home/local/3PILLAR/mmocanu/work/blog.mvmocanu.com/content/brd-studcard.rst&lt;/tt&gt;, line 28); &lt;em&gt;&lt;a href="#id4"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 Unknown target name: &amp;quot;|image1|&amp;quot;.&lt;/div&gt;
 &lt;/div&gt;
-</summary><category term="cluj"></category><category term="dezolant"></category><category term="studentie"></category></entry><entry><title>Porumbeii</title><link href="http://mvmocanu.github.io/blog.mvmocanu.com/porumbeii/" rel="alternate"></link><updated>2007-06-19T09:38:00+03:00</updated><author><name>admin</name></author><id>tag:mvmocanu.github.io/blog.mvmocanu.com,2007-06-19:porumbeii/</id><summary type="html">&lt;p&gt;&lt;a href="#id1"&gt;&lt;span class="problematic" id="id2"&gt;`|image0|`_&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+</summary><category term="cluj"></category><category term="dezolant"></category><category term="studentie"></category></entry><entry><title>Porumbeii</title><link href="/porumbeii/" rel="alternate"></link><updated>2007-06-19T09:38:00+03:00</updated><author><name>admin</name></author><id>tag:,2007-06-19:porumbeii/</id><summary type="html">&lt;p&gt;&lt;a href="#id1"&gt;&lt;span class="problematic" id="id2"&gt;`|image0|`_&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 De mai multe zile tot dau tarcoale balconului meu. Vor sa-si faca cuib&lt;/blockquote&gt;
 &lt;div class="system-message"&gt;

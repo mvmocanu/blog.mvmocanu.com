@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>blog</title><link>http://mvmocanu.github.io/blog.mvmocanu.com/</link><description></description><atom:link href="http://mvmocanu.github.io/blog.mvmocanu.com/feeds/banda-rosie.rss.xml" rel="self"></atom:link><lastBuildDate>Mon, 24 Aug 2009 16:03:00 +0300</lastBuildDate><item><title>Spre Cheile Turzii</title><link>http://mvmocanu.github.io/blog.mvmocanu.com/spre-cheile-turzii/</link><description>&lt;p&gt;Intr-o frumoasa zi de duminica ne-am gandit sa mergem spre Cheile
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>blog</title><link>/</link><description></description><atom:link href="/feeds/banda-rosie.rss.xml" rel="self"></atom:link><lastBuildDate>Mon, 24 Aug 2009 16:03:00 +0300</lastBuildDate><item><title>Spre Cheile Turzii</title><link>/spre-cheile-turzii/</link><description>&lt;p&gt;Intr-o frumoasa zi de duminica ne-am gandit sa mergem spre Cheile
 Turzii. Traseul este identic pana la Casele Micesti cu &lt;a class="reference external" href="http://blog.mvmocanu.com/varful-peana/"&gt;traseul inspre
 Vf. Peana&lt;/a&gt;, doar ca la intersectia de la Casele Micesti se ia catre
 est, urmand traseul marcat cu banda rosie.&lt;/p&gt;
@@ -50,7 +50,7 @@ Undefined substitution referenced: &amp;quot;Norii aducatori de ploaie&amp;quot;
 &lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;/home/local/3PILLAR/mmocanu/work/blog.mvmocanu.com/content/spre-cheile-turzii.rst&lt;/tt&gt;, line 40); &lt;em&gt;&lt;a href="#id6"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 Undefined substitution referenced: &amp;quot;Norii aducatori de ploaie&amp;quot;.&lt;/div&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">admin</dc:creator><pubDate>Mon, 24 Aug 2009 16:03:00 +0300</pubDate><guid>tag:mvmocanu.github.io/blog.mvmocanu.com,2009-08-24:spre-cheile-turzii/</guid><category>&amp;lt;50 km</category><category>banda rosie</category><category>cheile turzii</category><category>offroad</category></item><item><title>Varful Peana si Lacul Micesti</title><link>http://mvmocanu.github.io/blog.mvmocanu.com/varful-peana/</link><description>&lt;p&gt;La intersectia strazilor Sf. Ioan cu Fagetului incepe un drum spre
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">admin</dc:creator><pubDate>Mon, 24 Aug 2009 16:03:00 +0300</pubDate><guid>tag:,2009-08-24:spre-cheile-turzii/</guid><category>&amp;lt;50 km</category><category>banda rosie</category><category>cheile turzii</category><category>offroad</category></item><item><title>Varful Peana si Lacul Micesti</title><link>/varful-peana/</link><description>&lt;p&gt;La intersectia strazilor Sf. Ioan cu Fagetului incepe un drum spre
 sud-est, care coincide cu marcajul banda rosie. Se urca pe acest drum
 pana la prima intersectie, unde se ia la stanga pe un drum intarit cu
 ciripuri (are culoarea rosie :)). Se ajunge la un leagan, dupa care
@@ -121,4 +121,4 @@ Undefined substitution referenced: &amp;quot;De pe Vf. Peana&amp;quot;.&lt;/div&
 &lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;/home/local/3PILLAR/mmocanu/work/blog.mvmocanu.com/content/varful-peana.rst&lt;/tt&gt;, line 56); &lt;em&gt;&lt;a href="#id8"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 Undefined substitution referenced: &amp;quot;Pe marcajul cruce albastra&amp;quot;.&lt;/div&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">admin</dc:creator><pubDate>Sun, 23 Aug 2009 16:04:00 +0300</pubDate><guid>tag:mvmocanu.github.io/blog.mvmocanu.com,2009-08-23:varful-peana/</guid><category>&amp;lt;50 km</category><category>banda rosie</category><category>crucea albastra</category><category>offroad</category><category>vf peana</category></item></channel></rss>
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">admin</dc:creator><pubDate>Sun, 23 Aug 2009 16:04:00 +0300</pubDate><guid>tag:,2009-08-23:varful-peana/</guid><category>&amp;lt;50 km</category><category>banda rosie</category><category>crucea albastra</category><category>offroad</category><category>vf peana</category></item></channel></rss>

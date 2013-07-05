@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>blog</title><link>http://mvmocanu.github.io/blog.mvmocanu.com/</link><description></description><atom:link href="http://mvmocanu.github.io/blog.mvmocanu.com/feeds/suceagu.rss.xml" rel="self"></atom:link><lastBuildDate>Wed, 25 Aug 2010 11:30:00 +0300</lastBuildDate><item><title>Hoia - Suceagu</title><link>http://mvmocanu.github.io/blog.mvmocanu.com/hoia-suceag/</link><description>&lt;p&gt;Împreună cu Melania am facut o tură de relaxare după ce în urmă cu o zi
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>blog</title><link>/</link><description></description><atom:link href="/feeds/suceagu.rss.xml" rel="self"></atom:link><lastBuildDate>Wed, 25 Aug 2010 11:30:00 +0300</lastBuildDate><item><title>Hoia - Suceagu</title><link>/hoia-suceag/</link><description>&lt;p&gt;Împreună cu Melania am facut o tură de relaxare după ce în urmă cu o zi
 fusesem până la &lt;a class="reference external" href="http://blog.mvmocanu.com/muntele-mare/"&gt;Muntele Mare&lt;/a&gt;. Am decis să mergem prin Hoia și să
 coborâm în Suceagu. Nu mai fusesem niciodată în Suceagu, dar știam că
 drumurile din Hoia sunt frumoase și foarte bune de relaxare.&lt;/p&gt;
@@ -79,4 +79,4 @@ Undefined substitution referenced: &amp;quot;Valea Someșului și Gilău&amp;quo
 &lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;/home/local/3PILLAR/mmocanu/work/blog.mvmocanu.com/content/hoia-suceag.rst&lt;/tt&gt;, line 72); &lt;em&gt;&lt;a href="#id6"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 Undefined substitution referenced: &amp;quot;Valea Someșului și Gilău&amp;quot;.&lt;/div&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">admin</dc:creator><pubDate>Wed, 25 Aug 2010 11:30:00 +0300</pubDate><guid>tag:mvmocanu.github.io/blog.mvmocanu.com,2010-08-25:hoia-suceag/</guid><category>hoia</category><category>offroad</category><category>suceagu</category></item></channel></rss>
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">admin</dc:creator><pubDate>Wed, 25 Aug 2010 11:30:00 +0300</pubDate><guid>tag:,2010-08-25:hoia-suceag/</guid><category>hoia</category><category>offroad</category><category>suceagu</category></item></channel></rss>

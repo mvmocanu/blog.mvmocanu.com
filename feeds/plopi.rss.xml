@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>blog</title><link>http://mvmocanu.github.io/blog.mvmocanu.com/</link><description></description><atom:link href="http://mvmocanu.github.io/blog.mvmocanu.com/feeds/plopi.rss.xml" rel="self"></atom:link><lastBuildDate>Mon, 19 Jul 2010 14:53:00 +0300</lastBuildDate><item><title>Cetatea Lita</title><link>http://mvmocanu.github.io/blog.mvmocanu.com/cetatea-lita/</link><description>&lt;p&gt;Împreună cu Adi și cu Andrei am pornit sâmbătă dimineața spre Cetatea
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>blog</title><link>/</link><description></description><atom:link href="/feeds/plopi.rss.xml" rel="self"></atom:link><lastBuildDate>Mon, 19 Jul 2010 14:53:00 +0300</lastBuildDate><item><title>Cetatea Lita</title><link>/cetatea-lita/</link><description>&lt;p&gt;Împreună cu Adi și cu Andrei am pornit sâmbătă dimineața spre Cetatea
 Lita. Traseul până la Lita este același cu cel descris în postul cu
 &lt;a class="reference external" href="http://blog.mvmocanu.com/statiunea-baisoara-muntele-sacelului/"&gt;tura de la Băișoara&lt;/a&gt; cu mențiunea că în Vălișoara imediat după ce am
 trecut pe sub autostradă am luat-o la dreapta pe un deal foarte abrupt
@@ -95,7 +95,7 @@ Undefined substitution referenced: &amp;quot;Ruinele Cetății Lita&amp;quot;.&l
 &lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;/home/local/3PILLAR/mmocanu/work/blog.mvmocanu.com/content/cetatea-lita.rst&lt;/tt&gt;, line 75); &lt;em&gt;&lt;a href="#id18"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 Undefined substitution referenced: &amp;quot;Cimitirul eroilor de la Plopi&amp;quot;.&lt;/div&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">admin</dc:creator><pubDate>Mon, 19 Jul 2010 14:53:00 +0300</pubDate><guid>tag:mvmocanu.github.io/blog.mvmocanu.com,2010-07-19:cetatea-lita/</guid><category>50-100km</category><category>cetatea lita</category><category>plopi</category><category>valea ierii</category></item><item><title>Valea Ierii</title><link>http://mvmocanu.github.io/blog.mvmocanu.com/valea-ierii/</link><description>&lt;p&gt;De 1 mai ne-am hotărât să mergem la Muntele Băișorii. Am pornit de
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">admin</dc:creator><pubDate>Mon, 19 Jul 2010 14:53:00 +0300</pubDate><guid>tag:,2010-07-19:cetatea-lita/</guid><category>50-100km</category><category>cetatea lita</category><category>plopi</category><category>valea ierii</category></item><item><title>Valea Ierii</title><link>/valea-ierii/</link><description>&lt;p&gt;De 1 mai ne-am hotărât să mergem la Muntele Băișorii. Am pornit de
 dimineață și am avut neplăcuta surpriză să găsim drumul foarte aglomerat
 până la Luna de Sus. Din păcate traficul a fost la fel (nu chiar ca pe
 E60) și după ce am intrat în Luna de Sus. Speram ca din Săvădisla să se
@@ -191,4 +191,4 @@ Undefined substitution referenced: &amp;quot;Între Săcel și Filea de Sus&amp;
 &lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;/home/local/3PILLAR/mmocanu/work/blog.mvmocanu.com/content/valea-ierii.rst&lt;/tt&gt;, line 71); &lt;em&gt;&lt;a href="#id16"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 Undefined substitution referenced: &amp;quot;Sălicea în depărtare&amp;quot;.&lt;/div&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">admin</dc:creator><pubDate>Sun, 02 May 2010 18:32:00 +0300</pubDate><guid>tag:mvmocanu.github.io/blog.mvmocanu.com,2010-05-02:valea-ierii/</guid><category>50-100km</category><category>baisoara</category><category>offroad</category><category>plopi</category><category>salicea</category><category>sosea</category><category>valea ierii</category></item></channel></rss>
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">admin</dc:creator><pubDate>Sun, 02 May 2010 18:32:00 +0300</pubDate><guid>tag:,2010-05-02:valea-ierii/</guid><category>50-100km</category><category>baisoara</category><category>offroad</category><category>plopi</category><category>salicea</category><category>sosea</category><category>valea ierii</category></item></channel></rss>
