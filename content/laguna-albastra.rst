@@ -48,9 +48,6 @@ cu bicicleta dintr-un Cluj destul de aglomerat și prăfuit.
 .. _Clujul Pedalează: http://clujulpedaleaza.ro/
 .. _pagina de facebook: http://www.facebook.com/pedaleaza
 
-.. |La
-drum| image:: http://blog.mvmocanu.com/wp-content/uploads/2011/03/DSC_2356-1024x685.jpg
-.. |Cimitir
-vechi| image:: http://blog.mvmocanu.com/wp-content/uploads/2011/03/DSC_2477-e1330253057547-685x1024.jpg
-.. |Între Gârbău și Căpușu
-Mare| image:: http://blog.mvmocanu.com/wp-content/uploads/2011/03/DSC_2479-1024x685.jpg
+.. |La drum| image:: http://blog.mvmocanu.com/wp-content/uploads/2011/03/DSC_2356-1024x685.jpg
+.. |Cimitir vechi| image:: http://blog.mvmocanu.com/wp-content/uploads/2011/03/DSC_2477-e1330253057547-685x1024.jpg
+.. |Între Gârbău și Căpușu Mare| image:: http://blog.mvmocanu.com/wp-content/uploads/2011/03/DSC_2479-1024x685.jpg
