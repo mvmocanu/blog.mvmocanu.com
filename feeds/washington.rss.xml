@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>blog</title><link>/</link><description></description><atom:link href="/feeds/washington.rss.xml" rel="self"></atom:link><lastBuildDate>Thu, 16 Aug 2007 23:14:00 +0300</lastBuildDate><item><title>Trip la Washington</title><link>/trip-la-washington/</link><description>&lt;p&gt;Weekendul trecut am fost in Washington. A fost frumos, mi-a placut.&lt;/p&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>blog</title><link>http://mvmocanu.github.io/blog.mvmocanu.com/</link><description></description><atom:link href="http://mvmocanu.github.io/blog.mvmocanu.com/feeds/washington.rss.xml" rel="self"></atom:link><lastBuildDate>Thu, 16 Aug 2007 23:14:00 +0300</lastBuildDate><item><title>Trip la Washington</title><link>http://mvmocanu.github.io/blog.mvmocanu.com/trip-la-washington/</link><description>&lt;p&gt;Weekendul trecut am fost in Washington. A fost frumos, mi-a placut.&lt;/p&gt;
 &lt;p&gt;Am mers de dimineata cu un &lt;a class="reference external" href="http://www.greyhound.com/"&gt;autobus&lt;/a&gt;. Trebuia sa pornim la 10.05 am. Am
 pornit abia la ~11 am. Am ajuns in Washington pe la 12pm. Vremea a fost
 frumoasa numa buna pentru plimbare. Umezeala nu era foarte mare, nici
@@ -40,4 +40,4 @@ institutii din USA.&lt;/p&gt;
 &lt;p&gt;Cam asta a fost calatoria noastra la Washington. De mentionat ca la
 intoarcere cei de la Greyhound au plecat aproape la timp si au ajuns in
 Baltimore mai bine decat ne asteptam. :)&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">admin</dc:creator><pubDate>Thu, 16 Aug 2007 23:14:00 +0300</pubDate><guid>tag:,2007-08-16:trip-la-washington/</guid><category>places</category><category>usa</category><category>washington</category></item></channel></rss>
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">admin</dc:creator><pubDate>Thu, 16 Aug 2007 23:14:00 +0300</pubDate><guid>tag:mvmocanu.github.io/blog.mvmocanu.com,2007-08-16:trip-la-washington/</guid><category>places</category><category>usa</category><category>washington</category></item></channel></rss>
