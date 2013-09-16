@@ -160,12 +160,9 @@ a:focus {
     right: 0;
 }
 
-.copyright {
-    margin-top: 30px;
-    text-align: center;
-}
-    .copyright a {
-    font-size: 90%;
+.hr {
+    border-bottom: 1px solid #f2f2f0;
+    margin-bottom: 30px;
 }
 
 .go-top {
