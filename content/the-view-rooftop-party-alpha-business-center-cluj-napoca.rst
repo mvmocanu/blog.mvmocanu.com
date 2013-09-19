@@ -16,20 +16,36 @@ petrecere. Dar realizez că muzica de fapt venea de pe strada Frunzişului
 (varianta Zorilor - Mănăştur). Eu locuiesc în zona Câmpului.
 
 Am căutat puţin pe Google şi-am ajuns pe următoarea pagină:
-.. image:: static/images/rooftop-1.jpg
+
+.. figure:: /static/images/rooftop/rooftop-1.png
+    :alt: info-despre-petrecere
+
+    Info depre petrecere
 
 Muzica pusă la petrecerea asta acoperă toată valea unde se află strada
 Câmpului. În imaginea de mai jos în punctul 1 e petrecerea, iar toată
 zona marcată cu 2 e zona Câmpului, unde muzica se aude foarte tare.
-**<imagine rooftop>**
+
+.. figure:: /static/images/rooftop/rooftop-2.png
+    :alt: zona-afectata-de-petrecere
+
+    Zona afectată de petrecere
 
 Mai jos este o înregistrare video cu zgomotul produs de această
 petrecere. În video, linia de puncte albe este strada Frunzişului, iar
 partea luminoasă din dreaptă dă în strada Câmpului.
 
+.. youtube:: ClvhR6gLz4I
+    :width: 640
+    :height: 480
+
 Şi o imagine cu Alpha Business Center unde se distrează oamenii având o
 panoramă deosebită (pun pariu) asupra Mănăşturului.
-**<imagine rooftop>**
+
+.. figure:: /static/images/rooftop/rooftop-3.jpg
+    :alt: alpha-business-center
+
+    Alpha Business Center
 
 Am sunat la 112 la ora 24:00. Deja ştiau de problemă. Am sunat la ora
 1.30 din nou. Mi-a făcut legătura cu poliţia. Doamna mi-a spus că e
