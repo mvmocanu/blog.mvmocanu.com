@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>blog</title><link href="http://b.mvmocanu.com/" rel="alternate"></link><link href="http://b.mvmocanu.com/feeds/howto.atom.xml" rel="self"></link><id>http://b.mvmocanu.com/</id><updated>2012-07-03T12:05:00+03:00</updated><entry><title>Cu bicicleta prin Cluj-Napoca</title><link href="http://b.mvmocanu.com/cum-ma-deplasez-cu-bicicleta-prin-cluj-napoca/" rel="alternate"></link><updated>2012-07-03T12:05:00+03:00</updated><author><name>admin</name></author><id>tag:b.mvmocanu.com,2012-07-03:cum-ma-deplasez-cu-bicicleta-prin-cluj-napoca/</id><summary type="html">&lt;p&gt;Circul de prin 2010 cu bicicleta prin Cluj. Am mers cu ea în tot felul
+<feed xmlns="http://www.w3.org/2005/Atom"><title>blog</title><link href="http://b.mvmocanu.com/" rel="alternate"></link><link href="http://b.mvmocanu.com/feeds/howto.atom.xml" rel="self"></link><id>http://b.mvmocanu.com/</id><updated>2012-07-03T12:05:00+03:00</updated><entry><title>Cu bicicleta prin Cluj-Napoca</title><link href="http://b.mvmocanu.com/cum-ma-deplasez-cu-bicicleta-prin-cluj-napoca/" rel="alternate"></link><updated>2012-07-03T12:05:00+03:00</updated><author><name>mihai</name></author><id>tag:b.mvmocanu.com,2012-07-03:cum-ma-deplasez-cu-bicicleta-prin-cluj-napoca/</id><summary type="html">&lt;p&gt;Circul de prin 2010 cu bicicleta prin Cluj. Am mers cu ea în tot felul
 de condiții (pe ploaie, pe zăpadă). Și cred că nu e chiar atât de
 periculos pe cât pare.&lt;/p&gt;
 &lt;p&gt;Când sunt cu bicicleta am posibilitatea să fiu pieton sau vehicul sau
 biciclist. Astfel că le pot combina pe toate acestea pentru a ajunge din
 A în B cât mai ușor și mai relaxant cu putință.&lt;/p&gt;
-&lt;div class="system-message"&gt;
-&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;/home/local/3PILLAR/mmocanu/work/blog.mvmocanu.com/content/cum-ma-deplasez-cu-bicicleta-prin-cluj-napoca.rst&lt;/tt&gt;, line 16)&lt;/p&gt;
-Unexpected indentation.&lt;/div&gt;
-&lt;blockquote&gt;
-Cam astea sunt &amp;quot;regulile&amp;quot; pe care le respect:&lt;/blockquote&gt;
+&lt;p&gt;Cam astea sunt &amp;quot;regulile&amp;quot; pe care le respect:&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;Merg și pe trotuar, dar întotdeauna încet și nu claxonez niciodată
 pietonii, acordându-le acestora prioritate întotdeauna. Și o fac
@@ -43,26 +39,26 @@ biblioteca Octavian Goga din Mărăști. Pentru asta foloseam un traseu ca
 cel din imaginea de mai jos, deși aș fi putut s-o iau pe străzi
 principale.&lt;/p&gt;
 &lt;div class="system-message"&gt;
-&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;/home/local/3PILLAR/mmocanu/work/blog.mvmocanu.com/content/cum-ma-deplasez-cu-bicicleta-prin-cluj-napoca.rst&lt;/tt&gt;, line 51)&lt;/p&gt;
+&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;/home/local/3PILLAR/mmocanu/work/blog.mvmocanu.com/content/cum-ma-deplasez-cu-bicicleta-prin-cluj-napoca.rst&lt;/tt&gt;, line 52)&lt;/p&gt;
 Unexpected indentation.&lt;/div&gt;
 &lt;blockquote&gt;
 &lt;p&gt;[caption id=&amp;quot;attachment_719&amp;quot; align=&amp;quot;aligncenter&amp;quot; width=&amp;quot;609&amp;quot;]&lt;a href="#id1"&gt;&lt;span class="problematic" id="id2"&gt;|&lt;/span&gt;&lt;/a&gt;Traseu&lt;/p&gt;
 &lt;div class="system-message" id="id1"&gt;
-&lt;p class="system-message-title"&gt;System Message: WARNING/2 (&lt;tt class="docutils"&gt;/home/local/3PILLAR/mmocanu/work/blog.mvmocanu.com/content/cum-ma-deplasez-cu-bicicleta-prin-cluj-napoca.rst&lt;/tt&gt;, line 51); &lt;em&gt;&lt;a href="#id2"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p class="system-message-title"&gt;System Message: WARNING/2 (&lt;tt class="docutils"&gt;/home/local/3PILLAR/mmocanu/work/blog.mvmocanu.com/content/cum-ma-deplasez-cu-bicicleta-prin-cluj-napoca.rst&lt;/tt&gt;, line 52); &lt;em&gt;&lt;a href="#id2"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 Inline substitution_reference start-string without end-string.&lt;/div&gt;
 &lt;/blockquote&gt;
 &lt;div class="system-message"&gt;
-&lt;p class="system-message-title"&gt;System Message: WARNING/2 (&lt;tt class="docutils"&gt;/home/local/3PILLAR/mmocanu/work/blog.mvmocanu.com/content/cum-ma-deplasez-cu-bicicleta-prin-cluj-napoca.rst&lt;/tt&gt;, line 52)&lt;/p&gt;
+&lt;p class="system-message-title"&gt;System Message: WARNING/2 (&lt;tt class="docutils"&gt;/home/local/3PILLAR/mmocanu/work/blog.mvmocanu.com/content/cum-ma-deplasez-cu-bicicleta-prin-cluj-napoca.rst&lt;/tt&gt;, line 53)&lt;/p&gt;
 Block quote ends without a blank line; unexpected unindent.&lt;/div&gt;
 &lt;p&gt;Calea Turzii - Dorobanților| Traseu Calea Turzii -
 Dorobanților[/caption]&lt;/p&gt;
 &lt;div class="system-message"&gt;
-&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;/home/local/3PILLAR/mmocanu/work/blog.mvmocanu.com/content/cum-ma-deplasez-cu-bicicleta-prin-cluj-napoca.rst&lt;/tt&gt;, line 54)&lt;/p&gt;
+&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;/home/local/3PILLAR/mmocanu/work/blog.mvmocanu.com/content/cum-ma-deplasez-cu-bicicleta-prin-cluj-napoca.rst&lt;/tt&gt;, line 55)&lt;/p&gt;
 Unexpected indentation.&lt;/div&gt;
 &lt;blockquote&gt;
 Folosind acest traseu și alternative am ajuns să cunosc Gheorgheni și&lt;/blockquote&gt;
 &lt;div class="system-message"&gt;
-&lt;p class="system-message-title"&gt;System Message: WARNING/2 (&lt;tt class="docutils"&gt;/home/local/3PILLAR/mmocanu/work/blog.mvmocanu.com/content/cum-ma-deplasez-cu-bicicleta-prin-cluj-napoca.rst&lt;/tt&gt;, line 55)&lt;/p&gt;
+&lt;p class="system-message-title"&gt;System Message: WARNING/2 (&lt;tt class="docutils"&gt;/home/local/3PILLAR/mmocanu/work/blog.mvmocanu.com/content/cum-ma-deplasez-cu-bicicleta-prin-cluj-napoca.rst&lt;/tt&gt;, line 56)&lt;/p&gt;
 Block quote ends without a blank line; unexpected unindent.&lt;/div&gt;
 &lt;p&gt;Andrei Mureșanu foarte bine. Am mers pe străzi pe care n-aș fi intrat
 niciodată cu mașina pentru că mi-ar fi luat mult prea mult timp. Și nici
@@ -72,26 +68,26 @@ cu mașina e foarte urât și aglomerat. Dar cu bicicleta e destul de
 relaxant. În imaginea de mai jos sunt două trasee posibile pe care merg
 de obicei.&lt;/p&gt;
 &lt;div class="system-message"&gt;
-&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;/home/local/3PILLAR/mmocanu/work/blog.mvmocanu.com/content/cum-ma-deplasez-cu-bicicleta-prin-cluj-napoca.rst&lt;/tt&gt;, line 63)&lt;/p&gt;
+&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;/home/local/3PILLAR/mmocanu/work/blog.mvmocanu.com/content/cum-ma-deplasez-cu-bicicleta-prin-cluj-napoca.rst&lt;/tt&gt;, line 64)&lt;/p&gt;
 Unexpected indentation.&lt;/div&gt;
 &lt;blockquote&gt;
 &lt;p&gt;[caption id=&amp;quot;attachment_725&amp;quot; align=&amp;quot;aligncenter&amp;quot; width=&amp;quot;901&amp;quot;]&lt;a href="#id3"&gt;&lt;span class="problematic" id="id4"&gt;|&lt;/span&gt;&lt;/a&gt;Trasee&lt;/p&gt;
 &lt;div class="system-message" id="id3"&gt;
-&lt;p class="system-message-title"&gt;System Message: WARNING/2 (&lt;tt class="docutils"&gt;/home/local/3PILLAR/mmocanu/work/blog.mvmocanu.com/content/cum-ma-deplasez-cu-bicicleta-prin-cluj-napoca.rst&lt;/tt&gt;, line 63); &lt;em&gt;&lt;a href="#id4"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p class="system-message-title"&gt;System Message: WARNING/2 (&lt;tt class="docutils"&gt;/home/local/3PILLAR/mmocanu/work/blog.mvmocanu.com/content/cum-ma-deplasez-cu-bicicleta-prin-cluj-napoca.rst&lt;/tt&gt;, line 64); &lt;em&gt;&lt;a href="#id4"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 Inline substitution_reference start-string without end-string.&lt;/div&gt;
 &lt;/blockquote&gt;
 &lt;div class="system-message"&gt;
-&lt;p class="system-message-title"&gt;System Message: WARNING/2 (&lt;tt class="docutils"&gt;/home/local/3PILLAR/mmocanu/work/blog.mvmocanu.com/content/cum-ma-deplasez-cu-bicicleta-prin-cluj-napoca.rst&lt;/tt&gt;, line 64)&lt;/p&gt;
+&lt;p class="system-message-title"&gt;System Message: WARNING/2 (&lt;tt class="docutils"&gt;/home/local/3PILLAR/mmocanu/work/blog.mvmocanu.com/content/cum-ma-deplasez-cu-bicicleta-prin-cluj-napoca.rst&lt;/tt&gt;, line 65)&lt;/p&gt;
 Block quote ends without a blank line; unexpected unindent.&lt;/div&gt;
 &lt;p&gt;posibile pe care merg de-acasă la serviciu| Trasee posibile pe care merg
 de-acasă la serviciu[/caption]&lt;/p&gt;
 &lt;div class="system-message"&gt;
-&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;/home/local/3PILLAR/mmocanu/work/blog.mvmocanu.com/content/cum-ma-deplasez-cu-bicicleta-prin-cluj-napoca.rst&lt;/tt&gt;, line 66)&lt;/p&gt;
+&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;/home/local/3PILLAR/mmocanu/work/blog.mvmocanu.com/content/cum-ma-deplasez-cu-bicicleta-prin-cluj-napoca.rst&lt;/tt&gt;, line 67)&lt;/p&gt;
 Unexpected indentation.&lt;/div&gt;
 &lt;blockquote&gt;
 Cel cu roz e cel mai rapid (și legal pentru că pe linia de troleu de pe&lt;/blockquote&gt;
 &lt;div class="system-message"&gt;
-&lt;p class="system-message-title"&gt;System Message: WARNING/2 (&lt;tt class="docutils"&gt;/home/local/3PILLAR/mmocanu/work/blog.mvmocanu.com/content/cum-ma-deplasez-cu-bicicleta-prin-cluj-napoca.rst&lt;/tt&gt;, line 67)&lt;/p&gt;
+&lt;p class="system-message-title"&gt;System Message: WARNING/2 (&lt;tt class="docutils"&gt;/home/local/3PILLAR/mmocanu/work/blog.mvmocanu.com/content/cum-ma-deplasez-cu-bicicleta-prin-cluj-napoca.rst&lt;/tt&gt;, line 68)&lt;/p&gt;
 Block quote ends without a blank line; unexpected unindent.&lt;/div&gt;
 &lt;p&gt;Memo și 21 Decembrie e legal să circuli cu bicicleta). Cel cu roșu e cel
 mai relaxant. Ca și comparație pe traseul roz am făcut 5.55km în 16
@@ -99,10 +95,10 @@ minute, iar pe cel cu roșu am făcut 6.29 km in 25 de minute. Deci drumul
 a fost mai lung cu vreo 700 de metri și 9 minute, dar mult mai relaxant.&lt;/p&gt;
 &lt;!-- |Traseu Calea Turzii - --&gt;
 &lt;div class="system-message"&gt;
-&lt;p class="system-message-title"&gt;System Message: WARNING/2 (&lt;tt class="docutils"&gt;/home/local/3PILLAR/mmocanu/work/blog.mvmocanu.com/content/cum-ma-deplasez-cu-bicicleta-prin-cluj-napoca.rst&lt;/tt&gt;, line 72)&lt;/p&gt;
+&lt;p class="system-message-title"&gt;System Message: WARNING/2 (&lt;tt class="docutils"&gt;/home/local/3PILLAR/mmocanu/work/blog.mvmocanu.com/content/cum-ma-deplasez-cu-bicicleta-prin-cluj-napoca.rst&lt;/tt&gt;, line 73)&lt;/p&gt;
 malformed substitution definition.&lt;/div&gt;
 &lt;div class="system-message"&gt;
-&lt;p class="system-message-title"&gt;System Message: WARNING/2 (&lt;tt class="docutils"&gt;/home/local/3PILLAR/mmocanu/work/blog.mvmocanu.com/content/cum-ma-deplasez-cu-bicicleta-prin-cluj-napoca.rst&lt;/tt&gt;, line 73)&lt;/p&gt;
+&lt;p class="system-message-title"&gt;System Message: WARNING/2 (&lt;tt class="docutils"&gt;/home/local/3PILLAR/mmocanu/work/blog.mvmocanu.com/content/cum-ma-deplasez-cu-bicicleta-prin-cluj-napoca.rst&lt;/tt&gt;, line 74)&lt;/p&gt;
 Explicit markup ends without a blank line; unexpected unindent.&lt;/div&gt;
 &lt;p&gt;Dorobanților| image:: &lt;a class="reference external" href="http://blog.mvmocanu.com/wp-content/uploads/2012/06/Screenshot.png"&gt;http://blog.mvmocanu.com/wp-content/uploads/2012/06/Screenshot.png&lt;/a&gt;
 .. &lt;a href="#id5"&gt;&lt;span class="problematic" id="id6"&gt;|Trasee posibile pe care merg de-acasă la
@@ -110,7 +106,7 @@ serviciu|&lt;/span&gt;&lt;/a&gt; image:: &lt;a class="reference external" href="
 &lt;div class="system-messages section"&gt;
 &lt;h2&gt;Docutils System Messages&lt;/h2&gt;
 &lt;div class="system-message" id="id5"&gt;
-&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;/home/local/3PILLAR/mmocanu/work/blog.mvmocanu.com/content/cum-ma-deplasez-cu-bicicleta-prin-cluj-napoca.rst&lt;/tt&gt;, line 73); &lt;em&gt;&lt;a href="#id6"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;/home/local/3PILLAR/mmocanu/work/blog.mvmocanu.com/content/cum-ma-deplasez-cu-bicicleta-prin-cluj-napoca.rst&lt;/tt&gt;, line 74); &lt;em&gt;&lt;a href="#id6"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 Undefined substitution referenced: &amp;quot;Trasee posibile pe care merg de-acasă la serviciu&amp;quot;.&lt;/div&gt;
 &lt;/div&gt;
 </summary><category term="articole"></category><category term="cluj"></category><category term="cu bicicleta"></category><category term="howto"></category><category term="recomandari"></category></entry><entry><title>How to swim</title><link href="http://b.mvmocanu.com/how-to-swim/" rel="alternate"></link><updated>2008-08-20T23:53:00+03:00</updated><author><name>admin</name></author><id>tag:b.mvmocanu.com,2008-08-20:how-to-swim/</id><summary type="html">&lt;p&gt;Pana vara asta nu intrasem niciodata intr-o piscina olimpica sau intr-o
