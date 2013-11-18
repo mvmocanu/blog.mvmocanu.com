@@ -1,10 +1,15 @@
 Laguna Albastră
 ###############
 :date: 2011-03-17 23:59
-:author: admin
+:author: mihai
 :category: Cu bicicleta
 :tags: 50-100km, laguna albastra, sosea
 :slug: laguna-albastra
+
+* Data: Duminică, 13 martie 2011
+* Participanți: aproximativ 20 de persoane
+* Poze: `făcute de mine`_ sau `aici`_ făcute de echipa Clujul Pedalează
+* Harta: pe `GPSies`_
 
 `Clujul Pedalează`_ a organizat o tură de început de primăvară până la
 Laguna Albastră. Au anunțat tura pe `pagina de facebook`_ și s-au strâns
@@ -12,17 +17,22 @@ Laguna Albastră. Au anunțat tura pe `pagina de facebook`_ și s-au strâns
 venit. Probabil și din cauza activității celor de la **Clujul
 Pedalează** din ultima vreme.
 
-[caption id="attachment\_427" align="alignnone" width="584" caption="La
-drum"]\ |La drum|\ [/caption]
- Astfel la ora 10.20 am pornit în șir indian pe drumul european ce duce
+.. figure:: /static/images/laguna-albastra/img1.jpg
+    :alt: la-drum
+
+    La drum
+
+Astfel la ora 10.20 am pornit în șir indian pe drumul european ce duce
 către Zalău, urmând să părăsim drumul european cu direcția Aghireșu. Pe
 șoseaua secundară au fost puține mașini și am putut pedala în grup fără
 grija lor. Am trecut si pe lângă un fel de biserică (cred că ungurească)
 cu cimitir foarte frumos și vechi care era situată între Gârbău și
 Aghireș Fabrici.
 
-[caption id="attachment\_428" align="alignnone" width="584"
-caption="Cimitir vechi"]\ |Cimitir vechi|\ [/caption]
+.. figure:: /static/images/laguna-albastra/img2.jpg
+    :alt: cimitir
+
+    Cimitir vechi
 
 Laguna albastră era înghețată și era ceva noroi pe-acolo, dar important
 și de multe ori mai frumos e drumul până la destinație. Astfel că a
@@ -37,9 +47,10 @@ venit în șir indian. Probleme în trafic n-am avut, doar puține mașini,
 considerând că trebuie să ne atenționeze că se apropie ne-au claxonat,
 desi nu era necesar.
 
-[caption id="attachment\_429" align="alignnone" width="584"
-caption="Între Gârbău și Căpușu Mare"]\ |Între Gârbău și Căpușu
-Mare|\ [/caption]
+.. figure:: /static/images/laguna-albastra/img3.jpg
+    :alt: intre-garbau-si-capusu-mare
+
+    Între Gârbău și Căpușu Mare
 
 Tura a fost foarte frumoasă. Mă bucur că a fost organizată de **Clujul
 Pedalează** și au dat astfel ocazia și unor începători să guste ieșirile
@@ -47,7 +58,6 @@ cu bicicleta dintr-un Cluj destul de aglomerat și prăfuit.
 
 .. _Clujul Pedalează: http://clujulpedaleaza.ro/
 .. _pagina de facebook: http://www.facebook.com/pedaleaza
-
-.. |La drum| image:: http://blog.mvmocanu.com/wp-content/uploads/2011/03/DSC_2356-1024x685.jpg
-.. |Cimitir vechi| image:: http://blog.mvmocanu.com/wp-content/uploads/2011/03/DSC_2477-e1330253057547-685x1024.jpg
-.. |Între Gârbău și Căpușu Mare| image:: http://blog.mvmocanu.com/wp-content/uploads/2011/03/DSC_2479-1024x685.jpg
+.. _făcute de mine: http://pics.hapci.us/ture/2011_03_13_LagunaAlbastra/
+.. _aici: https://picasaweb.google.com/clujulpedaleaza/TuraDin13032011LagunaAlbastra
+.. _GPSies: http://www.gpsies.com/map.do?fileId=mowhogzklgvlkrps

@@ -1,9 +1,9 @@
 Cu bicicleta prin Cluj-Napoca
 #############################
 :date: 2012-07-03 12:05
-:author: admin
+:author: mihai
 :category: Cu bicicleta
-:tags: articole, cluj, cu bicicleta, howto, recomandari
+:tags: articole, cluj, howto, recomandari
 :slug: cum-ma-deplasez-cu-bicicleta-prin-cluj-napoca
 
 Circul de prin 2010 cu bicicleta prin Cluj. Am mers cu ea în tot felul
@@ -13,7 +13,8 @@ periculos pe cât pare.
 Când sunt cu bicicleta am posibilitatea să fiu pieton sau vehicul sau
 biciclist. Astfel că le pot combina pe toate acestea pentru a ajunge din
 A în B cât mai ușor și mai relaxant cu putință.
- Cam astea sunt "regulile" pe care le respect:
+
+Cam astea sunt "regulile" pe care le respect:
 
 -  Merg și pe trotuar, dar întotdeauna încet și nu claxonez niciodată
    pietonii, acordându-le acestora prioritate întotdeauna. Și o fac
@@ -48,10 +49,13 @@ Tot de pe Calea Turzii a trebuit să ajung lângă sediul central al
 biblioteca Octavian Goga din Mărăști. Pentru asta foloseam un traseu ca
 cel din imaginea de mai jos, deși aș fi putut s-o iau pe străzi
 principale.
- [caption id="attachment\_719" align="aligncenter" width="609"]\ |Traseu
-Calea Turzii - Dorobanților| Traseu Calea Turzii -
-Dorobanților[/caption]
- Folosind acest traseu și alternative am ajuns să cunosc Gheorgheni și
+
+.. figure:: /static/images/bicicleta-prin-cluj/img1.png
+    :alt: calea-turzii-dorobantilor
+
+    Traseu Calea Turzii - Dorobanților
+
+Folosind acest traseu și alternative am ajuns să cunosc Gheorgheni și
 Andrei Mureșanu foarte bine. Am mers pe străzi pe care n-aș fi intrat
 niciodată cu mașina pentru că mi-ar fi luat mult prea mult timp. Și nici
 pe jos n-aș fi mers pe ele.
@@ -60,16 +64,14 @@ Acum stau în Mănăștur și merg în Mărăști în fiecare zi. Un drum care �
 cu mașina e foarte urât și aglomerat. Dar cu bicicleta e destul de
 relaxant. În imaginea de mai jos sunt două trasee posibile pe care merg
 de obicei.
- [caption id="attachment\_725" align="aligncenter" width="901"]\ |Trasee
-posibile pe care merg de-acasă la serviciu| Trasee posibile pe care merg
-de-acasă la serviciu[/caption]
- Cel cu roz e cel mai rapid (și legal pentru că pe linia de troleu de pe
+
+.. figure:: /static/images/bicicleta-prin-cluj/img2.png
+    :alt: trasee-posibile
+
+    Trasee posibile pe care merg de-acasă la serviciu
+
+Cel cu roz e cel mai rapid (și legal pentru că pe linia de troleu de pe
 Memo și 21 Decembrie e legal să circuli cu bicicleta). Cel cu roșu e cel
 mai relaxant. Ca și comparație pe traseul roz am făcut 5.55km în 16
 minute, iar pe cel cu roșu am făcut 6.29 km in 25 de minute. Deci drumul
 a fost mai lung cu vreo 700 de metri și 9 minute, dar mult mai relaxant.
-
-.. |Traseu Calea Turzii -
-Dorobanților| image:: http://blog.mvmocanu.com/wp-content/uploads/2012/06/Screenshot.png
-.. |Trasee posibile pe care merg de-acasă la
-serviciu| image:: http://blog.mvmocanu.com/wp-content/uploads/2012/07/Screenshot-3.png

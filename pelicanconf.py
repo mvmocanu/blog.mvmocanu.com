@@ -4,7 +4,8 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Mihai Mocanu'
 SITENAME = u'blog'
-SITEURL = 'http://mvmocanu.github.io/blog.mvmocanu.com/'
+#SITEURL = 'http://mvmocanu.github.io/blog.mvmocanu.com/'
+SITEURL = 'http://b.mvmocanu.com/'
 
 TIMEZONE = 'Europe/Bucharest'
 
@@ -17,6 +18,8 @@ TAG_FEED_RSS = "feeds/%s.rss.xml"
 FEED_ALL_ATOM = "feeds/all.atom.xml"
 TAG_FEED_ATOM = "feeds/%s.atom.xml"
 
+TAGLINE = "despre ce ne place, ce nu ne place, pe unde mai umblăm"
+
 # Blogroll
 #LINKS = (('Pelican', 'http://getpelican.com/'),
          #('Python.org', 'http://python.org/'),
@@ -26,6 +29,7 @@ TAG_FEED_ATOM = "feeds/%s.atom.xml"
 # Social widget
 #SOCIAL = (('You can add links in your config file', '#'),
           #('Another social link', '#'),)
+COVER_IMG_URL = "https://dnqgz544uhbo8.cloudfront.net/_/fp/img/home/18.ST46uwCCxnj8jWwp1GtbiQ.jpg"
 
 DEFAULT_PAGINATION = 20
 
@@ -40,7 +44,7 @@ MAIL_HOST = 'mvmocanu.com'
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 PATH = 'content'
-THEME = 'theme'
+THEME = 'theme/pure'
 
 DISQUS_SITENAME = "bmvm"
 #GOOGLE_ANALYTICS_ACCOUNT = "UA-822534-14"
@@ -56,8 +60,12 @@ SECTIONS = [
 TAG_CLOUD_STEPS = 6
 #~ TYPOGRIFY = True
 
+PLUGIN_PATH = 'pelican-plugins'
+#PLUGIN_PATH = '/home/local/3PILLAR/mmocanu/work/blog.mvmocanu.com/pelican-plugins/'
+
 PLUGINS = (
-    #'sitemap',
+    'pelican_youtube',
+    'sitemap',
 )
 
 #SITEMAP = {
@@ -73,6 +81,11 @@ PLUGINS = (
 #        'pages': 'monthly'
 #    }
 #}
+
+MENUITEMS = [
+    ('Arhivă', 'archives.html'),
+    ('Cu bicicleta', 'category/cu-bicicleta.html'), 
+]
 
 FILES_TO_COPY = [
     #('extra/robots.txt', 'robots.txt'),

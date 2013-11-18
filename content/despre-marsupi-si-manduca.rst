@@ -1,18 +1,19 @@
 Despre Marsupi și Manduca
 #########################
 :date: 2012-03-20 13:28
-:author: admin
+:author: mihai
 :category: Hai Hui
 :tags: bebe, manduca, marsupi, purtatoare, recomandari
 :slug: despre-marsupi-si-manduca
 
-Cand am făcut cursul Lamaze cu `Teodora Cătinaș`_ (despre care voi vorbi
+Când am făcut cursul Lamaze cu `Teodora Cătinaș`_ (despre care voi vorbi
 într-un alt post), Andrei Madly ne-a prezentat produsul său numit
 `Marsupi`_. După prezentare, ne-am hotărât ca în primă fază să
 achiziționăm un Marsupi, ceea ce am și făcut. Tot în aceeași perioadă
-aflasem de `Manduca`_ pe care eram hotărâți să o încercăm la un moment
-dat.
- Marsupi este un port bebe din bumbac 100% foarte ușor de folosit. Este
+aflasem de `purtătorul Manduca`_ pe care eram hotărâți să îl încercăm la un
+moment dat.
+
+Marsupi este un port bebe din bumbac 100% foarte ușor de folosit. Este
 și ușor de felul lui și se impachetează foarte bine, ocupând un spațiu
 mic. Noi îl folosim mult prin casă, doarece nici nu se simte când e
 folosit și e foarte ușor de montat/demontat. În plus, Cristina se simte
@@ -40,7 +41,7 @@ copilașului în caz că acesta o are și parintele nu știe.
 
 .. _Teodora Cătinaș: http://www.burticamea.ro/
 .. _Marsupi: http://marsupi.ro/
-.. _Manduca: http://www.manduca-baby-carrier.eu/
+.. _purtătorul Manduca: http://www.manduca-baby-carrier.eu/
 .. _testare: https://www.facebook.com/groups/mamici/doc/324883097542378/
 .. _Teri: http://teri.ro/
 .. _Manduca: http://www.teri.ro/Bebe-la-plimbare/Port-bebe/Manduca/prod_199.html

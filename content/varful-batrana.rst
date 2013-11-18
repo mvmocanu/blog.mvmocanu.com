@@ -38,7 +38,7 @@ Restul pozelor sunt `aici`_.
 
 .. _aici: http://mvmocanu.smugmug.com/Ture-cu-bicicleta/Varful-Batrana-06-09-2009/21544089_fw2fkc#!i=1717632095&k=8VPJSFN
 
-.. |Trupa| image:: http://blog.mvmocanu.com/wp-content/uploads/2009/09/IMG_2971.resized-1024x768.jpg
+.. |Trupa| image:: /images/vf-batrana.jpg
 .. |De pe Culmea
 Paltinei| image:: http://blog.mvmocanu.com/wp-content/uploads/2009/09/IMG_2993.resized-1024x768.jpg
 .. |De pe Varful

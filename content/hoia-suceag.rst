@@ -1,10 +1,16 @@
 Hoia - Suceagu
 ##############
 :date: 2010-08-25 11:30
-:author: admin
+:author: mihai
 :category: Cu bicicleta
 :tags: hoia, offroad, suceagu
 :slug: hoia-suceag
+
+* Data: Duminică, 22 august 2010
+* Traseu: Hoia, Suceagu, Baciu
+* Participanți: eu și Melania
+* Poze: `aici`_
+* Harta: `pe bikemap`_
 
 Împreună cu Melania am facut o tură de relaxare după ce în urmă cu o zi
 fusesem până la `Muntele Mare`_. Am decis să mergem prin Hoia și să
@@ -14,9 +20,12 @@ drumurile din Hoia sunt frumoase și foarte bune de relaxare.
 Astfel că pe la ora 14 am pornit. Obosit după tura din urmă cu o zi, am
 facut o pauză scurtă de cafea pe malul Someșului.
 
-[caption id="attachment\_612" align="alignnone" width="584"
-caption="Pauza de cafea"]\ |Pauza de cafea|\ [/caption]
- Am urcat din capăt de la Donath sus în deal pe lângă blocurile
+.. figure:: /static/images/hoia-suceagu/img1.jpg
+    :alt: pauza
+
+    Pauza de cafea
+
+Am urcat din capăt de la Donath sus în deal pe lângă blocurile
 construite pe jumătate și părăsite din cauza crizei, după care am
 continuat pe creastă. Am ajuns la Dealul Melcului unde era să coborâm în
 Suceagu, dar ne-am dat seama rapid și ne-am întors să mergem spre Dealul
@@ -24,9 +33,10 @@ Suceagului. La urcarea pe Dealul Suceagului am împins bicicletele, dar
 am ajuns rapid sus de unde aveam o panoramă frumoasă asupra Văii
 Someșului.
 
-[caption id="attachment\_613" align="alignnone" width="584"
-caption="Valea Someșului și Gilău"]\ |Valea Someșului și
-Gilău|\ [/caption]
+.. figure:: /static/images/hoia-suceagu/img2.jpg
+    :alt: somes-gilau
+
+    Valea Someșului și Gilău
 
 De pe Dealul Suceagului am coborât către vest, la un moment dat drumul
 pierzându-se dar am ajuns din nou la un drum care coboară spre Suceagu
@@ -67,8 +77,5 @@ Iată cum a văzut Melania tura:
     recomanda-o oricui! :)
 
 .. _Muntele Mare: http://blog.mvmocanu.com/muntele-mare/
-
-.. |Pauza de
-cafea| image:: http://blog.mvmocanu.com/wp-content/uploads/2010/08/DSC_7962-1024x685.jpg
-.. |Valea Someșului și
-Gilău| image:: http://blog.mvmocanu.com/wp-content/uploads/2010/08/DSC_8036-1024x685.jpg
+.. _aici: http://pics.mvmocanu.com/Ture-cu-bicicleta/Hoia-22-august-2010/21541449_jWPQk5
+.. _pe bikemap: http://www.bikemap.net/route/665929
