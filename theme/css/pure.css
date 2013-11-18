@@ -13,13 +13,30 @@ a:focus {
     text-decoration: underline;
 }
 
+
+.comments {
+    padding: 50px 0 0;
+}
+
+.banner {
+    background-position: center;
+    background-size: cover;
+    height: 300px;
+    width: 100%;
+}
+
+pre {
+    padding: 15px 15px 15px 15px;
+    font-size: 90%;
+    box-shadow: 2px 2px 2px #888;
+}
+
 .sidebar {
     position: fixed;
     top: 0;
     bottom: 0;
     width: 25%;
     margin-left: -25%;
-    color: #fff;
 }
 
 .cover-img {
@@ -48,6 +65,47 @@ a:focus {
     background-image: linear-gradient(to top,rgba(0,0,0,0.5) 0,rgba(0,0,0,0.3) 70%,rgba(0,0,0,0) 100%);
 }
 
+.brand-title,
+.brand-tagline {
+    margin: 0;
+}
+.brand-title {
+    text-transform: uppercase;
+}
+
+.article-info {
+    padding-top: 15px;
+    clear: right;
+    font-weight: 300;
+    color: rgb(0, 0, 0);
+    word-wrap: break-word;
+}
+
+.about-author {
+    display: block;
+    width: 65%;
+    padding: 0 0px;
+    float: right;
+    margin-bottom: 35px;
+}
+    hr {
+        border: 1px solid #f2f2f0;
+        width: 10%;
+        margin-top: 20px;
+        margin-right: 0px;
+    }
+
+.header-article {
+    width: 767px;
+    max-width: 100%;
+    text-align: right;
+    padding-top: 4em;
+}
+
+.header-article h5 {
+    clear: both;
+}
+
 .header {
     text-align: left;
     width: 767px;
@@ -71,6 +129,7 @@ a:focus {
     line-height: 0.8em;
     font-size: 80%;
     text-shadow: 0 1px 3px rgba(0,0,0,0.3);
+    color: #fff;
 }
 
 .links a {
@@ -82,7 +141,6 @@ a:focus {
     text-decoration: none;
     color: #fff;
 }
-
 
 .content-subhead {
     text-transform: uppercase;
@@ -97,6 +155,7 @@ a:focus {
 .content {
     padding: 2em 3em 0;
     font-size: 110%;
+    line-height: 1.45;
     color: #333332;
 }
 
@@ -126,6 +185,20 @@ a:focus {
     color: #fff;
     background: #999;
     font-size: 90%;
+}
+
+.arhive-item {
+    padding: 0.9em 1em;
+    border-left: 6px solid #ddd;
+}
+
+.arhive-date {
+    margin: 0;
+}
+
+.arhive-avatar {
+    border-radius: 3px;
+    margin-right: 0.5em;
 }
 
 .footer {
@@ -160,11 +233,6 @@ a:focus {
     right: 0;
 }
 
-.hr {
-    border-bottom: 1px solid #f2f2f0;
-    margin-bottom: 30px;
-}
-
 .go-top {
     position: fixed;
     bottom: 2em;
@@ -191,7 +259,7 @@ a:focus {
         width: 100%;
         position: relative;
         margin: 0;
-        height: 400px;
+        height: 425px;
     }
 
     .cover-img {
@@ -199,20 +267,48 @@ a:focus {
         background-size: cover;
     }
 
+    .post-avatar {
+        margin-top: 15px;
+        float: none;
+    }
+
+    .about-author {
+        width: 100%;
+    }
+
     .cover-body {
         padding-bottom: 5%;
         padding-top: 0;
     }
 
-    .header {
+    .header,
+    .header-article {
         text-align: center;
         top: auto;
-        margin: 3em auto;
         position: static;
+    }
+
+    hr {
+        border: 1px solid #f2f2f0;
+        width: 100%;
+        margin: 25px auto;
     }
 
     #layout {
         padding: 0;
+    }
+}
+
+@media (min-width: 768px) {
+    .highlight pre {
+        width: 100%;
+    }
+
+    .highlight pre:hover {
+        width: 130%;
+        background: #2d2d2d;
+        transition: width .5s ease;
+        -webkit-transition: width .5s ease;
     }
 }
 

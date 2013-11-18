@@ -4,44 +4,52 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="blog, despre ce ne place, ce nu ne place, pe unde mai umblăm">
-    <link rel="alternate" href="http://b.mvmocanu.com/" type="application/atom+xml" title="blog ATOM Feed"/>
-    
+
+            <link rel="alternate"  href="http://b.mvmocanu.com/feeds/all.atom.xml" type="application/atom+xml" title="blog Full Atom Feed"/>
+                <link rel="alternate" href="http://b.mvmocanu.com/feeds/all.rss.xml" type="application/rss+xml" title="blog Full RSS Feed"/>
+            
             <title>Vârful Buturii // blog // despre ce ne place, ce nu ne place, pe unde mai umblăm</title>
     
     <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.3.0/pure-min.css">
-    <link rel="stylesheet" href="http://b.mvmocanu.com/theme/pure.css">
-    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-    <script src="http://use.typekit.net/ajf8ggy.js"></script>
+    <link rel="stylesheet" href="http://b.mvmocanu.com/theme/css/pure.css">
+        <link rel="stylesheet" href="http://b.mvmocanu.com/theme/css/pygments.css">
+
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+        <script src="http://b.mvmocanu.com/theme/js/jquery.fitvids.js"></script>
     <script>
-        try { Typekit.load(); } catch (e) {}
+        $(document).ready(function(){
+            $(".content").fitVids();
+        });
     </script>
 </head>
 
 <body>
     <div class="pure-g-r" id="layout">
-        <div class="sidebar pure-u">
-            <div class="cover-img" style="background-image: url('https://dnqgz544uhbo8.cloudfront.net/_/fp/img/home/18.ST46uwCCxnj8jWwp1GtbiQ.jpg')">
-                <div class="cover-body">
-                    <header class="header">
-                        <hgroup>
-                        <h1 class="brand-main"><a href="/">blog</a></h1>
-                        <p class="tagline">despre ce ne place, ce nu ne place, pe unde mai umblăm</p>
-                                                </hgroup>
-                    </header>
-                </div>
-            </div>
-        </div>
-        <div class="pure-u-3-4">
-    <div class="content">
-        <section class="post">
-            <header class="post-header">
-                <h1>Vârful Buturii</h1>
-                    <p class="post-meta">
-                        By <a class="post-author" href="http://b.mvmocanu.com/author/admin.html">admin</a> on Mon 26 July 2010
-                        // under                     </p>
-            </header>
-        </section>
-        <p>Jeno a propus o tură pe <a class="reference external" href="http://www.ciclism.ro/forums/index.php?/topic/1050-ture-pentru-clujeni/">forum</a> și mi-a plăcut propunerea lui. Am mai
+    <div class="sidebar pure-u">
+        <header class="header-article">
+            <hgroup>
+                <a href="http://b.mvmocanu.com/author/admin.html" title="See posts by admin">
+                    <img class="post-avatar" alt="admin" src="" height="100" width="100">
+                </a>
+                <h2 class="article-info">admin</h2>
+                <small class="about-author"></small>
+                <h5>Published</h5>
+                <p>Mon 26 July 2010</p>
+                <a href="/">&larr;Home</a>
+                <hr>
+            </hgroup>
+        </header>
+    </div>
+    <div class="pure-u-3-4">
+        <div class="content">
+            <section class="post">
+                <header class="post-header">
+                    <h1>Vârful Buturii</h1>
+                        <p class="post-meta">
+                            // under                         </p>
+                </header>
+            </section>
+            <p>Jeno a propus o tură pe <a class="reference external" href="http://www.ciclism.ro/forums/index.php?/topic/1050-ture-pentru-clujeni/">forum</a> și mi-a plăcut propunerea lui. Am mai
 încercat o dată să urc spre Dobrin, dar mi s-a rupt schimbătorul atunci
 și a trebuit să mă întorc după ce am urcat vreo 2 km (poze de-atunci
 <a class="reference external" href="http://pics.mvmocanu.com/Ture-cu-bicicleta/Tura-scurta-6-iunie-2010/21540742_BphmFm#!i=1717376414&amp;k=29WCDf2">aici</a>).</p>
@@ -117,59 +125,53 @@ Undefined substitution referenced: &quot;Panoramă&quot;.</div>
 Undefined substitution referenced: &quot;Drumul vechi pe care am coborât&quot;.</div>
 </div>
 
-        <div class="hr"></div>
-        <a href="#" class="go-top">Go Top</a>
-                    <div class="comments">
-                <div id="disqus_thread"></div>
-                <script type="text/javascript">
-                    var disqus_identifier = "varful-buturii/";
-                    (function() {
-                        var dsq = document.createElement('script');
-                        dsq.type = 'text/javascript';
-                        dsq.async = true;
-                        dsq.src = 'http://bmvm.disqus.com/embed.js';
-                        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-                    })();
-                </script>
-                <noscript>Please enable JavaScript to view <a href="http://disqus.com/?ref_noscript">comments</a>.</noscript>
-            </div>
-                <footer class="footer">
+            <div class="hr"></div>
+            <a href="#" class="go-top">Go Top</a>
+                            <div class="comments">
+                    <div id="disqus_thread"></div>
+                    <script type="text/javascript">
+                        var disqus_identifier = "varful-buturii/";
+                        (function() {
+                            var dsq = document.createElement('script');
+                            dsq.type = 'text/javascript';
+                            dsq.async = true;
+                            dsq.src = 'http://bmvm.disqus.com/embed.js';
+                            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+                        })();
+                    </script>
+                    <noscript>Please enable JavaScript to view <a href="http://disqus.com/?ref_noscript">comments</a>.</noscript>
+                </div>
+                        <footer class="footer">
     <p>&copy; blog &ndash;
         Built with <a href="https://github.com/danclaudiupop/pure">Pure Theme</a>
         for <a href="http://blog.getpelican.com/">Pelican</a>
     </p>
     <p>Licensed under <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_GB">Creative Commons Attribution-ShareAlike 3.0 Unported License</a></p>
-</footer>    </div>
-</div>
+</footer>        </div>
     </div>
-
-    <script src="http://yui.yahooapis.com/3.12.0/build/yui/yui-min.js"></script>
+</div>
     <script>
-        YUI().use('node-base', 'node-event-delegate', function (Y) {
-            // This just makes sure that the href="#" attached to the <a> elements
-            // don't scroll you back up the page.
-            Y.one('body').delegate('click', function (e) {
-                e.preventDefault();
-            }, 'a[href="#"]');
+        var $top = $('.go-top');
+
+        // Show or hide the sticky footer button
+        $(window).scroll(function() {
+            if ($(this).scrollTop() > 200) {
+                $top.fadeIn(200);
+            } else {
+                $top.fadeOut(200);
+            }
         });
-    </script>
-    <script>
-        $(document).ready(function() {
-            // Show or hide the sticky footer button
-            $(window).scroll(function() {
-                if ($(this).scrollTop() > 200) {
-                    $('.go-top').fadeIn(200);
-                } else {
-                    $('.go-top').fadeOut(200);
-                }
-            });
 
-            // Animate the scroll to top
-            $('.go-top').click(function(event) {
-                event.preventDefault();
+        // Animate the scroll to top
+        $top.click(function(event) {
+            event.preventDefault();
+            $('html, body').animate({scrollTop: 0}, 300);
+        })
 
-                $('html, body').animate({scrollTop: 0}, 300);
-            })
+        // Makes sure that the href="#" attached to the <a> elements
+        // don't scroll you back up the page.
+        $('body').on('click', 'a[href="#"]', function(event) {
+            event.preventDefault();
         });
     </script>
     </body>
