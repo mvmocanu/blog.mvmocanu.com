@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>blog</title><link href="http://b.mvmocanu.com/" rel="alternate"></link><link href="http://b.mvmocanu.com/feeds/bontida.atom.xml" rel="self"></link><id>http://b.mvmocanu.com/</id><updated>2010-07-26T15:11:00+03:00</updated><entry><title>Bonțida</title><link href="http://b.mvmocanu.com/bontida/" rel="alternate"></link><updated>2010-07-26T15:11:00+03:00</updated><author><name>admin</name></author><id>tag:b.mvmocanu.com,2010-07-26:bontida/</id><summary type="html">&lt;p&gt;Ultima dată am fost la Bonțida în urmă cu vreo 6 ani. Lucrările la
+<feed xmlns="http://www.w3.org/2005/Atom"><title>blog</title><link href="http://b.mvmocanu.com/" rel="alternate"></link><link href="http://b.mvmocanu.com/feeds/bontida.atom.xml" rel="self"></link><id>http://b.mvmocanu.com/</id><updated>2010-07-26T15:11:00+03:00</updated><entry><title>Bonțida</title><link href="http://b.mvmocanu.com/bontida/" rel="alternate"></link><updated>2010-07-26T15:11:00+03:00</updated><author><name>mihai</name></author><id>tag:b.mvmocanu.com,2010-07-26:bontida/</id><summary type="html">&lt;ul class="simple"&gt;
+&lt;li&gt;Data: Joi, 22 iulie 2010&lt;/li&gt;
+&lt;li&gt;Distanța: 97km, parcursă în 6h 43min (9h 53min cu pauze). Viteza medie
+14.4km/h (maximă 49.4km/h)&lt;/li&gt;
+&lt;li&gt;Traseu: Borhanci, Gheorgheni, Aiton, Boju, Cojocna, Căianu Vamă, Gădălin,
+Bonțida, Jucu de Sus, Jucu de Mijloc, Lacurile Câmpenești, Fânațele Clujului,
+Cluj-Napoca (Real)&lt;/li&gt;
+&lt;li&gt;Poze: &lt;a class="reference external" href="http://pics.mvmocanu.com/Ture-cu-bicicleta/Bontida-22-iulie-2010/21541320_W8wG4C#!i=1717421687&amp;amp;k=2B8qqjS"&gt;aici&lt;/a&gt; - făcute cu mobilul&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ultima dată am fost la Bonțida în urmă cu vreo 6 ani. Lucrările la
 castel începuseră deja de câțiva ani atunci și eram curios să aflu ce
 s-a mai întâmplat între timp. Astfel că mi-am făcut un traseu până la
 Bonțida pe drumuri cât mai puțin circulate și mai pitorești.&lt;/p&gt;
 &lt;div class="system-message"&gt;
-&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;/home/local/3PILLAR/mmocanu/work/blog.mvmocanu.com/content/bontida.rst&lt;/tt&gt;, line 13)&lt;/p&gt;
+&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;/home/local/3PILLAR/mmocanu/work/blog.mvmocanu.com/content/bontida.rst&lt;/tt&gt;, line 21)&lt;/p&gt;
 Unexpected indentation.&lt;/div&gt;
 &lt;blockquote&gt;
 Am pornit spre Borhanci și am ajuns în Gheorgheni trecând printr-o&lt;/blockquote&gt;
 &lt;div class="system-message"&gt;
-&lt;p class="system-message-title"&gt;System Message: WARNING/2 (&lt;tt class="docutils"&gt;/home/local/3PILLAR/mmocanu/work/blog.mvmocanu.com/content/bontida.rst&lt;/tt&gt;, line 14)&lt;/p&gt;
+&lt;p class="system-message-title"&gt;System Message: WARNING/2 (&lt;tt class="docutils"&gt;/home/local/3PILLAR/mmocanu/work/blog.mvmocanu.com/content/bontida.rst&lt;/tt&gt;, line 22)&lt;/p&gt;
 Block quote ends without a blank line; unexpected unindent.&lt;/div&gt;
 &lt;p&gt;pădure și pe sub podul noii centuri a Clujului. Gheorgheni este un alt
 sat alături de Vălișoara care-mi place foarte mult. Din Gheorgheni
@@ -23,8 +32,10 @@ Dacă nu aș fi luat-o spre Boju aș fi rămas pe coama dealului și aș fi
 ajuns chiar în centrul comunei Cojocna. În schimb am ajuns în Boju, de
 unde am urmat un drum pietruit până în Cojocna. Drumul te scoate înainte
 de intrarea în Cojocna la șosea.&lt;/p&gt;
-&lt;p&gt;[caption id=&amp;quot;attachment_593&amp;quot; align=&amp;quot;alignnone&amp;quot; width=&amp;quot;584&amp;quot;
-caption=&amp;quot;Înspre Boju. &amp;quot;]|Înspre Boju.|[/caption]&lt;/p&gt;
+&lt;div class="figure"&gt;
+&lt;img alt="inspre-boju" src="/static/images/bontida/img1.jpg" /&gt;
+&lt;p class="caption"&gt;Înspre Boju&lt;/p&gt;
+&lt;/div&gt;
 &lt;p&gt;Am trecut prin Cojocna și după aproape un kilometru asfaltul se termină
 și drumul se bifurcă. Am luat-o la stânga, spre nord. Drumul devine de
 pământ cu piatră cubică în unele locuri. Acest drum ajunge în
@@ -32,9 +43,10 @@ Căianu-Vamă, în șoseaua națională care leagă Clujul de Reghin. Am urmat
 direcția Cluj cam vreo 2 km până am ajuns la un drum județean către
 Bonțida. Acesta este asfaltat până după Gădălin la intersecția cu Vișea,
 unde drumul spre Bonțida o ia la stânga și devine pietruit.&lt;/p&gt;
-&lt;p&gt;[caption id=&amp;quot;attachment_594&amp;quot; align=&amp;quot;alignnone&amp;quot; width=&amp;quot;584&amp;quot;
-caption=&amp;quot;Castelul Banffy de la Bonțida&amp;quot;]&lt;a href="#id1"&gt;&lt;span class="problematic" id="id2"&gt;|Castelul Banffy de la
-Bonțida|&lt;/span&gt;&lt;/a&gt;[/caption]&lt;/p&gt;
+&lt;div class="figure"&gt;
+&lt;img alt="castelul-banffy" src="/static/images/bontida/img2.jpg" /&gt;
+&lt;p class="caption"&gt;Castelul Banffy de la Bonțida&lt;/p&gt;
+&lt;/div&gt;
 &lt;p&gt;În Bonțida, Castelul Banffy este ușor de găsit. Pentru a vizita castelul
 este o taxa de intrare de 2 lei. După ce am vizitat castelul am ieșit
 din curtea castelului sub niște plopi care sunt în spatele actualei
@@ -56,23 +68,4 @@ urcat dealul să trec la Fânețele Clujului. Mi s-a părut cea mai lungă
 urcare. Atât de lungă și pe un drum cu o iarbă atât de mare încât am
 coborât chiar înainte de rezervație în sat și am trecut în Cluj. Astfel
 că am ratat rezervația, dar nu-i nimic. Motiv pentru o tură nouă.&lt;/p&gt;
-&lt;!-- |Înspre --&gt;
-&lt;div class="system-message"&gt;
-&lt;p class="system-message-title"&gt;System Message: WARNING/2 (&lt;tt class="docutils"&gt;/home/local/3PILLAR/mmocanu/work/blog.mvmocanu.com/content/bontida.rst&lt;/tt&gt;, line 68)&lt;/p&gt;
-malformed substitution definition.&lt;/div&gt;
-&lt;div class="system-message"&gt;
-&lt;p class="system-message-title"&gt;System Message: WARNING/2 (&lt;tt class="docutils"&gt;/home/local/3PILLAR/mmocanu/work/blog.mvmocanu.com/content/bontida.rst&lt;/tt&gt;, line 69)&lt;/p&gt;
-Explicit markup ends without a blank line; unexpected unindent.&lt;/div&gt;
-&lt;p&gt;Boju.| image:: &lt;a class="reference external" href="http://blog.mvmocanu.com/wp-content/uploads/2010/07/IMG_0570-1024x768.jpg"&gt;http://blog.mvmocanu.com/wp-content/uploads/2010/07/IMG_0570-1024x768.jpg&lt;/a&gt;
-.. &lt;a href="#id3"&gt;&lt;span class="problematic" id="id4"&gt;|Castelul Banffy de la
-Bonțida|&lt;/span&gt;&lt;/a&gt; image:: &lt;a class="reference external" href="http://blog.mvmocanu.com/wp-content/uploads/2010/07/IMG_0583-1024x768.jpg"&gt;http://blog.mvmocanu.com/wp-content/uploads/2010/07/IMG_0583-1024x768.jpg&lt;/a&gt;&lt;/p&gt;
-&lt;div class="system-messages section"&gt;
-&lt;h2&gt;Docutils System Messages&lt;/h2&gt;
-&lt;div class="system-message" id="id1"&gt;
-&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;/home/local/3PILLAR/mmocanu/work/blog.mvmocanu.com/content/bontida.rst&lt;/tt&gt;, line 39); &lt;em&gt;&lt;a href="#id2"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-Undefined substitution referenced: &amp;quot;Castelul Banffy de la Bonțida&amp;quot;.&lt;/div&gt;
-&lt;div class="system-message" id="id3"&gt;
-&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;/home/local/3PILLAR/mmocanu/work/blog.mvmocanu.com/content/bontida.rst&lt;/tt&gt;, line 69); &lt;em&gt;&lt;a href="#id4"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-Undefined substitution referenced: &amp;quot;Castelul Banffy de la Bonțida&amp;quot;.&lt;/div&gt;
-&lt;/div&gt;
 </summary><category term="50-100km"></category><category term="bontida"></category><category term="fanatele clujului"></category><category term="offroad"></category></entry></feed>
