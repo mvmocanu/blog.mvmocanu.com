@@ -1,31 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>blog</title><link href="http://b.mvmocanu.com/" rel="alternate"></link><link href="http://b.mvmocanu.com/feeds/vf-silha.atom.xml" rel="self"></link><id>http://b.mvmocanu.com/</id><updated>2010-08-12T08:41:00+03:00</updated><entry><title>Vârful Silha</title><link href="http://b.mvmocanu.com/varful-silha/" rel="alternate"></link><updated>2010-08-12T08:41:00+03:00</updated><author><name>admin</name></author><id>tag:b.mvmocanu.com,2010-08-12:varful-silha/</id><summary type="html">&lt;p&gt;Am fost într-o nouă &lt;a class="reference external" href="http://www.ciclism.ro/forums/index.php?/topic/1050-ture-pentru-clujeni/page__view__findpost__p__377684"&gt;tură propusă de Jeno&lt;/a&gt;, de această dată mai
+<feed xmlns="http://www.w3.org/2005/Atom"><title>blog</title><link href="http://b.mvmocanu.com/" rel="alternate"></link><link href="http://b.mvmocanu.com/feeds/vf-silha.atom.xml" rel="self"></link><id>http://b.mvmocanu.com/</id><updated>2010-08-12T08:41:00+03:00</updated><entry><title>Vârful Silha</title><link href="http://b.mvmocanu.com/varful-silha/" rel="alternate"></link><updated>2010-08-12T08:41:00+03:00</updated><author><name>mihai</name></author><id>tag:b.mvmocanu.com,2010-08-12:varful-silha/</id><summary type="html">&lt;ul class="simple"&gt;
+&lt;li&gt;Data: Sâmbătă, 31 iulie 2010&lt;/li&gt;
+&lt;li&gt;Distanța: 66km, parcursă în 6h (11h cu pauze). Viteza medie 10km/h (maximă
+54km/h)&lt;/li&gt;
+&lt;li&gt;Traseu: Măguri-Răcătău, Robești, Măguri, Dobruș, Valea Răcătău, Valea
+Broscaru, Varful Silha, Valea Cracilor (Dobruș), Crucea lui Avram Iancu,
+Șoarecu, Valea Răcătău, Măguri-Răcătău&lt;/li&gt;
+&lt;li&gt;Participanți: eu, Jeno, Zoli&lt;/li&gt;
+&lt;li&gt;Poze: &lt;a class="reference external" href="http://pics.mvmocanu.com/Ture-cu-bicicleta/Varful-Silha-31-iulie-2010/21541404_JfdzRG#!i=1717429269&amp;amp;k=zGvFjs9"&gt;aici făcute de mine&lt;/a&gt;. Făcute de &lt;a class="reference external" href="http://picasaweb.google.com/csuporj5/VarfulSilha"&gt;Jeno&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Am fost într-o nouă &lt;a class="reference external" href="http://www.ciclism.ro/forums/index.php?/topic/1050-ture-pentru-clujeni/page__view__findpost__p__377684"&gt;tură propusă de Jeno&lt;/a&gt;, de această dată mai
 dificilă și mai lungă.&lt;/p&gt;
-&lt;p&gt;[caption id=&amp;quot;attachment_601&amp;quot; align=&amp;quot;alignnone&amp;quot; width=&amp;quot;584&amp;quot;
-caption=&amp;quot;Măguri&amp;quot;]&lt;img alt="Măguri" src="http://blog.mvmocanu.com/wp-content/uploads/2010/08/DSC_7298-1024x685.jpg" /&gt;[/caption]&lt;/p&gt;
-&lt;div class="system-message"&gt;
-&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;/home/local/3PILLAR/mmocanu/work/blog.mvmocanu.com/content/varful-silha.rst&lt;/tt&gt;, line 14)&lt;/p&gt;
-Unexpected indentation.&lt;/div&gt;
-&lt;blockquote&gt;
-Am urcat spre Măguri pe urcarea de la Robești, o urcare foarte grea dar&lt;/blockquote&gt;
-&lt;div class="system-message"&gt;
-&lt;p class="system-message-title"&gt;System Message: WARNING/2 (&lt;tt class="docutils"&gt;/home/local/3PILLAR/mmocanu/work/blog.mvmocanu.com/content/varful-silha.rst&lt;/tt&gt;, line 15)&lt;/p&gt;
-Block quote ends without a blank line; unexpected unindent.&lt;/div&gt;
-&lt;p&gt;nu foarte lungă (puțin peste 4 km). Drumul este pietruit și foarte bun
+&lt;div class="figure"&gt;
+&lt;img alt="maguri" src="/static/images/varful-silha/img1.jpg" /&gt;
+&lt;p class="caption"&gt;Măguri&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Am urcat spre Măguri pe urcarea de la Robești, o urcare foarte grea dar
+nu foarte lungă (puțin peste 4 km). Drumul este pietruit și foarte bun
 pentru bicicletă. Din Măguri am coborât în Dobruș, unde este o colonie
 temporară de romi. Sunt la cules de afine.&lt;/p&gt;
 &lt;p&gt;În Dobruș am trecut podul peste Valea Cracilor (Dobruș) și am început să
 urcăm pe Valea Răcătău pe un drum cu noroi în multe locuri. De pe
 versantul din partea dreaptă a drumului coboară multe pârâie către Valea
 Răcătău.&lt;/p&gt;
-&lt;p&gt;[caption id=&amp;quot;attachment_602&amp;quot; align=&amp;quot;alignnone&amp;quot; width=&amp;quot;584&amp;quot;
-caption=&amp;quot;Valea Răcătău&amp;quot;]&lt;a href="#id1"&gt;&lt;span class="problematic" id="id2"&gt;|Valea Răcătău|&lt;/span&gt;&lt;/a&gt;[/caption]&lt;/p&gt;
+&lt;div class="figure"&gt;
+&lt;img alt="valea-racataului" src="/static/images/varful-silha/img2.jpg" /&gt;
+&lt;p class="caption"&gt;Valea Răcătău&lt;/p&gt;
+&lt;/div&gt;
 &lt;p&gt;Către Vârful Silha am luat-o pe Valea Broscaru, deși inițial traseul era
 pe la Steaua. Pe Valea Broscarului e foarte frumos și liniște (nu sunt
 tăietori de lemne). Poate doar câte un taur nepăsător și niște vaci mai
 ai ocazia să întâlnești.&lt;/p&gt;
-&lt;p&gt;[caption id=&amp;quot;attachment_603&amp;quot; align=&amp;quot;alignnone&amp;quot; width=&amp;quot;584&amp;quot;
-caption=&amp;quot;Valea Broscaru &amp;quot;]|Valea Broscaru|[/caption]&lt;/p&gt;
+&lt;div class="figure"&gt;
+&lt;img alt="valea-broscaru" src="/static/images/varful-silha/img3.jpg" /&gt;
+&lt;p class="caption"&gt;Valea Broscaru&lt;/p&gt;
+&lt;/div&gt;
 &lt;p&gt;Drumul iese în șaua Lămășoaia-Petreasa unde ai o panoramă frumoasă către
 cătunele care aparțin de Horea. Drumul continuă către N-V fiind marcat
 cu bandă roșie, dar noi am luat-o pe drumul care merge prin pârâul
@@ -41,42 +50,14 @@ mountainbike-ul :D. Înainte să ajungem în Dobruș este un drum pe care
 l-am urmat și care urcă la Crucea lui Avram Iancu din Mărișel. Și pe
 acest drum și la Crucea lui Avram Iancu sunt mulți romi care culeg afine
 și ciuperci.&lt;/p&gt;
-&lt;p&gt;[caption id=&amp;quot;attachment_604&amp;quot; align=&amp;quot;alignnone&amp;quot; width=&amp;quot;584&amp;quot;
-caption=&amp;quot;Valea Răcătău&amp;quot;]&lt;a href="#id3"&gt;&lt;span class="problematic" id="id4"&gt;|image3|&lt;/span&gt;&lt;/a&gt;[/caption]&lt;/p&gt;
+&lt;div class="figure"&gt;
+&lt;img alt="valea-racataului" src="/static/images/varful-silha/img5.jpg" /&gt;
+&lt;p class="caption"&gt;Valea Răcătău&lt;/p&gt;
+&lt;/div&gt;
 &lt;p&gt;Din Mărișel am urmat drumul care duce către Măguri-Răcătău, doar că în
 loc să coborâm pe Drumul Generalului, am urmat un drum care coboară din
 Șoarecu la dreapta după o casă care are o cruce lângă gard.&lt;/p&gt;
 &lt;p&gt;Am ajuns în Valea Răcătău, dupa care la mășină și la Cluj. După părerea
 mea, cea mai făină tură.&lt;/p&gt;
-&lt;div class="system-message"&gt;
-&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;/home/local/3PILLAR/mmocanu/work/blog.mvmocanu.com/content/varful-silha.rst&lt;/tt&gt;, line 62)&lt;/p&gt;
-Unexpected indentation.&lt;/div&gt;
-&lt;blockquote&gt;
-Mersi Jeno&lt;/blockquote&gt;
-&lt;!-- |Valea --&gt;
-&lt;div class="system-message"&gt;
-&lt;p class="system-message-title"&gt;System Message: WARNING/2 (&lt;tt class="docutils"&gt;/home/local/3PILLAR/mmocanu/work/blog.mvmocanu.com/content/varful-silha.rst&lt;/tt&gt;, line 67)&lt;/p&gt;
-malformed substitution definition.&lt;/div&gt;
-&lt;div class="system-message"&gt;
-&lt;p class="system-message-title"&gt;System Message: WARNING/2 (&lt;tt class="docutils"&gt;/home/local/3PILLAR/mmocanu/work/blog.mvmocanu.com/content/varful-silha.rst&lt;/tt&gt;, line 68)&lt;/p&gt;
-Explicit markup ends without a blank line; unexpected unindent.&lt;/div&gt;
-&lt;p&gt;Răcătău| image:: &lt;a class="reference external" href="http://blog.mvmocanu.com/wp-content/uploads/2010/08/DSC_7342-1024x685.jpg"&gt;http://blog.mvmocanu.com/wp-content/uploads/2010/08/DSC_7342-1024x685.jpg&lt;/a&gt;
-.. &lt;a href="#id5"&gt;&lt;span class="problematic" id="id6"&gt;|Valea
-Broscaru|&lt;/span&gt;&lt;/a&gt; image:: &lt;a class="reference external" href="http://blog.mvmocanu.com/wp-content/uploads/2010/08/DSC_7376-e1332831139964-685x1024.jpg"&gt;http://blog.mvmocanu.com/wp-content/uploads/2010/08/DSC_7376-e1332831139964-685x1024.jpg&lt;/a&gt;
-.. &lt;a href="#id7"&gt;&lt;span class="problematic" id="id8"&gt;|image3|&lt;/span&gt;&lt;/a&gt; image:: &lt;a class="reference external" href="http://blog.mvmocanu.com/wp-content/uploads/2010/08/DSC_7516-1024x685.jpg"&gt;http://blog.mvmocanu.com/wp-content/uploads/2010/08/DSC_7516-1024x685.jpg&lt;/a&gt;&lt;/p&gt;
-&lt;div class="system-messages section"&gt;
-&lt;h2&gt;Docutils System Messages&lt;/h2&gt;
-&lt;div class="system-message" id="id1"&gt;
-&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;/home/local/3PILLAR/mmocanu/work/blog.mvmocanu.com/content/varful-silha.rst&lt;/tt&gt;, line 24); &lt;em&gt;&lt;a href="#id2"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-Undefined substitution referenced: &amp;quot;Valea Răcătău&amp;quot;.&lt;/div&gt;
-&lt;div class="system-message" id="id3"&gt;
-&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;/home/local/3PILLAR/mmocanu/work/blog.mvmocanu.com/content/varful-silha.rst&lt;/tt&gt;, line 53); &lt;em&gt;&lt;a href="#id4"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-Undefined substitution referenced: &amp;quot;image3&amp;quot;.&lt;/div&gt;
-&lt;div class="system-message" id="id5"&gt;
-&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;/home/local/3PILLAR/mmocanu/work/blog.mvmocanu.com/content/varful-silha.rst&lt;/tt&gt;, line 68); &lt;em&gt;&lt;a href="#id6"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-Undefined substitution referenced: &amp;quot;Valea Broscaru&amp;quot;.&lt;/div&gt;
-&lt;div class="system-message" id="id7"&gt;
-&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;/home/local/3PILLAR/mmocanu/work/blog.mvmocanu.com/content/varful-silha.rst&lt;/tt&gt;, line 68); &lt;em&gt;&lt;a href="#id8"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-Undefined substitution referenced: &amp;quot;image3&amp;quot;.&lt;/div&gt;
-&lt;/div&gt;
+&lt;p&gt;Mersi Jeno&lt;/p&gt;
 </summary><category term="50-100km"></category><category term="maguri-racatau"></category><category term="marisel"></category><category term="valea racatau"></category><category term="vf silha"></category></entry></feed>
