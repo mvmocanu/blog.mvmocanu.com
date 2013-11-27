@@ -1,7 +1,7 @@
 Traim in Romania si aste ne ocupa tot timpu`!
 #############################################
 :date: 2007-06-25 17:29
-:author: admin
+:author: mihai
 :category: Hai Hui
 :tags: cluj, dezolant, people, romania
 :slug: traim-in-romania-si-aste-ne-ocupa-tot-timpu

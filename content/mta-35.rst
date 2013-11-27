@@ -1,7 +1,7 @@
 MTA 35
 ######
 :date: 2007-08-30 18:53
-:author: admin
+:author: mihai
 :category: Hai Hui
 :tags: baltimore, dezolant, places, things, usa
 :slug: mta-35
@@ -11,14 +11,14 @@ Maryland. Aici (din cate mi-am dat seama), doar patura de jos si cea
 mijlocie (un procentaj destul de mic) a societatii circula cu
 transportul public. In rest toata lumea are masina.
 
- MTA 35 este linia care leaga vestul de estul metropolei. Porneste de la
+MTA 35 este linia care leaga vestul de estul metropolei. Porneste de la
 `UMBC`_, care este in vestul Baltimore County si merge pana undeva in
 estul Baltimore County. In luna asta, de cand sunt aici, am folosit 35-u
 de cateva ori. Si este destul de "interesant" sa circuli cu el.
 
 In primul rand aici, organizarea Baltimore-ului este in felul urmator:
 
- *  Centrul orasului (downtown) unde totul este frumos si curat. Cladiri
+-  Centrul orasului (downtown) unde totul este frumos si curat. Cladiri
    inalte si curate, magazine frumoase, lume plimbandu-se. Te simti in
    siguranta si simti si pulsul orasului
 -  Cartierele de langa downtown. Cum iesi din downtown si intri intr-un

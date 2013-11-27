@@ -1,7 +1,7 @@
 "Aveti 10 bani?"
 ################
 :date: 2007-09-21 10:04
-:author: admin
+:author: mihai
 :category: Hai Hui
 :tags: dezolant, people, romania
 :slug: aveti-10-bani

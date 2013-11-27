@@ -1,7 +1,7 @@
 Teach Yourself Programming in Ten Years
 #######################################
 :date: 2008-03-03 21:37
-:author: admin
+:author: mihai
 :category: Geek Stuff
 :tags: articole, link, programare, python, tech, tips
 :slug: teach-yourself-programming-in-ten-years

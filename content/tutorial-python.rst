@@ -1,7 +1,7 @@
 Tutorial Python
 ###############
 :date: 2008-03-03 08:53
-:author: admin
+:author: mihai
 :category: Geek Stuff
 :tags: programare, python, tips
 :slug: tutorial-python

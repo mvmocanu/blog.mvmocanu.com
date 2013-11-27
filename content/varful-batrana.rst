@@ -1,31 +1,46 @@
 Varful Batrana
 ##############
 :date: 2009-09-07 22:24
-:author: admin
+:author: mihai
 :category: Cu bicicleta
 :tags: 50-100km, dolesti, offroad, somesu rece, vf batrana
+:sidebarimage: /static/images/vf-batrana/sidebar.jpg
 :slug: varful-batrana
+
+* Data: Duminica, 6 septembrie 2009
+* Distanța: 97km, parcursa in 6h 11min (10h 42min cu pauze). Viteza medie
+  15.6km/h (maxima 56.7km/h)
+* Traseu: Gilau, Somesu Rece, Uzina, Paltinei, Vf Batrana, Dolesti, Vidrenii de
+  Sus, Vidrenii de Jos, Somesu Rece, Gilau
+* Poze: `aici`__
 
 Impreuna cu trupa lui Jeno am pornit inspre Varful Batrana.
 
-[caption id="attachment\_457" align="alignnone" width="584"
-caption="Trupa"]\ |Trupa|\ [/caption]
+.. figure:: /static/images/vf-batrana/img1.jpg
+    :alt: trupa
+
+    Trupa
 
 De la Somesu Rece am luat-o catre Racatau, dar inainte sa intram in
 Uzina am inceput sa urcam catre Varful Batrana pe un drum forestier care
 o ia spre sud. Am mers prin Paltinei unde ne-am intalnit cu niste oameni
 care prajeau mici si niste caini "prietenosi" care ne-au flancat si
 ne-au condus o bucata de drum.
- [caption id="attachment\_458" align="alignnone" width="584" caption="De
-pe Culmea Paltinei"]\ |De pe Culmea Paltinei|\ [/caption]
+
+.. figure:: /static/images/vf-batrana/img2.jpg
+    :alt: priveliste
+
+    De pe Culmea Paltinei
 
 Am mers pe Culmea Paltinei, de unde se vede o priveliste foarte frumoasa
 si am ajuns la Varful Batrana unde ne-am intalnit si cu turma de oi. Am
 fost atent supravegheati de cainii ciobanesti cat timp am luat masa. In
 departare se vedea Clujul.
 
-[caption id="attachment\_459" align="alignnone" width="584" caption="De
-pe Varful Batrana"]\ |De pe Varful Batrana|\ [/caption]
+.. figure:: /static/images/vf-batrana/img3.jpg
+    :alt: priveliste2
+
+    De pe Varful Batrana
 
 La intoarcere am luat-o pe unde-am venit, doar ca in loc sa o luam pe
 Culmea Paltinei am coborat catre sud spre Dolesti. Am urmat o parte din
@@ -34,12 +49,5 @@ Vidrenii de Sus si Vidrenii de Jos.
 
 O tura foarte frumoasa cu portiuni in care am impins bicicleta, coborari
 lungi si frumoase si vreme foarte buna. Compania de asemenea excelenta.
-Restul pozelor sunt `aici`_.
 
-.. _aici: http://mvmocanu.smugmug.com/Ture-cu-bicicleta/Varful-Batrana-06-09-2009/21544089_fw2fkc#!i=1717632095&k=8VPJSFN
-
-.. |Trupa| image:: /images/vf-batrana.jpg
-.. |De pe Culmea
-Paltinei| image:: http://blog.mvmocanu.com/wp-content/uploads/2009/09/IMG_2993.resized-1024x768.jpg
-.. |De pe Varful
-Batrana| image:: http://blog.mvmocanu.com/wp-content/uploads/2009/09/IMG_3028.resized-1024x768.jpg
+.. __: http://pics.mvmocanu.com/Ture-cu-bicicleta/Varful-Batrana-06-09-2009/21544089_fw2fkc#!i=1717632095&k=8VPJSFN

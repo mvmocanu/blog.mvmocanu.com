@@ -1,7 +1,7 @@
 Politia rutiera recomanda
 #########################
 :date: 2007-07-23 13:19
-:author: admin
+:author: mihai
 :category: Hai Hui
 :tags: cluj, dezolant, people, romania
 :slug: politia-rutiere-recomanda

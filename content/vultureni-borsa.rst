@@ -1,18 +1,27 @@
 Vultureni - Borșa
 #################
 :date: 2010-07-09 20:20
-:author: admin
+:author: mihai
 :category: Cu bicicleta
 :tags: 50-100km, borsa, chinteni, offroad, sosea, vultureni
+:sidebarimage: /static/images/vultureni/sidebar.jpg
 :slug: vultureni-borsa
+
+* Data: Vineri, 9 iulie 2010
+* Distanța: Aproximativ 70km în 4h 30min (mi s-a stricat vitezometru dupa
+  ploaia din tura de la `Mărișel`_)
+* Traseu: Chinteni, Deușu, Vultureni, Borșa, Satu Lung, Pădureni
+* Poze: `aici`_
 
 Aveam chef de-o tură cu bicicleta și vroiam să văd cum e zona de după
 Deușu, deoarece până la Deușu am mai fost cu Melania și n-am fost foarte
 încântați. Ce-i drept era iarnă. Așa că mi-am făcut un traseu și-am
 pornit pe la ora 14.
 
-[caption id="attachment\_561" align="alignnone" width="584"
-caption="Lacul Chinteni"]\ |Lacul Chinteni|\ [/caption]
+.. figure:: /static/images/vultureni/img1.jpg
+    :alt: lacul-chinteni
+
+    Lacul Chinteni
 
 Până la Chinteni nu e nimic spectaculos. E chiar urât! De vină e boom-ul
 imobiliar care-a plantat "clădiri" prin diverse locuri și a stricat
@@ -23,9 +32,10 @@ Din Deușu am luat direcția Vultureni. Drumul e frumos și e liniște. Poți
 să-ți asculți în sfârșit gândurile. De la Vultureni am luat-o spre
 Borșa.
 
-[caption id="attachment\_562" align="alignnone" width="584"
-caption="Satul Ciumăfaia - între Vultureni și Borșa"]\ |Satul Ciumăfaia
-- între Vultureni și Borșa|\ [/caption]
+.. figure:: /static/images/vultureni/img2.jpg
+    :alt: ciumafaia
+
+    Satul Ciumăfaia - între Vultureni și Borșa
 
 În Borșa există un castel al familiei Banffy. Am vrut să-l vizitez dar
 am fost suprins să aflu că e un spital de psihiatrie cronică acolo.
@@ -43,8 +53,10 @@ critică. E o amestecătură de drum betonat cu nisip și în unele locuri cu
 asfalt, dar e foarte stricat. În orice caz priveliștea este foarte
 frumoasă.
 
-[caption id="attachment\_563" align="alignnone" width="584"
-caption="Satu Lung în vale"]\ |Satu Lung în vale|\ [/caption]
+.. figure:: /static/images/vultureni/img3.jpg
+    :alt: satul-lung
+
+    Satu Lung în vale
 
 După ieșirea din Pădureni se mai merge pe curba de nivel o vreme, după
 care începe coborârea spre șoseaua Cluj-Chinteni.
@@ -54,9 +66,5 @@ nu foarte grea. V-o recomand!
 
 **Hai noroc!**
 
-.. |Lacul
-Chinteni| image:: http://blog.mvmocanu.com/wp-content/uploads/2010/07/DSC_6372-1024x686.jpg
-.. |Satul Ciumăfaia - între Vultureni și
-Borșa| image:: http://blog.mvmocanu.com/wp-content/uploads/2010/07/DSC_6395-1024x686.jpg
-.. |Satu Lung în
-vale| image:: http://blog.mvmocanu.com/wp-content/uploads/2010/07/DSC_6412-1024x686.jpg
+.. _aici: http://pics.mvmocanu.com/Ture-cu-bicicleta/Tura-Borsa-9-iulie-2010/21541195_d3Jvn3#!i=1717409900&k=PvXzncc
+.. _Mărișel: /marisel/

@@ -1,7 +1,7 @@
 Trip la Washington
 ##################
 :date: 2007-08-16 23:14
-:author: admin
+:author: mihai
 :category: Hai Hui
 :tags: places, usa, washington
 :slug: trip-la-washington

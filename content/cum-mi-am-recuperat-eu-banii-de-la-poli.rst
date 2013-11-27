@@ -1,7 +1,7 @@
 Cum mi-am recuperat eu banii de la POLI
 #######################################
 :date: 2007-09-28 16:24
-:author: admin
+:author: mihai
 :category: Hai Hui
 :tags: cluj, dezolant, people, romania, utcn
 :slug: cum-mi-am-recuperat-eu-banii-de-la-poli
@@ -11,7 +11,7 @@ Facultatea de Automatica si Calculatoare. Din motive obiective, am avut
 4 restante in toamna, din care am luat 3 si am ramas cu 1. Restanta
 care-am picat-o si in toamna am vrut s-o dau in re-uri.
 
- Vineri (14 sept 2007) s-au afisat informatiile despre reexaminari la
+Vineri (14 sept 2007) s-au afisat informatiile despre reexaminari la
 secretariat. Astfel am aflat ca se poate plati taxa sambata si duminica
 si luni se poate depune cererea de reexaminare pentru examenele pe care
 vrem sa le sustinem. Din pacate n-am fost atent la acest ultim aspect

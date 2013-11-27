@@ -1,7 +1,7 @@
 Thoughts about USA
 ##################
 :date: 2007-08-05 17:56
-:author: admin
+:author: mihai
 :category: Hai Hui
 :tags: baltimore, family, people, places, romania, things, usa
 :slug: thoughts-about-usa

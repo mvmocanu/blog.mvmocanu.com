@@ -1,7 +1,7 @@
 Software-ul liber și microsoft
 ##############################
 :date: 2008-05-22 15:57
-:author: admin
+:author: mihai
 :category: Geek Stuff
 :tags: cluj, dezolant, tech
 :slug: software-ul-liber-si-microsoft

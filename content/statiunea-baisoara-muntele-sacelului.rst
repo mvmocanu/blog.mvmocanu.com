@@ -1,10 +1,23 @@
 Stațiunea Băișoara - Muntele Săcelului
 ######################################
 :date: 2010-07-14 20:19
-:author: admin
+:author: mihai
 :category: Cu bicicleta
-:tags: &gt;100km, baisoara, banda albastra, m-tele baisorii, m-tele bocului, m-tele sacelului
+:tags: >100km, baisoara, banda albastra, m-tele baisorii, m-tele bocului,
+       m-tele sacelului
 :slug: statiunea-baisoara-muntele-sacelului
+:sidebarimage: /static/images/baisoara/sidebar.jpg
+
+* Data: Marți, 13 iulie 2009
+* Distanța: 112km, parcursă în aproximativ 8h (aproximativ 11h cu pauze).
+  Viteza medie aproximativ 13km/h (maximă 52km/h) - vitezometrul a mers, dar
+  bateria a murit după ce-am ajuns acasă, astfel că datele sunt culese din
+  amintiri
+* Traseu: Sălicea, Vălișoara, Lita, Băișoara, Stațiunea M-tele Băișorii, banda
+  albastră, Crinț, Găbriana, M-tele Bocului, M-tele Săcelului, Moara de Pădure,
+  Săcel, Filea de Sus, Filea de Jos, Ciurila, Sălicea
+* Poze: `aici`_
+* Harta: e doar `partea cu Muntele Băișorii - Muntele Săcelului`_
 
 Demult vroiam să ajung în Stațiunea Băișoara pe bicicleta. Am auzit că e
 o urcare foarte lungă și grea. O făcusem în trecut doar cu mașina, așa
@@ -12,8 +25,10 @@ că nu prea știam la ce să mă aștept. În același timp vroiam să evit cât
 de mult mașinile, astfel că am decis să ajung până-n Lita pe un traseu
 diferit de Florești - Luna de Sus - Săvădisla.
 
-[caption id="attachment\_567" align="alignnone" width="584"
-caption="Vălișoara"]\ |Vălișoara|\ [/caption]
+.. figure:: /static/images/baisoara/img1.jpg
+    :alt: valisoara
+
+    Vălișoara
 
 Am pornit către Sălicea pe șosea. Când am ajuns în Sălicea la biserică,
 am luat-o la dreapta pentru a trece Dealul Rateș către Vălișoara. În
@@ -23,8 +38,10 @@ autostradă. Acest drum iese în drumul care face legătura între Petreștii
 de Jos și Lita. Am urmat direcția Lita și pe urmă pe șosea până la
 Băișoara.
 
-[caption id="attachment\_568" align="alignnone" width="584"
-caption="Mănăstirea Băișoara"]\ |Mănăstirea Băișoara|\ [/caption]
+.. figure:: /static/images/baisoara/img2.jpg
+    :alt: manastirea
+
+    Mănăstirea Băișoara
 
 Din Băișoara începe urcarea spre Stațiunea Băișoara. E foarte frumos și
 multă liniște (în timpul săptămânii e destul de puțină circulație). După
@@ -32,9 +49,10 @@ Mănăstirea Băișoara pe marginea drumului sunt destule surse de apă.
 Urcarea este foarte lungă și destul de abruptă, astfel că umbra de pe
 marginea drumului este binevenită pentru o păuză răcoroasă.
 
-[caption id="attachment\_569" align="alignnone" width="584"
-caption="Serpentinele înspre Stațiunea Băișoara"]\ |Serpentinele înspre
-Stațiunea Băișoara|\ [/caption]
+.. figure:: /static/images/baisoara/img3.jpg
+    :alt: serpentine
+
+    Serpentinele înspre Stațiunea Băișoara
 
 În Stațiunea Băișoara începe banda albastră înspre pârtia de schi. După
 ce am trecut pârtia, drumul a luat-o înspre stânga coborând printr-o
@@ -45,8 +63,10 @@ ce m-a însoțit mult timp... Am ieșit la nămașele de la Crinț (numele
 vine probabil de la crintă care este o unealtă folosită la stână) și am
 continuat să urc având nămașele în dreapta mea.
 
-[caption id="attachment\_570" align="alignnone" width="584"
-caption="Nămașele de la Crinț"]\ |Nămașele de la Crinț|\ [/caption]
+.. figure:: /static/images/baisoara/img4.jpg
+    :alt: namase1
+
+    Nămașele de la Crinț
 
 Am urmat drumul în dreapta. Din când în când se mai observă câte un
 marcaj bandă albastră pe copaci, dar este destul de vechi. Drumul este
@@ -55,9 +75,10 @@ pământ. Am ajuns la nămașele de la Găbriana avându-le în dreapta mea.
 După ce am intrat iar în pădure am luat-o spre stânga și imediat am
 făcut o pauză de masă.
 
-[caption id="attachment\_571" align="alignnone" width="584"
-caption="Nămașele de la Găbriana"]\ |Nămașele de la
-Găbriana|\ [/caption]
+.. figure:: /static/images/baisoara/img5.jpg
+    :alt: namase2
+
+    Nămașele de la Găbriana
 
 Nămașele sunt niște gospodării sezoniere la care urcă țăranii începând
 cu luna iunie până în septembrie. Aceste case foarte simple au de obicei
@@ -68,8 +89,10 @@ Am continuat drumul, observând din când în când marcajul pe unii arbori.
 Înainte de Muntele Bocului am ajuns într-o zonă destul de mare defrișată
 recent deoarece pe hartă apare marcată pădurea acolo.
 
-[caption id="attachment\_572" align="alignnone" width="584"
-caption="Muntele Bocului"]\ |Muntele Bocului|\ [/caption]
+.. figure:: /static/images/baisoara/img6.jpg
+    :alt: muntele-bocului
+
+    Muntele Bocului
 
 La Muntele Bocului (boc este un fel de buștean) am pierdut oarecum
 coborârea către Muntele Săcelului (mă așteptam să rămân în culme nu să
@@ -90,20 +113,10 @@ spre munte.
 
 Unele informații despre toponimia unor așezări și despre nămașe sunt
 culese din ghidul turistic "`Zona turistică Băișoara și masivul Muntele
-Mare`_\ " (Radu Mititeanu și Arnold Kadar).
+Mare`_" (Radu Mititeanu și Arnold Kadar).
 
 **Hai noroc!**
 
 .. _Zona turistică Băișoara și masivul Muntele Mare: http://salvamont.org/main/articole/show_ro_t_muntele-mare--baisoara_id_580.html
-
-.. |Vălișoara| image:: http://blog.mvmocanu.com/wp-content/uploads/2010/07/DSC_6542-1024x686.jpg
-.. |Mănăstirea
-Băișoara| image:: http://blog.mvmocanu.com/wp-content/uploads/2010/07/DSC_6550-1024x686.jpg
-.. |Serpentinele înspre Stațiunea
-Băișoara| image:: http://blog.mvmocanu.com/wp-content/uploads/2010/07/DSC_6565-1024x686.jpg
-.. |Nămașele de la
-Crinț| image:: http://blog.mvmocanu.com/wp-content/uploads/2010/07/DSC_6580-1024x686.jpg
-.. |Nămașele de la
-Găbriana| image:: http://blog.mvmocanu.com/wp-content/uploads/2010/07/DSC_6592-1024x686.jpg
-.. |Muntele
-Bocului| image:: http://blog.mvmocanu.com/wp-content/uploads/2010/07/DSC_6606-1024x686.jpg
+.. _aici: http://pics.mvmocanu.com/Ture-cu-bicicleta/Tura-Baisoara-13-iulie-2010/21541222_3Tcc7w#!i=1717413112&k=4RCwQgp
+.. _partea cu Muntele Băișorii - Muntele Săcelului: http://pics.mvmocanu.com/Ture-cu-bicicleta/Tura-Baisoara-13-iulie-2010/21541222_3Tcc7w#!i=1717413112&k=4RCwQgp&lb=1&s=A

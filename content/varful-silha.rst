@@ -1,17 +1,29 @@
 Vârful Silha
 ############
 :date: 2010-08-12 08:41
-:author: admin
+:author: mihai
 :category: Cu bicicleta
 :tags: 50-100km, maguri-racatau, marisel, valea racatau, vf silha
 :slug: varful-silha
 
+* Data: Sâmbătă, 31 iulie 2010
+* Distanța: 66km, parcursă în 6h (11h cu pauze). Viteza medie 10km/h (maximă
+  54km/h)
+* Traseu: Măguri-Răcătău, Robești, Măguri, Dobruș, Valea Răcătău, Valea
+  Broscaru, Varful Silha, Valea Cracilor (Dobruș), Crucea lui Avram Iancu,
+  Șoarecu, Valea Răcătău, Măguri-Răcătău
+* Participanți: eu, Jeno, Zoli
+* Poze: `aici făcute de mine`_. Făcute de `Jeno`_
+
 Am fost într-o nouă `tură propusă de Jeno`_, de această dată mai
 dificilă și mai lungă.
 
-[caption id="attachment\_601" align="alignnone" width="584"
-caption="Măguri"]\ |Măguri|\ [/caption]
- Am urcat spre Măguri pe urcarea de la Robești, o urcare foarte grea dar
+.. figure:: /static/images/varful-silha/img1.jpg
+    :alt: maguri
+
+    Măguri
+
+Am urcat spre Măguri pe urcarea de la Robești, o urcare foarte grea dar
 nu foarte lungă (puțin peste 4 km). Drumul este pietruit și foarte bun
 pentru bicicletă. Din Măguri am coborât în Dobruș, unde este o colonie
 temporară de romi. Sunt la cules de afine.
@@ -21,16 +33,20 @@ urcăm pe Valea Răcătău pe un drum cu noroi în multe locuri. De pe
 versantul din partea dreaptă a drumului coboară multe pârâie către Valea
 Răcătău.
 
-[caption id="attachment\_602" align="alignnone" width="584"
-caption="Valea Răcătău"]\ |Valea Răcătău|\ [/caption]
+.. figure:: /static/images/varful-silha/img2.jpg
+    :alt: valea-racataului
+
+    Valea Răcătău
 
 Către Vârful Silha am luat-o pe Valea Broscaru, deși inițial traseul era
 pe la Steaua. Pe Valea Broscarului e foarte frumos și liniște (nu sunt
 tăietori de lemne). Poate doar câte un taur nepăsător și niște vaci mai
 ai ocazia să întâlnești.
 
-[caption id="attachment\_603" align="alignnone" width="584"
-caption="Valea Broscaru "]|Valea Broscaru|\ [/caption]
+.. figure:: /static/images/varful-silha/img3.jpg
+    :alt: valea-broscaru
+
+    Valea Broscaru
 
 Drumul iese în șaua Lămășoaia-Petreasa unde ai o panoramă frumoasă către
 cătunele care aparțin de Horea. Drumul continuă către N-V fiind marcat
@@ -50,8 +66,10 @@ l-am urmat și care urcă la Crucea lui Avram Iancu din Mărișel. Și pe
 acest drum și la Crucea lui Avram Iancu sunt mulți romi care culeg afine
 și ciuperci.
 
-[caption id="attachment\_604" align="alignnone" width="584"
-caption="Valea Răcătău"]\ |image3|\ [/caption]
+.. figure:: /static/images/varful-silha/img5.jpg
+    :alt: valea-racataului
+
+    Valea Răcătău
 
 Din Mărișel am urmat drumul care duce către Măguri-Răcătău, doar că în
 loc să coborâm pe Drumul Generalului, am urmat un drum care coboară din
@@ -59,13 +77,9 @@ loc să coborâm pe Drumul Generalului, am urmat un drum care coboară din
 
 Am ajuns în Valea Răcătău, dupa care la mășină și la Cluj. După părerea
 mea, cea mai făină tură.
- Mersi Jeno
+
+Mersi Jeno
 
 .. _tură propusă de Jeno: http://www.ciclism.ro/forums/index.php?/topic/1050-ture-pentru-clujeni/page__view__findpost__p__377684
-
-.. |Măguri| image:: http://blog.mvmocanu.com/wp-content/uploads/2010/08/DSC_7298-1024x685.jpg
-.. |Valea
-Răcătău| image:: http://blog.mvmocanu.com/wp-content/uploads/2010/08/DSC_7342-1024x685.jpg
-.. |Valea
-Broscaru| image:: http://blog.mvmocanu.com/wp-content/uploads/2010/08/DSC_7376-e1332831139964-685x1024.jpg
-.. |image3| image:: http://blog.mvmocanu.com/wp-content/uploads/2010/08/DSC_7516-1024x685.jpg
+.. _aici făcute de mine: http://pics.mvmocanu.com/Ture-cu-bicicleta/Varful-Silha-31-iulie-2010/21541404_JfdzRG#!i=1717429269&k=zGvFjs9
+.. _Jeno: http://picasaweb.google.com/csuporj5/VarfulSilha

@@ -1,7 +1,7 @@
 HomeBank
 ########
 :date: 2008-02-16 21:08
-:author: admin
+:author: mihai
 :category: Geek Stuff
 :tags: tech, tips
 :slug: homebank

@@ -1,7 +1,7 @@
 Lenovo, shipping process and customer support
 #############################################
 :date: 2008-07-08 00:31
-:author: admin
+:author: mihai
 :category: Geek Stuff
 :tags: customer support, lenovo, shipping process, thinkpad, thinkpad r61, usa
 :slug: lenovo-shipping-process-and-customer-support
@@ -35,6 +35,7 @@ screenshot.
    :alt: lenovo 1
 
    lenovo 1
+
 After one week (around 06/17/08) I called customer service to check up
 my notebook status and the lady whom I spoke to told me that the
 notebook will be shipped around 06/28/08. On 06/30/08 I called again
@@ -59,6 +60,7 @@ almost two months after my order. See the following screenshot.
    :alt: lenovo 2
 
    lenovo 2
+
 After I saw the new estimated ship date, I wrote them an email in which
 I canceled my order, but they didn't answer my email. Around 3pm
 (07/03/08) in the same day I called them and I ask them to cancel my
@@ -72,6 +74,7 @@ I told you, I already canceled the order. See the following screenshot.
    :alt: lenovo 3
 
    lenovo 3
+
 So after all these, they were late with my shipment by only one day.
 
 On 07/05/08 I receive an email response to my email in which I cancel my

@@ -1,7 +1,7 @@
 Bucuresti
 #########
 :date: 2007-07-22 03:18
-:author: admin
+:author: mihai
 :category: Hai Hui
 :tags: people, places, romania
 :slug: bucuresti

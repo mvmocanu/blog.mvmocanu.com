@@ -1,16 +1,26 @@
 Bonțida
 #######
 :date: 2010-07-26 15:11
-:author: admin
+:author: mihai
 :category: Cu bicicleta
 :tags: 50-100km, bontida, fanatele clujului, offroad
+:sidebarimage: /static/images/bontida/sidebar.jpg
 :slug: bontida
+
+* Data: Joi, 22 iulie 2010
+* Distanța: 97km, parcursă în 6h 43min (9h 53min cu pauze). Viteza medie
+  14.4km/h (maximă 49.4km/h)
+* Traseu: Borhanci, Gheorgheni, Aiton, Boju, Cojocna, Căianu Vamă, Gădălin,
+  Bonțida, Jucu de Sus, Jucu de Mijloc, Lacurile Câmpenești, Fânațele Clujului,
+  Cluj-Napoca (Real)
+* Poze: `aici`_ - făcute cu mobilul
 
 Ultima dată am fost la Bonțida în urmă cu vreo 6 ani. Lucrările la
 castel începuseră deja de câțiva ani atunci și eram curios să aflu ce
 s-a mai întâmplat între timp. Astfel că mi-am făcut un traseu până la
 Bonțida pe drumuri cât mai puțin circulate și mai pitorești.
- Am pornit spre Borhanci și am ajuns în Gheorgheni trecând printr-o
+
+Am pornit spre Borhanci și am ajuns în Gheorgheni trecând printr-o
 pădure și pe sub podul noii centuri a Clujului. Gheorgheni este un alt
 sat alături de Vălișoara care-mi place foarte mult. Din Gheorgheni
 înspre Aiton drumul devine pietruit și trece printre câmpuri cultivate.
@@ -25,8 +35,10 @@ ajuns chiar în centrul comunei Cojocna. În schimb am ajuns în Boju, de
 unde am urmat un drum pietruit până în Cojocna. Drumul te scoate înainte
 de intrarea în Cojocna la șosea.
 
-[caption id="attachment\_593" align="alignnone" width="584"
-caption="Înspre Boju. "]|Înspre Boju.|\ [/caption]
+.. figure:: /static/images/bontida/img1.jpg
+    :alt: inspre-boju
+
+    Înspre Boju
 
 Am trecut prin Cojocna și după aproape un kilometru asfaltul se termină
 și drumul se bifurcă. Am luat-o la stânga, spre nord. Drumul devine de
@@ -36,9 +48,10 @@ direcția Cluj cam vreo 2 km până am ajuns la un drum județean către
 Bonțida. Acesta este asfaltat până după Gădălin la intersecția cu Vișea,
 unde drumul spre Bonțida o ia la stânga și devine pietruit.
 
-[caption id="attachment\_594" align="alignnone" width="584"
-caption="Castelul Banffy de la Bonțida"]\ |Castelul Banffy de la
-Bonțida|\ [/caption]
+.. figure:: /static/images/bontida/img2.jpg
+    :alt: castelul-banffy
+
+    Castelul Banffy de la Bonțida
 
 În Bonțida, Castelul Banffy este ușor de găsit. Pentru a vizita castelul
 este o taxa de intrare de 2 lei. După ce am vizitat castelul am ieșit
@@ -64,8 +77,4 @@ coborât chiar înainte de rezervație în sat și am trecut în Cluj. Astfel
 că am ratat rezervația, dar nu-i nimic. Motiv pentru o tură nouă.
 
 .. _pagina wiki a castelului: http://ro.wikipedia.org/wiki/Castelul_B%C3%A1nffy_de_la_Bon%C8%9Bida
-
-.. |Înspre
-Boju.| image:: http://blog.mvmocanu.com/wp-content/uploads/2010/07/IMG_0570-1024x768.jpg
-.. |Castelul Banffy de la
-Bonțida| image:: http://blog.mvmocanu.com/wp-content/uploads/2010/07/IMG_0583-1024x768.jpg
+.. _aici: http://pics.mvmocanu.com/Ture-cu-bicicleta/Bontida-22-iulie-2010/21541320_W8wG4C#!i=1717421687&k=2B8qqjS
