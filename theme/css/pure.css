@@ -187,6 +187,7 @@ pre {
 }
 .post-meta {
     color: #999;
+    line-height: 25px;
     font-size: 90%;
     margin-top: -10px;
 }
