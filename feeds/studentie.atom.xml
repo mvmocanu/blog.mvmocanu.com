@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>blog</title><link href="http://b.mvmocanu.com/" rel="alternate"></link><link href="http://b.mvmocanu.com/feeds/studentie.atom.xml" rel="self"></link><id>http://b.mvmocanu.com/</id><updated>2007-06-19T22:11:00+03:00</updated><entry><title>BRD Studcard</title><link href="http://b.mvmocanu.com/brd-studcard/" rel="alternate"></link><updated>2007-06-19T22:11:00+03:00</updated><author><name>admin</name></author><id>tag:b.mvmocanu.com,2007-06-19:brd-studcard/</id><summary type="html">&lt;p&gt;In urma cu aproximativ o luna am vrut sa-mi fac Studcard. Am fost la
+<feed xmlns="http://www.w3.org/2005/Atom"><title>blog</title><link href="http://b.mvmocanu.com/" rel="alternate"></link><link href="http://b.mvmocanu.com/feeds/studentie.atom.xml" rel="self"></link><id>http://b.mvmocanu.com/</id><updated>2007-06-19T22:11:00+03:00</updated><entry><title>BRD Studcard</title><link href="http://b.mvmocanu.com/brd-studcard/" rel="alternate"></link><updated>2007-06-19T22:11:00+03:00</updated><author><name>mihai</name></author><id>tag:b.mvmocanu.com,2007-06-19:brd-studcard/</id><summary type="html">&lt;p&gt;In urma cu aproximativ o luna am vrut sa-mi fac Studcard. Am fost la
 BRD, acolo nu mai aveau fise de completat pentru Studcard, dar am aflat
 ceva interesant. Se poate face cererea si pe net si la banca trebuie sa
 mergi cu carnetul, cu 16 roni, din care 6 pentru cont si 10 taxa de
 studcard (care veti afla in cele ce urmeaza ce este de fapt), cred ca
 mai era si-un buletin, in fine...&lt;/p&gt;
-&lt;p&gt;&lt;a href="#id1"&gt;&lt;span class="problematic" id="id2"&gt;`|image0|`_&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;div class="figure"&gt;
+&lt;img alt="brd1" src="/static/images/brd/img1.jpg" /&gt;
+&lt;/div&gt;
 &lt;p&gt;Am ajuns acasa, am intrat pe &lt;a class="reference external" href="http://brd.ro"&gt;brd.ro&lt;/a&gt;, am cautat sectiunea cu studcard,
 &lt;a class="reference external" href="https://www.brd.ro/special-tineri/produsele-pentru/studenti/cardul-brd-isic-studcard/solicita-card-brd-isic-studcard.html"&gt;am gasit-o&lt;/a&gt; si am purces la completarea cererii. Am completat prima
 parte, in care-ti introduci datele personale si adaugi o poza care va
@@ -15,7 +17,9 @@ acceptata pentru a incheia cererea. Am citit declaratia. Mai jos este un
 screenshot cu ea (click pe poza pentru o varianta mare =&amp;gt; click pe lupa
 din dreapta sus pentru varianta cea mai mare). Am pus in chenar ceea ce
 este important in aceasta declaratie dpmdv.&lt;/p&gt;
-&lt;p&gt;&lt;a href="#id3"&gt;&lt;span class="problematic" id="id4"&gt;`|image1|`_&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;div class="figure"&gt;
+&lt;img alt="brd2" src="/static/images/brd/img2.jpg" /&gt;
+&lt;/div&gt;
 &lt;p&gt;Constatari:&lt;/p&gt;
 &lt;ol class="arabic simple"&gt;
 &lt;li&gt;In momentul in care este acceptata aceasta declaratie, esti automat
@@ -43,13 +47,4 @@ doar: &amp;quot;taxa de Studcard&amp;quot;; nu au spus: &amp;quot;cotizatia la C
 esti si tu membru&amp;quot;.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Alte concluzii, constatari va las sa le trageti singuri.&lt;/p&gt;
-&lt;div class="system-messages section"&gt;
-&lt;h2&gt;Docutils System Messages&lt;/h2&gt;
-&lt;div class="system-message" id="id1"&gt;
-&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;/home/local/3PILLAR/mmocanu/work/blog.mvmocanu.com/content/brd-studcard.rst&lt;/tt&gt;, line 16); &lt;em&gt;&lt;a href="#id2"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-Unknown target name: &amp;quot;|image0|&amp;quot;.&lt;/div&gt;
-&lt;div class="system-message" id="id3"&gt;
-&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;/home/local/3PILLAR/mmocanu/work/blog.mvmocanu.com/content/brd-studcard.rst&lt;/tt&gt;, line 28); &lt;em&gt;&lt;a href="#id4"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-Unknown target name: &amp;quot;|image1|&amp;quot;.&lt;/div&gt;
-&lt;/div&gt;
 </summary><category term="cluj"></category><category term="dezolant"></category><category term="studentie"></category></entry></feed>
