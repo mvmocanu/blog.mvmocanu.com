@@ -1,7 +1,7 @@
 Cursuri de prim-ajutor
 ######################
 :date: 2012-05-03 11:24
-:author: admin
+:author: mihai
 :category: Hai Hui
 :tags: articole, tips
 :slug: cursuri-de-prim-ajutor

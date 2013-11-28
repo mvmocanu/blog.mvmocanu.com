@@ -1,7 +1,7 @@
 Vf. Dumitreasa
 ##############
 :date: 2009-08-15 15:14
-:author: admin
+:author: mihai
 :category: Cu bicicleta
 :tags: >100km, blajoaia, offroad, poiana faget, vf dumitreasa
 :sidebarimage: /static/images/dumitreasa/sidebar.jpg

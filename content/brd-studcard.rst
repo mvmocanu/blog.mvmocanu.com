@@ -1,7 +1,7 @@
 BRD Studcard
 ############
 :date: 2007-06-19 22:11
-:author: admin
+:author: mihai
 :category: Hai Hui
 :tags: cluj, dezolant, studentie
 :slug: brd-studcard
@@ -13,7 +13,8 @@ mergi cu carnetul, cu 16 roni, din care 6 pentru cont si 10 taxa de
 studcard (care veti afla in cele ce urmeaza ce este de fapt), cred ca
 mai era si-un buletin, in fine...
 
-`|image0|`_
+.. figure:: /static/images/brd/img1.jpg
+    :alt: brd1
 
 Am ajuns acasa, am intrat pe `brd.ro`_, am cautat sectiunea cu studcard,
 `am gasit-o`_ si am purces la completarea cererii. Am completat prima
@@ -25,7 +26,8 @@ screenshot cu ea (click pe poza pentru o varianta mare => click pe lupa
 din dreapta sus pentru varianta cea mai mare). Am pus in chenar ceea ce
 este important in aceasta declaratie dpmdv.
 
-`|image1|`_
+.. figure:: /static/images/brd/img2.jpg
+    :alt: brd2
 
 Constatari:
 
@@ -55,14 +57,7 @@ Constatari:
 
 Alte concluzii, constatari va las sa le trageti singuri.
 
-.. _|image2|: http://picasaweb.google.com/haiihuii/Blog/photo?authkey=uj_SmgJPzko#5077846868940173938
 .. _brd.ro: http://brd.ro
 .. _am gasit-o: https://www.brd.ro/special-tineri/produsele-pentru/studenti/cardul-brd-isic-studcard/solicita-card-brd-isic-studcard.html
-.. _|image3|: http://picasaweb.google.com/haiihuii/Blog/photo?authkey=uj_SmgJPzko#5077846881825075842
 .. _"Asociatia pentru sprijinirea tinerilor, studentilor si profesorilor": http://www.google.com/search?q=%22Asociatia+pentru+sprijinirea+tinerilor%2C+studentilor+si+profesorilor%22&sourceid=navclient-ff&ie=UTF-8&rls=GGGL,GGGL:2006-34,GGGL:en
 .. _International Association Services: http://www.google.com/search?hl=en&safe=off&rls=GGGL%2CGGGL%3A2006-34%2CGGGL%3Aen&q=%22International+Association+Services%22&btnG=Search&lr=lang_en%7Clang_ro
-
-.. |image0| image:: http://lh5.google.com/image/haiihuii/Rngi0t8CMnI/AAAAAAAAACw/sGrJfVF6HAg/s400/brd-studcard1.JPG
-.. |image1| image:: http://lh4.google.com/image/haiihuii/Rngi1d8CMoI/AAAAAAAAAC4/9ckID5VG4QY/s400/brd-studcard2.JPG
-.. |image2| image:: http://lh5.google.com/image/haiihuii/Rngi0t8CMnI/AAAAAAAAACw/sGrJfVF6HAg/s400/brd-studcard1.JPG
-.. |image3| image:: http://lh4.google.com/image/haiihuii/Rngi1d8CMoI/AAAAAAAAAC4/9ckID5VG4QY/s400/brd-studcard2.JPG
