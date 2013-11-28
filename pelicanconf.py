@@ -10,7 +10,6 @@ def _path(*args):
 
 AUTHOR = u'Mihai Mocanu'
 SITENAME = u'blog'
-#SITEURL = 'http://mvmocanu.github.io/blog.mvmocanu.com/'
 SITEURL = 'http://b.mvmocanu.com'
 
 TIMEZONE = 'Europe/Bucharest'
@@ -26,16 +25,7 @@ TAG_FEED_ATOM = "feeds/%s.atom.xml"
 
 TAGLINE = "despre ce ne place, ce nu ne place, pe unde mai umblăm"
 
-# Blogroll
-#LINKS = (('Pelican', 'http://getpelican.com/'),
-         #('Python.org', 'http://python.org/'),
-         #('Jinja2', 'http://jinja.pocoo.org/'),
-         #('You can modify those links in your config file', '#'),)
-
-# Social widget
-#SOCIAL = (('You can add links in your config file', '#'),
-          #('Another social link', '#'),)
-COVER_IMG_URL = "https://dnqgz544uhbo8.cloudfront.net/_/fp/img/home/18.ST46uwCCxnj8jWwp1GtbiQ.jpg"
+COVER_IMG_URL = "/static/images/generic/generic-sidebar1.jpg"
 
 DEFAULT_PAGINATION = 20
 
@@ -44,8 +34,8 @@ DEFAULT_PAGINATION = 20
 
 DELETE_OUTPUT_DIRECTORY = True
 
-MAIL_USERNAME = 'contact'
-MAIL_HOST = 'mvmocanu.com'
+#MAIL_USERNAME = 'contact'
+#MAIL_HOST = 'mvmocanu.com'
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
@@ -53,21 +43,18 @@ PATH = 'content'
 THEME = 'theme/pure'
 
 DISQUS_SITENAME = "bmvm"
-#GOOGLE_ANALYTICS_ACCOUNT = "UA-822534-14"
-#GOOGLE_ANALYTICS_DOMAIN = 'ionelmc.ro'
+GOOGLE_ANALYTICS = "UA-301899-25"
 
-SECTIONS = [
-    ('Blog', 'index.html'),
-    ('Cu bicicleta', 'category/cu-bicicleta.html'),
-    ('Arhivă', 'archives.html'),
-    ('Tag-uri', 'tags.html'),
-    #('Projects', 'projects.html'),
-]
+#SECTIONS = [
+#    ('Blog', 'index.html'),
+#    ('Cu bicicleta', 'category/cu-bicicleta.html'),
+#    ('Arhivă', 'archives.html'),
+#    ('Tag-uri', 'tags.html'),
+#    ('Projects', 'projects.html'),
+#]
 TAG_CLOUD_STEPS = 6
-#~ TYPOGRIFY = True
 
 PLUGIN_PATH = _path('plugins')
-#PLUGIN_PATH = '/home/local/3PILLAR/mmocanu/work/blog.mvmocanu.com/pelican-plugins/'
 
 PLUGINS = (
     'pelican_youtube',
@@ -90,7 +77,7 @@ SITEMAP = {
 
 MENUITEMS = [
     ('Arhivă', 'archives.html'),
-    ('Cu bicicleta', 'category/cu-bicicleta.html'), 
+    ('Cu bicicleta', 'category/cu-bicicleta.html'),
 ]
 
 FILES_TO_COPY = [
