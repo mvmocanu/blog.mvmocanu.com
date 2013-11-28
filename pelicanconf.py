@@ -1,11 +1,17 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
+import os
+
+
+def _path(*args):
+    return os.path.realpath(os.path.abspath(os.path.join(*args)))
+
 
 AUTHOR = u'Mihai Mocanu'
 SITENAME = u'blog'
 #SITEURL = 'http://mvmocanu.github.io/blog.mvmocanu.com/'
-SITEURL = 'http://b.mvmocanu.com/'
+SITEURL = 'http://b.mvmocanu.com'
 
 TIMEZONE = 'Europe/Bucharest'
 
@@ -60,7 +66,7 @@ SECTIONS = [
 TAG_CLOUD_STEPS = 6
 #~ TYPOGRIFY = True
 
-PLUGIN_PATH = 'pelican-plugins'
+PLUGIN_PATH = _path('plugins')
 #PLUGIN_PATH = '/home/local/3PILLAR/mmocanu/work/blog.mvmocanu.com/pelican-plugins/'
 
 PLUGINS = (
@@ -68,19 +74,19 @@ PLUGINS = (
     'sitemap',
 )
 
-#SITEMAP = {
-#    'format': 'xml',
-#    'priorities': {
-#        'articles': 0.5,
-#        'indexes': 0.5,
-#        'pages': 0.5
-#    },
-#    'changefreqs': {
-#        'articles': 'monthly',
-#        'indexes': 'daily',
-#        'pages': 'monthly'
-#    }
-#}
+SITEMAP = {
+    'format': 'xml',
+    'priorities': {
+        'articles': 0.5,
+        'indexes': 0.5,
+        'pages': 0.5
+    },
+    'changefreqs': {
+        'articles': 'monthly',
+        'indexes': 'daily',
+        'pages': 'monthly'
+    }
+}
 
 MENUITEMS = [
     ('Arhivă', 'archives.html'),
