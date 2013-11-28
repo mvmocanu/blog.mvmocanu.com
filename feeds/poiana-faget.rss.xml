@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>blog</title><link>http://b.mvmocanu.com/</link><description></description><atom:link href="http://b.mvmocanu.com/feeds/poiana-faget.rss.xml" rel="self"></atom:link><lastBuildDate>Sat, 15 Aug 2009 15:14:00 +0300</lastBuildDate><item><title>Vf. Dumitreasa</title><link>http://b.mvmocanu.com/vf-dumitreasa/</link><description>&lt;ul class="simple"&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>blog</title><link>http://blog.mvmocanu.com/</link><description></description><atom:link href="http://blog.mvmocanu.com/feeds/poiana-faget.rss.xml" rel="self"></atom:link><lastBuildDate>Sat, 15 Aug 2009 15:14:00 +0300</lastBuildDate><item><title>Vf. Dumitreasa</title><link>http://blog.mvmocanu.com/vf-dumitreasa/</link><description>&lt;ul class="simple"&gt;
 &lt;li&gt;Data: 15 august 2009&lt;/li&gt;
 &lt;li&gt;Distanța: 152km, parcursa in 8h 25min (13h cu pauze). Viteza medie 18.1km/h
 (maxima 50.2km/h)&lt;/li&gt;
@@ -13,4 +13,4 @@ prin Poiana Faget.&lt;/p&gt;
 &lt;img alt="valea-somesului-rece" src="/static/images/dumitreasa/img1.jpg" /&gt;
 &lt;p class="caption"&gt;Valea Somesului Rece&lt;/p&gt;
 &lt;/div&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">mihai</dc:creator><pubDate>Sat, 15 Aug 2009 15:14:00 +0300</pubDate><guid>tag:b.mvmocanu.com,2009-08-15:vf-dumitreasa/</guid><category>&gt;100km</category><category>blajoaia</category><category>offroad</category><category>poiana faget</category><category>vf dumitreasa</category></item></channel></rss>
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">mihai</dc:creator><pubDate>Sat, 15 Aug 2009 15:14:00 +0300</pubDate><guid>tag:blog.mvmocanu.com,2009-08-15:vf-dumitreasa/</guid><category>&gt;100km</category><category>blajoaia</category><category>offroad</category><category>poiana faget</category><category>vf dumitreasa</category></item></channel></rss>
