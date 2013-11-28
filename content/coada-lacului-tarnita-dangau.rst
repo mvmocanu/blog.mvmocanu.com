@@ -4,6 +4,9 @@ Coada Lacului Tarnița - Dângău
 :author: mihai
 :category: Cu bicicleta
 :tags: 50-100km, offroad, sosea
+:summary: Tura această am făcut-o anul trecut, fiind organizată de Clujul
+          Pedalează. Și de această dată s-a strâns multă lume, fiind
+          aproximativ 25 de persoane.
 :slug: coada-lacului-tarnita-dangau
 
 * Data: Duminică, 3 aprilie 2011
