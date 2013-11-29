@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>blog</title><link>http://blog.mvmocanu.com/</link><description></description><atom:link href="http://blog.mvmocanu.com/feeds/pictures.rss.xml" rel="self"></atom:link><lastBuildDate>Tue, 19 Jun 2007 18:26:00 +0300</lastBuildDate><item><title>Home sweet home</title><link>http://blog.mvmocanu.com/home-sweet-home/</link><description>&lt;div class="figure"&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>blog</title><link>http://b.mvmocanu.com/</link><description></description><atom:link href="http://b.mvmocanu.com/feeds/pictures.rss.xml" rel="self"></atom:link><lastBuildDate>Tue, 19 Jun 2007 18:26:00 +0300</lastBuildDate><item><title>Home sweet home</title><link>http://b.mvmocanu.com/home-sweet-home/</link><description>&lt;div class="figure"&gt;
 &lt;img alt="casa-noua" src="/static/images/home-sweet-home/img1.jpg" /&gt;
 &lt;p class="caption"&gt;Casă nouă&lt;/p&gt;
 &lt;/div&gt;
@@ -14,4 +14,4 @@ nu e de foarte buna calitate.&lt;/p&gt;
 lor care la fel, a fost evacuata si va dormi in niste grajduri din
 Someseni, le-am gasit in presa.&lt;/p&gt;
 &lt;p&gt;:-(&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">mihai</dc:creator><pubDate>Tue, 19 Jun 2007 18:26:00 +0300</pubDate><guid>tag:blog.mvmocanu.com,2007-06-19:home-sweet-home/</guid><category>dezolant</category><category>people</category><category>pictures</category></item></channel></rss>
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">mihai</dc:creator><pubDate>Tue, 19 Jun 2007 18:26:00 +0300</pubDate><guid>tag:b.mvmocanu.com,2007-06-19:home-sweet-home/</guid><category>dezolant</category><category>people</category><category>pictures</category></item></channel></rss>
