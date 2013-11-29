@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://blog.mvmocanu.com/index.html</loc>
-<lastmod>2013-11-30T00:02:33-00:00</lastmod>
+<lastmod>2013-11-30T00:13:38-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://blog.mvmocanu.com/archives.html</loc>
-<lastmod>2013-11-30T00:02:33-00:00</lastmod>
+<lastmod>2013-11-30T00:13:38-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://blog.mvmocanu.com/tags.html</loc>
-<lastmod>2013-11-30T00:02:33-00:00</lastmod>
+<lastmod>2013-11-30T00:13:38-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://blog.mvmocanu.com/categories.html</loc>
-<lastmod>2013-11-30T00:02:33-00:00</lastmod>
+<lastmod>2013-11-30T00:13:38-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -305,6 +305,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://blog.mvmocanu.com/tag/vf-piatra-grosilor.html</loc>
+<lastmod>2010-08-24T22:39:00-00:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://blog.mvmocanu.com/tag/swim.html</loc>
 <lastmod>2008-08-20T23:53:00-00:00</lastmod>
 <changefreq>daily</changefreq>
@@ -319,8 +326,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://blog.mvmocanu.com/tag/banda-rosie.html</loc>
-<lastmod>2009-08-24T16:03:00-00:00</lastmod>
+<loc>http://blog.mvmocanu.com/tag/laguna-albastra.html</loc>
+<lastmod>2011-03-17T23:59:00-00:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://blog.mvmocanu.com/tag/utcn.html</loc>
+<lastmod>2007-09-28T16:24:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -340,22 +354,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://blog.mvmocanu.com/tag/100km.html</loc>
-<lastmod>2010-07-14T20:19:00-00:00</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://blog.mvmocanu.com/tag/50-km.html</loc>
-<lastmod>2009-08-24T16:03:00-00:00</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://blog.mvmocanu.com/tag/thinkpad-r61.html</loc>
-<lastmod>2008-07-08T00:31:00-00:00</lastmod>
+<loc>http://blog.mvmocanu.com/tag/vf-dumitreasa.html</loc>
+<lastmod>2010-08-24T22:39:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -375,8 +375,22 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://blog.mvmocanu.com/tag/vf-batrana.html</loc>
-<lastmod>2009-09-07T22:24:00-00:00</lastmod>
+<loc>http://blog.mvmocanu.com/tag/valea-ierii.html</loc>
+<lastmod>2010-07-19T14:53:00-00:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://blog.mvmocanu.com/tag/lectii-de-inot.html</loc>
+<lastmod>2008-08-20T23:53:00-00:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://blog.mvmocanu.com/tag/muntele-mare.html</loc>
+<lastmod>2010-08-24T22:39:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -389,15 +403,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://blog.mvmocanu.com/tag/purtatoare.html</loc>
-<lastmod>2012-03-20T13:28:00-00:00</lastmod>
+<loc>http://blog.mvmocanu.com/tag/swim-lessons.html</loc>
+<lastmod>2008-08-20T23:53:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://blog.mvmocanu.com/tag/m-tele-bocului.html</loc>
-<lastmod>2010-07-14T20:19:00-00:00</lastmod>
+<loc>http://blog.mvmocanu.com/tag/purtatoare.html</loc>
+<lastmod>2012-03-20T13:28:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -410,22 +424,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://blog.mvmocanu.com/tag/fanatele-clujului.html</loc>
-<lastmod>2010-07-26T15:11:00-00:00</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://blog.mvmocanu.com/tag/vf-dumitreasa.html</loc>
-<lastmod>2010-08-24T22:39:00-00:00</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
 <loc>http://blog.mvmocanu.com/tag/poiana-faget.html</loc>
 <lastmod>2009-08-15T15:14:00-00:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://blog.mvmocanu.com/tag/banda-rosie.html</loc>
+<lastmod>2009-08-24T16:03:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -445,13 +452,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://blog.mvmocanu.com/tag/vf-buturii.html</loc>
-<lastmod>2010-08-24T22:39:00-00:00</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
 <loc>http://blog.mvmocanu.com/tag/pictures.html</loc>
 <lastmod>2007-06-19T18:26:00-00:00</lastmod>
 <changefreq>daily</changefreq>
@@ -459,15 +459,22 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://blog.mvmocanu.com/tag/cetatea-lita.html</loc>
-<lastmod>2010-07-19T14:53:00-00:00</lastmod>
+<loc>http://blog.mvmocanu.com/tag/50-km.html</loc>
+<lastmod>2009-08-24T16:03:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://blog.mvmocanu.com/tag/swim-lessons.html</loc>
-<lastmod>2008-08-20T23:53:00-00:00</lastmod>
+<loc>http://blog.mvmocanu.com/tag/blajoaia.html</loc>
+<lastmod>2009-08-15T15:14:00-00:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://blog.mvmocanu.com/tag/vf-buturii.html</loc>
+<lastmod>2010-08-24T22:39:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -494,22 +501,22 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://blog.mvmocanu.com/tag/chinteni.html</loc>
-<lastmod>2010-07-09T20:20:00-00:00</lastmod>
+<loc>http://blog.mvmocanu.com/tag/m-tele-bocului.html</loc>
+<lastmod>2010-07-14T20:19:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://blog.mvmocanu.com/tag/vultureni.html</loc>
-<lastmod>2010-07-09T20:20:00-00:00</lastmod>
+<loc>http://blog.mvmocanu.com/tag/vf-batrana.html</loc>
+<lastmod>2009-09-07T22:24:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://blog.mvmocanu.com/tag/lectii-de-inot.html</loc>
-<lastmod>2008-08-20T23:53:00-00:00</lastmod>
+<loc>http://blog.mvmocanu.com/tag/vf-peana.html</loc>
+<lastmod>2009-08-23T16:04:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -522,8 +529,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://blog.mvmocanu.com/tag/blajoaia.html</loc>
-<lastmod>2009-08-15T15:14:00-00:00</lastmod>
+<loc>http://blog.mvmocanu.com/tag/somesu-rece.html</loc>
+<lastmod>2009-09-07T22:24:00-00:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://blog.mvmocanu.com/tag/valea-racatau.html</loc>
+<lastmod>2010-08-12T08:41:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -536,15 +550,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://blog.mvmocanu.com/tag/hoia.html</loc>
-<lastmod>2010-08-25T11:30:00-00:00</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://blog.mvmocanu.com/tag/utcn.html</loc>
-<lastmod>2007-09-28T16:24:00-00:00</lastmod>
+<loc>http://blog.mvmocanu.com/tag/vf-silha.html</loc>
+<lastmod>2010-08-12T08:41:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -552,6 +559,27 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://blog.mvmocanu.com/tag/m-tele-baisorii.html</loc>
 <lastmod>2010-07-14T20:19:00-00:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://blog.mvmocanu.com/tag/100km.html</loc>
+<lastmod>2010-07-14T20:19:00-00:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://blog.mvmocanu.com/tag/fanatele-clujului.html</loc>
+<lastmod>2010-07-26T15:11:00-00:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://blog.mvmocanu.com/tag/crucea-albastra.html</loc>
+<lastmod>2009-08-23T16:04:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -571,8 +599,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://blog.mvmocanu.com/tag/laguna-albastra.html</loc>
-<lastmod>2011-03-17T23:59:00-00:00</lastmod>
+<loc>http://blog.mvmocanu.com/tag/vultureni.html</loc>
+<lastmod>2010-07-09T20:20:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -606,15 +634,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://blog.mvmocanu.com/tag/thinkpad.html</loc>
+<loc>http://blog.mvmocanu.com/tag/thinkpad-r61.html</loc>
 <lastmod>2008-07-08T00:31:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://blog.mvmocanu.com/tag/valea-racatau.html</loc>
-<lastmod>2010-08-12T08:41:00-00:00</lastmod>
+<loc>http://blog.mvmocanu.com/tag/thinkpad.html</loc>
+<lastmod>2008-07-08T00:31:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -627,22 +655,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://blog.mvmocanu.com/tag/m-tele-sacelului.html</loc>
-<lastmod>2010-07-14T20:19:00-00:00</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://blog.mvmocanu.com/tag/vf-peana.html</loc>
-<lastmod>2009-08-23T16:04:00-00:00</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://blog.mvmocanu.com/tag/customer-support.html</loc>
-<lastmod>2012-07-21T23:53:00-00:00</lastmod>
+<loc>http://blog.mvmocanu.com/tag/chinteni.html</loc>
+<lastmod>2010-07-09T20:20:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -662,8 +676,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://blog.mvmocanu.com/tag/valea-ierii.html</loc>
-<lastmod>2010-07-19T14:53:00-00:00</lastmod>
+<loc>http://blog.mvmocanu.com/tag/hoia.html</loc>
+<lastmod>2010-08-25T11:30:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -697,8 +711,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://blog.mvmocanu.com/tag/borsa.html</loc>
-<lastmod>2010-07-09T20:20:00-00:00</lastmod>
+<loc>http://blog.mvmocanu.com/tag/m-tele-sacelului.html</loc>
+<lastmod>2010-07-14T20:19:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -718,15 +732,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://blog.mvmocanu.com/tag/cheile-turzii.html</loc>
-<lastmod>2011-03-28T20:10:00-00:00</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://blog.mvmocanu.com/tag/banda-albastra.html</loc>
-<lastmod>2010-07-14T20:19:00-00:00</lastmod>
+<loc>http://blog.mvmocanu.com/tag/cetatea-lita.html</loc>
+<lastmod>2010-07-19T14:53:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -739,15 +746,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://blog.mvmocanu.com/tag/vf-silha.html</loc>
-<lastmod>2010-08-12T08:41:00-00:00</lastmod>
+<loc>http://blog.mvmocanu.com/tag/customer-support.html</loc>
+<lastmod>2012-07-21T23:53:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://blog.mvmocanu.com/tag/shipping-process.html</loc>
-<lastmod>2008-07-08T00:31:00-00:00</lastmod>
+<loc>http://blog.mvmocanu.com/tag/banda-albastra.html</loc>
+<lastmod>2010-07-14T20:19:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -760,29 +767,22 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://blog.mvmocanu.com/tag/vf-piatra-grosilor.html</loc>
-<lastmod>2010-08-24T22:39:00-00:00</lastmod>
+<loc>http://blog.mvmocanu.com/tag/cheile-turzii.html</loc>
+<lastmod>2011-03-28T20:10:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://blog.mvmocanu.com/tag/crucea-albastra.html</loc>
-<lastmod>2009-08-23T16:04:00-00:00</lastmod>
+<loc>http://blog.mvmocanu.com/tag/shipping-process.html</loc>
+<lastmod>2008-07-08T00:31:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://blog.mvmocanu.com/tag/muntele-mare.html</loc>
-<lastmod>2010-08-24T22:39:00-00:00</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://blog.mvmocanu.com/tag/somesu-rece.html</loc>
-<lastmod>2009-09-07T22:24:00-00:00</lastmod>
+<loc>http://blog.mvmocanu.com/tag/borsa.html</loc>
+<lastmod>2010-07-09T20:20:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
