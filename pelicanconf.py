@@ -10,7 +10,7 @@ def _path(*args):
 
 AUTHOR = u'Mihai Mocanu'
 SITENAME = u'blog'
-SITEURL = 'http://b.mvmocanu.com'
+SITEURL = 'http://blog.mvmocanu.com'
 
 TIMEZONE = 'Europe/Bucharest'
 
@@ -45,13 +45,6 @@ THEME = 'theme/pure'
 DISQUS_SITENAME = "bmvm"
 GOOGLE_ANALYTICS = "UA-301899-25"
 
-#SECTIONS = [
-#    ('Blog', 'index.html'),
-#    ('Cu bicicleta', 'category/cu-bicicleta.html'),
-#    ('Arhivă', 'archives.html'),
-#    ('Tag-uri', 'tags.html'),
-#    ('Projects', 'projects.html'),
-#]
 TAG_CLOUD_STEPS = 6
 
 PLUGIN_PATH = _path('plugins')
