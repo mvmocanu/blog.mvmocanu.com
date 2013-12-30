@@ -25,7 +25,7 @@ TAG_FEED_ATOM = "feeds/%s.atom.xml"
 
 TAGLINE = "despre ce ne place, ce nu ne place, pe unde mai umblăm"
 
-COVER_IMG_URL = "/static/images/generic/generic-sidebar1.jpg"
+COVER_IMG_URL = "/images/generic/generic-sidebar1.jpg"
 
 DEFAULT_PAGINATION = 20
 
@@ -45,7 +45,7 @@ THEME = 'theme/pure'
 DISQUS_SITENAME = "bmvm"
 GOOGLE_ANALYTICS = "UA-301899-25"
 
-TAG_CLOUD_STEPS = 6
+#TAG_CLOUD_STEPS = 6
 
 PLUGIN_PATH = _path('plugins')
 
@@ -73,12 +73,16 @@ MENUITEMS = [
     ('Cu bicicleta', 'category/cu-bicicleta.html'),
 ]
 
-FILES_TO_COPY = [
-    #('extra/robots.txt', 'robots.txt'),
-    ('extra/CNAME', 'CNAME'),
-    #('extra/favicon.ico', 'favicon.ico'),
-]
-STATIC_PATHS = ['images']
+# Content
+PATH = 'content'
+STATIC_PATHS = ['extra', 'images']
+EXTRA_PATH_METADATA = {
+    'extra/CNAME': {'path': 'CNAME'},
+    #'extra/github/404.html': {'path': '404.html'},
+    #'extra/robots.txt': {'path': 'robots.txt'},
+    #'extra/favicon.ico': {'path': 'favicon.ico'},
+}
+
 
 ARTICLE_URL = '{slug}/'
 ARTICLE_SAVE_AS = '{slug}/index.html'
