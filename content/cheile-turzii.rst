@@ -17,7 +17,7 @@ Buckland`_ (din Anglia) și un tip din Norvegia (cred) la care nu i-am
 reținut numele. Interesant este că tipul din Norvegia sosise pentru
 prima dată în România cu o seară înainte de tură.
 
-.. figure:: /static/images/cheile-turzii/img1.jpg
+.. figure:: /images/cheile-turzii/img1.jpg
     :alt: regrupare
 
     Regrupare la Platoul Penii
@@ -38,7 +38,7 @@ care ne-a dus până-n Cheile Turzii foarte repede. Problema era că la
 dar a fost dificil pentru că vântul care ne-a dus în Chei acum sufla din
 față.
 
-.. figure:: /static/images/cheile-turzii/img2.jpg
+.. figure:: /images/cheile-turzii/img2.jpg
     :alt: pauza
 
     Pauză pe platoul nordic de la Cheile Turzii
@@ -58,7 +58,7 @@ De sus de la Casele Micești am intrat pe banda roșie, iar la ieșirea în
 Făget am făcut și-o poză de grup cu cei care au mai rămas (eu sunt în
 spatele aparatului).
 
-.. figure:: /static/images/cheile-turzii/img3.jpg
+.. figure:: /images/cheile-turzii/img3.jpg
     :alt: grupul
 
     Grupul înzecit de ploaie

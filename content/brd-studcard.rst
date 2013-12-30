@@ -13,7 +13,7 @@ mergi cu carnetul, cu 16 roni, din care 6 pentru cont si 10 taxa de
 studcard (care veti afla in cele ce urmeaza ce este de fapt), cred ca
 mai era si-un buletin, in fine...
 
-.. figure:: /static/images/brd/img1.jpg
+.. figure:: /images/brd/img1.jpg
     :alt: brd1
 
 Am ajuns acasa, am intrat pe `brd.ro`_, am cautat sectiunea cu studcard,
@@ -26,7 +26,7 @@ screenshot cu ea (click pe poza pentru o varianta mare => click pe lupa
 din dreapta sus pentru varianta cea mai mare). Am pus in chenar ceea ce
 este important in aceasta declaratie dpmdv.
 
-.. figure:: /static/images/brd/img2.jpg
+.. figure:: /images/brd/img2.jpg
     :alt: brd2
 
 Constatari:

@@ -4,7 +4,7 @@ Varful Batrana
 :author: mihai
 :category: Cu bicicleta
 :tags: 50-100km, dolesti, offroad, somesu rece, vf batrana
-:sidebarimage: /static/images/vf-batrana/sidebar.jpg
+:sidebarimage: /images/vf-batrana/sidebar.jpg
 :slug: varful-batrana
 
 * Data: Duminica, 6 septembrie 2009
@@ -16,7 +16,7 @@ Varful Batrana
 
 Impreuna cu trupa lui Jeno am pornit inspre Varful Batrana.
 
-.. figure:: /static/images/vf-batrana/img1.jpg
+.. figure:: /images/vf-batrana/img1.jpg
     :alt: trupa
 
     Trupa
@@ -27,7 +27,7 @@ o ia spre sud. Am mers prin Paltinei unde ne-am intalnit cu niste oameni
 care prajeau mici si niste caini "prietenosi" care ne-au flancat si
 ne-au condus o bucata de drum.
 
-.. figure:: /static/images/vf-batrana/img2.jpg
+.. figure:: /images/vf-batrana/img2.jpg
     :alt: priveliste
 
     De pe Culmea Paltinei
@@ -37,7 +37,7 @@ si am ajuns la Varful Batrana unde ne-am intalnit si cu turma de oi. Am
 fost atent supravegheati de cainii ciobanesti cat timp am luat masa. In
 departare se vedea Clujul.
 
-.. figure:: /static/images/vf-batrana/img3.jpg
+.. figure:: /images/vf-batrana/img3.jpg
     :alt: priveliste2
 
     De pe Varful Batrana

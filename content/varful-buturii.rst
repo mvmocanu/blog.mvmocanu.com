@@ -17,7 +17,7 @@ Jeno a propus o tură pe `forum`_ și mi-a plăcut propunerea lui. Am mai
 încercat o dată să urc spre Dobrin, dar mi s-a rupt schimbătorul atunci
 și a trebuit să mă întorc după ce am urcat vreo 2 km (`poze de-atunci`_).
 
-.. figure:: /static/images/varful-buturii/img1.jpg
+.. figure:: /images/varful-buturii/img1.jpg
     :alt: paraul-negruta
 
     Pârâul Negruța pe urcarea spre Dobrin
@@ -31,7 +31,7 @@ frumos, peisajul modificându-se la fiecare curbă. Au fost ceva bălți pe
 drum, unele s-au putut ocoli, la altele a fost nevoie să mă dau jos de
 pe bicicletă.
 
-.. figure:: /static/images/varful-buturii/img2.jpg
+.. figure:: /images/varful-buturii/img2.jpg
     :alt: panorama
 
     Panoramă
@@ -49,7 +49,7 @@ pe cel înierbat când de fapt trebuia să deschidem poarta și să mergem
 mai departe pe drumul cel bun. Astfel că am ajuns pe un vechi drum care
 n-a mai fost folosit.
 
-.. figure:: /static/images/varful-buturii/img3.jpg
+.. figure:: /images/varful-buturii/img3.jpg
     :alt: drum-vechi
 
     Drumul vechi pe care am coborât

@@ -4,7 +4,7 @@ Varful Peana si Lacul Micesti
 :author: mihai
 :category: Cu bicicleta
 :tags: <50 km, banda rosie, crucea albastra, offroad, vf peana
-:sidebarimage: /static/images/vf-peana/sidebar.jpg
+:sidebarimage: /images/vf-peana/sidebar.jpg
 :slug: varful-peana
 
 * Data: Sambata, 22 august 2009
@@ -20,7 +20,7 @@ drumul este foarte bine marcat. Padurea este foarte frumoasa. La inceput
 este o padure de conifer, dupa care se trece aproape brusc intr-o padure
 de fag. Copacii sunt batrani si inalti.
 
-.. figure:: /static/images/vf-peana/img1.jpg
+.. figure:: /images/vf-peana/img1.jpg
     :alt: pe-banda-rosie
 
     Pe banda rosie inspre Vf Peana
@@ -32,7 +32,7 @@ pietruit. Se ajunge la o intersectie, unde banda rosie continua spre
 Cheile Turzii la stanga, iar la dreapta se merge inspre Peana. Chiar in
 intersectie este o casa parasita cu o fantana cu apa foarte buna.
 
-.. figure:: /static/images/vf-peana/img2.jpg
+.. figure:: /images/vf-peana/img2.jpg
     :alt: de-pe-vf-peana
 
     De pe Vf. Peana
@@ -54,7 +54,7 @@ de picnicari, astfel ca zona nu e foarte curata, iar drumul prin padure
 de-acolo pana la Cluj este brazdat de tractoare, atv-uri. Nu e chiar o
 placere.
 
-.. figure:: /static/images/vf-peana/img3.jpg
+.. figure:: /images/vf-peana/img3.jpg
     :alt: cruce-albastra
 
     Marcajul de cruce albstra si santurile din padure

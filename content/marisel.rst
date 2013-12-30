@@ -4,7 +4,7 @@ Mărișel
 :author: mihai
 :category: Cu bicicleta
 :tags: >100km, maguri-racatau, marisel, offroad, sosea
-:sidebarimage: /static/images/marisel/sidebar.jpg
+:sidebarimage: /images/marisel/sidebar.jpg
 :slug: marisel
 
 * Data: Duminică, 4 iulie 2010
@@ -19,7 +19,7 @@ Mărișel
 Ijar și să coborâm în Someșu Rece, dar aveam să aflăm că vremea are alte
 planuri cu noi.
 
-.. figure:: /static/images/marisel/img1.jpg
+.. figure:: /images/marisel/img1.jpg
     :alt: valea-somesului-rece
 
     Valea Someșului Rece
@@ -30,7 +30,7 @@ vânt care nu-mi prevestea nimic bun :(. Totuși am început să urcăm. După
 ce am ieșit din pădure, au apărut și primii stropi de ploaie. Am crezut
 că e ceva trecător și ne-am continuat drumul.
 
-.. figure:: /static/images/marisel/img2.jpg
+.. figure:: /images/marisel/img2.jpg
     :alt: nori
 
     Ne îndreptam spre ei...
@@ -41,7 +41,7 @@ ploaia torențială. Așa că am decis să mergem spre Mărișel și să coborâ
 pe șosea. O altă greșeala. Trebuia să ne întoarcem. Dar credeam ca e o
 simplă ploaie de vară.
 
-.. figure:: /static/images/marisel/img3.jpg
+.. figure:: /images/marisel/img3.jpg
     :alt: alte-planuri
 
     Natura avea alte planuri cu noi

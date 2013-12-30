@@ -4,7 +4,7 @@ Cetatea Lita
 :author: mihai
 :category: Cu bicicleta
 :tags: 50-100km, cetatea lita, plopi, valea ierii
-:sidebarimage: /static/images/cetatea-lita/sidebar.jpg
+:sidebarimage: /images/cetatea-lita/sidebar.jpg
 :slug: cetatea-lita
 
 * Data: Sâmbătă, 17 iulie 2010
@@ -22,7 +22,7 @@ trecut pe sub autostradă am luat-o la dreapta pe un deal foarte abrupt
 (push bike). Am ieșit în drumul făcut de Bechtel care duce până aproape
 de Lita.
 
-.. figure:: /static/images/cetatea-lita/img1.jpg
+.. figure:: /images/cetatea-lita/img1.jpg
     :alt: liteni
 
     Liteni în vale
@@ -36,7 +36,7 @@ care duce către Piatra Mare (dealul cel mai mare cu două relee). Am
 ocolit Piatra Mare prin stânga și am ieșit pe o culme de unde se vede
 cetatea.
 
-.. figure:: /static/images/cetatea-lita/img2.jpg
+.. figure:: /images/cetatea-lita/img2.jpg
     :alt: cetatea-lita
 
     Cetatea Lita
@@ -47,7 +47,7 @@ acea culme se vede și înspre Liteni, Săcel și înspre Valea Ierii. Drumul
 ajunge la un perete de stâncă mare, pe lângă care se poate coborâ la
 cetate prin partea stângă.
 
-.. figure:: /static/images/cetatea-lita/img3.jpg
+.. figure:: /images/cetatea-lita/img3.jpg
     :alt: stanca
 
     Stânca pe lângă care am coborât
@@ -57,7 +57,7 @@ A fost grav avariată în 1562 ca urmare a exploziei magaziilor de pulbere
 în urma unui asediu. Există o cărare mică care urcă în cetate, dar
 trebuie avut grijă la zidurile cetății pentru că sunt foarte vechi.
 
-.. figure:: /static/images/cetatea-lita/img4.jpg
+.. figure:: /images/cetatea-lita/img4.jpg
     :alt: ruine
 
     Ruinele Cetății Lita
@@ -70,7 +70,7 @@ după care a trebuit să trecem pe cealaltă parte a pârâului. Inițial n-am
 trecut și am ajuns în niște grădini, așa că ne-am întors puțin. Am ieșit
 la șosea în locul numit "La Poruț".
 
-.. figure:: /static/images/cetatea-lita/img5.jpg
+.. figure:: /images/cetatea-lita/img5.jpg
     :alt: cimitir
 
     Cimitirul eroilor de la Plopi

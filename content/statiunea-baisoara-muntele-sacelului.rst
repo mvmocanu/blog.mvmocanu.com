@@ -6,7 +6,7 @@ Stațiunea Băișoara - Muntele Săcelului
 :tags: >100km, baisoara, banda albastra, m-tele baisorii, m-tele bocului,
        m-tele sacelului
 :slug: statiunea-baisoara-muntele-sacelului
-:sidebarimage: /static/images/baisoara/sidebar.jpg
+:sidebarimage: /images/baisoara/sidebar.jpg
 
 * Data: Marți, 13 iulie 2009
 * Distanța: 112km, parcursă în aproximativ 8h (aproximativ 11h cu pauze).
@@ -25,7 +25,7 @@ că nu prea știam la ce să mă aștept. În același timp vroiam să evit cât
 de mult mașinile, astfel că am decis să ajung până-n Lita pe un traseu
 diferit de Florești - Luna de Sus - Săvădisla.
 
-.. figure:: /static/images/baisoara/img1.jpg
+.. figure:: /images/baisoara/img1.jpg
     :alt: valisoara
 
     Vălișoara
@@ -38,7 +38,7 @@ autostradă. Acest drum iese în drumul care face legătura între Petreștii
 de Jos și Lita. Am urmat direcția Lita și pe urmă pe șosea până la
 Băișoara.
 
-.. figure:: /static/images/baisoara/img2.jpg
+.. figure:: /images/baisoara/img2.jpg
     :alt: manastirea
 
     Mănăstirea Băișoara
@@ -49,7 +49,7 @@ Mănăstirea Băișoara pe marginea drumului sunt destule surse de apă.
 Urcarea este foarte lungă și destul de abruptă, astfel că umbra de pe
 marginea drumului este binevenită pentru o păuză răcoroasă.
 
-.. figure:: /static/images/baisoara/img3.jpg
+.. figure:: /images/baisoara/img3.jpg
     :alt: serpentine
 
     Serpentinele înspre Stațiunea Băișoara
@@ -63,7 +63,7 @@ ce m-a însoțit mult timp... Am ieșit la nămașele de la Crinț (numele
 vine probabil de la crintă care este o unealtă folosită la stână) și am
 continuat să urc având nămașele în dreapta mea.
 
-.. figure:: /static/images/baisoara/img4.jpg
+.. figure:: /images/baisoara/img4.jpg
     :alt: namase1
 
     Nămașele de la Crinț
@@ -75,7 +75,7 @@ pământ. Am ajuns la nămașele de la Găbriana avându-le în dreapta mea.
 După ce am intrat iar în pădure am luat-o spre stânga și imediat am
 făcut o pauză de masă.
 
-.. figure:: /static/images/baisoara/img5.jpg
+.. figure:: /images/baisoara/img5.jpg
     :alt: namase2
 
     Nămașele de la Găbriana
@@ -89,7 +89,7 @@ Am continuat drumul, observând din când în când marcajul pe unii arbori.
 Înainte de Muntele Bocului am ajuns într-o zonă destul de mare defrișată
 recent deoarece pe hartă apare marcată pădurea acolo.
 
-.. figure:: /static/images/baisoara/img6.jpg
+.. figure:: /images/baisoara/img6.jpg
     :alt: muntele-bocului
 
     Muntele Bocului

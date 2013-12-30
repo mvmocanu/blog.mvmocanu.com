@@ -4,7 +4,7 @@ Bonțida
 :author: mihai
 :category: Cu bicicleta
 :tags: 50-100km, bontida, fanatele clujului, offroad
-:sidebarimage: /static/images/bontida/sidebar.jpg
+:sidebarimage: /images/bontida/sidebar.jpg
 :slug: bontida
 
 * Data: Joi, 22 iulie 2010
@@ -35,7 +35,7 @@ ajuns chiar în centrul comunei Cojocna. În schimb am ajuns în Boju, de
 unde am urmat un drum pietruit până în Cojocna. Drumul te scoate înainte
 de intrarea în Cojocna la șosea.
 
-.. figure:: /static/images/bontida/img1.jpg
+.. figure:: /images/bontida/img1.jpg
     :alt: inspre-boju
 
     Înspre Boju
@@ -48,7 +48,7 @@ direcția Cluj cam vreo 2 km până am ajuns la un drum județean către
 Bonțida. Acesta este asfaltat până după Gădălin la intersecția cu Vișea,
 unde drumul spre Bonțida o ia la stânga și devine pietruit.
 
-.. figure:: /static/images/bontida/img2.jpg
+.. figure:: /images/bontida/img2.jpg
     :alt: castelul-banffy
 
     Castelul Banffy de la Bonțida

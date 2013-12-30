@@ -17,7 +17,7 @@ Laguna Albastră. Au anunțat tura pe `pagina de facebook`_ și s-au strâns
 venit. Probabil și din cauza activității celor de la **Clujul
 Pedalează** din ultima vreme.
 
-.. figure:: /static/images/laguna-albastra/img1.jpg
+.. figure:: /images/laguna-albastra/img1.jpg
     :alt: la-drum
 
     La drum
@@ -29,7 +29,7 @@ grija lor. Am trecut si pe lângă un fel de biserică (cred că ungurească)
 cu cimitir foarte frumos și vechi care era situată între Gârbău și
 Aghireș Fabrici.
 
-.. figure:: /static/images/laguna-albastra/img2.jpg
+.. figure:: /images/laguna-albastra/img2.jpg
     :alt: cimitir
 
     Cimitir vechi
@@ -47,7 +47,7 @@ venit în șir indian. Probleme în trafic n-am avut, doar puține mașini,
 considerând că trebuie să ne atenționeze că se apropie ne-au claxonat,
 desi nu era necesar.
 
-.. figure:: /static/images/laguna-albastra/img3.jpg
+.. figure:: /images/laguna-albastra/img3.jpg
     :alt: intre-garbau-si-capusu-mare
 
     Între Gârbău și Căpușu Mare

@@ -4,7 +4,7 @@ Valea Ierii
 :author: mihai
 :category: Cu bicicleta
 :tags: 50-100km, baisoara, offroad, plopi, salicea, sosea, valea ierii
-:sidebarimage: /static/images/savadisla/sidebar.jpg
+:sidebarimage: /images/savadisla/sidebar.jpg
 :slug: valea-ierii
 
 * Data: Sâmbătă, 01 mai 2010
@@ -25,7 +25,7 @@ mai răreasca mașinile. O scurtă pauză ne-a adus cu harta în față și un
 nou traseu: s-o luăm spre Finișel, ajungem în Plopi după care coborâm în
 Valea Ierii și-o luăm spre Băișoara.
 
-.. figure:: /static/images/savadisla/img1.jpg
+.. figure:: /images/savadisla/img1.jpg
     :alt: la-savadisla
 
     În Săvădisla, căutând trasee alternative
@@ -38,7 +38,7 @@ frumoasă către Plopi. 1 mai a scos mulți oameni la picnic și câțiva
 kilometri de la ieșirea din Finișel i-am intalnit pe drum, dar pe măsură
 ce noi urcam, se tot răreau.
 
-.. figure:: /static/images/savadisla/img2.jpg
+.. figure:: /images/savadisla/img2.jpg
     :alt: catre-plopi
 
     Către Plopi
@@ -48,7 +48,7 @@ bucată de Cluj și spre sud Valea Ierii. Am găsit un izvor cu apă foarte
 bună si ne-am pus la masă cu o priveliște frumoasă la orizont și satul
 Valea Ierii jos în vale.
 
-.. figure:: /static/images/savadisla/img3.jpg
+.. figure:: /images/savadisla/img3.jpg
     :alt: varful-ghergheleu
 
     Vârful Ghergheleu și Valea Ierii
@@ -58,7 +58,7 @@ Valea Ierii si-am urmat direcția Băișoara. În Băișoara am luat-o spre
 Cluj, dar dorind să fim cât mai puțin pe drumurile aglomerate, în Săcel
 am luat-o către Filea de Sus.
 
-.. figure:: /static/images/savadisla/img4.jpg
+.. figure:: /images/savadisla/img4.jpg
     :alt: intre-sacel-si-filea-de-sus
 
     Între Săcel și Filea de Sus
@@ -72,7 +72,7 @@ găsit o posibilitate să trecem pe sub autostradă și am reușit într-un
 final după un offroad urât în care-am împins bicicletele să ajungem la
 un drum care să ne treacă dealul spre Sălicea.
 
-.. figure:: /static/images/savadisla/img5.jpg
+.. figure:: /images/savadisla/img5.jpg
     :alt: salicea-departe
 
     Sălicea în depărtare

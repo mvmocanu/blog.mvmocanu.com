@@ -4,7 +4,7 @@ Buru
 :author: mihai
 :category: Cu bicicleta
 :tags: 50-100km, baisoara, buru, cheile turzii, salicea, sosea
-:sidebarimage: /static/images/buru/sidebar.jpg
+:sidebarimage: /images/buru/sidebar.jpg
 :slug: buru
 
 * Data: Sâmbătă, 24 aprilie 2010
@@ -20,7 +20,7 @@ Buru
 Împreună cu `Adi`_ am pornit sâmbătă dimineața spre Piatra Secuiului.
 Urma să mergem pe șosea, evitând în tura asta zonele de offroad.
 
-.. figure:: /static/images/buru/img1.jpg
+.. figure:: /images/buru/img1.jpg
     :alt: vf-magura
 
     Vf. Măgura și Sălicea
@@ -32,7 +32,7 @@ romi. Le-am dat ciocolată și s-au mirat tare când au aflat că venim de
 la Cluj. Apropiindu-ne de Petreștii de Jos, Cheile Turzii se vedeau
 frumos în departare.
 
-.. figure:: /static/images/buru/img2.jpg
+.. figure:: /images/buru/img2.jpg
     :alt: cheile-turzii
 
     Cheile Turzii
@@ -43,7 +43,7 @@ direcția Turda) am luat-o la dreapta spre Petreștii de Mijloc (unde
 înainte de a ne aproviziona cu apă de la o bătrânică simpatică. După ce
 am trecut de Petreștii de Mijloc am făcut o pauză de masă binemeritată.
 
-.. figure:: /static/images/buru/img3.jpg
+.. figure:: /images/buru/img3.jpg
     :alt: borzesti
 
     Urmează Borzești
@@ -54,7 +54,7 @@ priveliște impresionantă. Am coborât în Buru pe un drum înierbat care
 s-a dovedit spre final a fi folosit doar de oi si vaci. Era prea abrupt
 pentru căruțe.
 
-.. figure:: /static/images/buru/img4.jpg
+.. figure:: /images/buru/img4.jpg
     :alt: buru
 
     Buru în vale
@@ -68,7 +68,7 @@ kilometri. Drumul merge paralel cu râul Iara și zona e foarte frumoasă
 si puțin circulată. Am găsit și o porțiune de șosea proaspăt asfaltată
 care, împreună cu lipsa mașinilor ne-a făcut viața mai frumoasă.
 
-.. figure:: /static/images/buru/img5.jpg
+.. figure:: /images/buru/img5.jpg
     :alt: baisoara
 
     Băișoara

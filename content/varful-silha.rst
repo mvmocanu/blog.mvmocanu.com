@@ -18,7 +18,7 @@ Vârful Silha
 Am fost într-o nouă `tură propusă de Jeno`_, de această dată mai
 dificilă și mai lungă.
 
-.. figure:: /static/images/varful-silha/img1.jpg
+.. figure:: /images/varful-silha/img1.jpg
     :alt: maguri
 
     Măguri
@@ -33,7 +33,7 @@ urcăm pe Valea Răcătău pe un drum cu noroi în multe locuri. De pe
 versantul din partea dreaptă a drumului coboară multe pârâie către Valea
 Răcătău.
 
-.. figure:: /static/images/varful-silha/img2.jpg
+.. figure:: /images/varful-silha/img2.jpg
     :alt: valea-racataului
 
     Valea Răcătău
@@ -43,7 +43,7 @@ pe la Steaua. Pe Valea Broscarului e foarte frumos și liniște (nu sunt
 tăietori de lemne). Poate doar câte un taur nepăsător și niște vaci mai
 ai ocazia să întâlnești.
 
-.. figure:: /static/images/varful-silha/img3.jpg
+.. figure:: /images/varful-silha/img3.jpg
     :alt: valea-broscaru
 
     Valea Broscaru
@@ -66,7 +66,7 @@ l-am urmat și care urcă la Crucea lui Avram Iancu din Mărișel. Și pe
 acest drum și la Crucea lui Avram Iancu sunt mulți romi care culeg afine
 și ciuperci.
 
-.. figure:: /static/images/varful-silha/img5.jpg
+.. figure:: /images/varful-silha/img5.jpg
     :alt: valea-racataului
 
     Valea Răcătău

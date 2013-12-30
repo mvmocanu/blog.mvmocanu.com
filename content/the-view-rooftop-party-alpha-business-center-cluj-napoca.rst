@@ -17,7 +17,7 @@ petrecere. Dar realizez că muzica de fapt venea de pe strada Frunzişului
 
 Am căutat puţin pe Google şi-am ajuns pe următoarea pagină:
 
-.. figure:: /static/images/rooftop/rooftop-1.png
+.. figure:: /images/rooftop/rooftop-1.png
     :alt: info-despre-petrecere
 
     Info depre petrecere
@@ -26,7 +26,7 @@ Muzica pusă la petrecerea asta acoperă toată valea unde se află strada
 Câmpului. În imaginea de mai jos în punctul 1 e petrecerea, iar toată
 zona marcată cu 2 e zona Câmpului, unde muzica se aude foarte tare.
 
-.. figure:: /static/images/rooftop/rooftop-2.png
+.. figure:: /images/rooftop/rooftop-2.png
     :alt: zona-afectata-de-petrecere
 
     Zona afectată de petrecere
@@ -42,7 +42,7 @@ partea luminoasă din dreaptă dă în strada Câmpului.
 Şi o imagine cu Alpha Business Center unde se distrează oamenii având o
 panoramă deosebită (pun pariu) asupra Mănăşturului.
 
-.. figure:: /static/images/rooftop/rooftop-3.jpg
+.. figure:: /images/rooftop/rooftop-3.jpg
     :alt: alpha-business-center
 
     Alpha Business Center

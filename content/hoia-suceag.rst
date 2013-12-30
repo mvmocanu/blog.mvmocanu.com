@@ -20,7 +20,7 @@ drumurile din Hoia sunt frumoase și foarte bune de relaxare.
 Astfel că pe la ora 14 am pornit. Obosit după tura din urmă cu o zi, am
 facut o pauză scurtă de cafea pe malul Someșului.
 
-.. figure:: /static/images/hoia-suceagu/img1.jpg
+.. figure:: /images/hoia-suceagu/img1.jpg
     :alt: pauza
 
     Pauza de cafea
@@ -33,7 +33,7 @@ Suceagului. La urcarea pe Dealul Suceagului am împins bicicletele, dar
 am ajuns rapid sus de unde aveam o panoramă frumoasă asupra Văii
 Someșului.
 
-.. figure:: /static/images/hoia-suceagu/img2.jpg
+.. figure:: /images/hoia-suceagu/img2.jpg
     :alt: somes-gilau
 
     Valea Someșului și Gilău

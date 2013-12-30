@@ -50,7 +50,7 @@ biblioteca Octavian Goga din Mărăști. Pentru asta foloseam un traseu ca
 cel din imaginea de mai jos, deși aș fi putut s-o iau pe străzi
 principale.
 
-.. figure:: /static/images/bicicleta-prin-cluj/img1.png
+.. figure:: /images/bicicleta-prin-cluj/img1.png
     :alt: calea-turzii-dorobantilor
 
     Traseu Calea Turzii - Dorobanților
@@ -65,7 +65,7 @@ cu mașina e foarte urât și aglomerat. Dar cu bicicleta e destul de
 relaxant. În imaginea de mai jos sunt două trasee posibile pe care merg
 de obicei.
 
-.. figure:: /static/images/bicicleta-prin-cluj/img2.png
+.. figure:: /images/bicicleta-prin-cluj/img2.png
     :alt: trasee-posibile
 
     Trasee posibile pe care merg de-acasă la serviciu

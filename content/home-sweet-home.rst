@@ -6,7 +6,7 @@ Home sweet home
 :tags: dezolant, people, pictures
 :slug: home-sweet-home
 
-.. figure:: /static/images/home-sweet-home/img1.jpg
+.. figure:: /images/home-sweet-home/img1.jpg
     :alt: casa-noua
 
     Casă nouă

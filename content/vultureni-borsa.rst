@@ -4,7 +4,7 @@ Vultureni - Borșa
 :author: mihai
 :category: Cu bicicleta
 :tags: 50-100km, borsa, chinteni, offroad, sosea, vultureni
-:sidebarimage: /static/images/vultureni/sidebar.jpg
+:sidebarimage: /images/vultureni/sidebar.jpg
 :slug: vultureni-borsa
 
 * Data: Vineri, 9 iulie 2010
@@ -18,7 +18,7 @@ Deușu, deoarece până la Deușu am mai fost cu Melania și n-am fost foarte
 încântați. Ce-i drept era iarnă. Așa că mi-am făcut un traseu și-am
 pornit pe la ora 14.
 
-.. figure:: /static/images/vultureni/img1.jpg
+.. figure:: /images/vultureni/img1.jpg
     :alt: lacul-chinteni
 
     Lacul Chinteni
@@ -32,7 +32,7 @@ Din Deușu am luat direcția Vultureni. Drumul e frumos și e liniște. Poți
 să-ți asculți în sfârșit gândurile. De la Vultureni am luat-o spre
 Borșa.
 
-.. figure:: /static/images/vultureni/img2.jpg
+.. figure:: /images/vultureni/img2.jpg
     :alt: ciumafaia
 
     Satul Ciumăfaia - între Vultureni și Borșa
@@ -53,7 +53,7 @@ critică. E o amestecătură de drum betonat cu nisip și în unele locuri cu
 asfalt, dar e foarte stricat. În orice caz priveliștea este foarte
 frumoasă.
 
-.. figure:: /static/images/vultureni/img3.jpg
+.. figure:: /images/vultureni/img3.jpg
     :alt: satul-lung
 
     Satu Lung în vale

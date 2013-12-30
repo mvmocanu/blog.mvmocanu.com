@@ -4,7 +4,7 @@ Vf. Dumitreasa
 :author: mihai
 :category: Cu bicicleta
 :tags: >100km, blajoaia, offroad, poiana faget, vf dumitreasa
-:sidebarimage: /static/images/dumitreasa/sidebar.jpg
+:sidebarimage: /images/dumitreasa/sidebar.jpg
 :slug: vf-dumitreasa
 
 * Data: 15 august 2009
@@ -19,7 +19,7 @@ Somesului Rece, dar mi-a trecut si am putut continua toata tura. Am
 trecut prin Blajoaia, am ajuns la Vf Dumitreasa dupa care ne-am intors
 prin Poiana Faget.
 
-.. figure:: /static/images/dumitreasa/img1.jpg
+.. figure:: /images/dumitreasa/img1.jpg
     :alt: valea-somesului-rece
 
     Valea Somesului Rece

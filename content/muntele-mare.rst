@@ -24,7 +24,7 @@ fost folosit de cei de la Bechtel să aducă piatră. Drumul e foarte bun,
 are cam 5 km și ajunge la drumul pe care urcă `Maratonul Maros`_ la
 Mănăstirea Muntele Rece.
 
-.. figure:: /static/images/muntele-mare/img1.jpg
+.. figure:: /images/muntele-mare/img1.jpg
     :alt: lacul-gilau
 
     Lacul Gilău
@@ -33,7 +33,7 @@ De aici până la Mănăstirea Muntele Rece drumul e ok în primii
 kilometrii, dar după ce începe să urce e foarte stricat. Am vorbit cu un
 localnic care ne-a spus că e din cauza ploilor.
 
-.. figure:: /static/images/muntele-mare/img2.jpg
+.. figure:: /images/muntele-mare/img2.jpg
     :alt: manastirea-muntele-rece
 
     Mănăstirea Muntele Rece
@@ -42,7 +42,7 @@ De la mănăstire am urmat drumul care urcă spre Vârful Testieșu. Un drum
 foarte fain, înierbat și multe afine pe margine. Am continuat spre
 Vârful Târtova având o priveliște frumoasă spre cătunul Râșca.
 
-.. figure:: /static/images/muntele-mare/img3.jpg
+.. figure:: /images/muntele-mare/img3.jpg
     :alt: culmea-paltinei
 
     Culmea Paltinei și Cariera Muntele Rece
@@ -62,7 +62,7 @@ bolovănoasă, dar pe marginea drumului este multă zmeură. Așa că Adi a
 făcut mai multe pauze, iar eu am mers înainte și am tras un pui de somn
 (foarte scurt) când am ajuns sus.
 
-.. figure:: /static/images/muntele-mare/img4.jpg
+.. figure:: /images/muntele-mare/img4.jpg
     :alt: varful-dumitreasa
 
     Vârful Dumitreasa și Tina Bogdanului
@@ -78,7 +78,7 @@ roșie. Drumul militar spre Stațiunea Băișoara este și el plin de pietre,
 așa că n-a fost o plăcere coborârea. Doar de la Vârful Buscat e foarte
 bun drumul.
 
-.. figure:: /static/images/muntele-mare/img5.jpg
+.. figure:: /images/muntele-mare/img5.jpg
     :alt: vedere-de-pe-muntele-mare
 
     Vedere de pe Muntele Mare spre Scărița Belioara

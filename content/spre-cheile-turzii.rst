@@ -4,7 +4,7 @@ Spre Cheile Turzii
 :author: mihai
 :category: Cu bicicleta
 :tags: <50 km, banda rosie, cheile turzii, offroad
-:sidebarimage: /static/images/spre-chei/sidebar.jpg
+:sidebarimage: /images/spre-chei/sidebar.jpg
 :slug: spre-cheile-turzii
 
 * Data: 23 august 2009
@@ -18,7 +18,7 @@ Turzii. Traseul este identic pana la Casele Micesti cu `traseul inspre
 Vf. Peana`_, doar ca la intersectia de la Casele Micesti se ia catre
 est, urmand traseul marcat cu banda rosie.
 
-.. figure:: /static/images/spre-chei/img1.jpg
+.. figure:: /images/spre-chei/img1.jpg
     :alt: soare
 
     Cand am pornit era soare
@@ -33,7 +33,7 @@ ca ne-a udat pana la piele. In plus, cand am inceput sa coboram Feleacul
 (pe banda rosie) inspre Cluj, plouati fiind, a inceput sa ne fie si
 foarte frig.
 
-.. figure:: /static/images/spre-chei/img2.jpg
+.. figure:: /images/spre-chei/img2.jpg
     :alt: nori
 
     Norii aducatori de ploaie
