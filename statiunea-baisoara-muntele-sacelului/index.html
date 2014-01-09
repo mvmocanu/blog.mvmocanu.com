@@ -10,13 +10,14 @@
 
         <title>Stațiunea Băișoara - Muntele Săcelului // blog // despre ce ne place, ce nu ne place, pe unde mai umblam</title>
 
-    <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.3.0/pure-min.css">
-    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.3.0/pure-min.css">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.0.3/css/font-awesome.css">
     <link rel="stylesheet" href="http://blog.mvmocanu.com/theme/css/pure.css">
+    <link rel="stylesheet" href="http://blog.mvmocanu.com/theme/tipuesearch/tipuesearch.css">
     <link rel="stylesheet" href="http://blog.mvmocanu.com/theme/css/pygments.css">
 
-    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-    <script src="http://blog.mvmocanu.com/theme/js/jquery.fitvids.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/fitvids/1.0.1/jquery.fitvids.js"></script>
     <script>
         $(document).ready(function(){
             $(".content").fitVids();
@@ -35,8 +36,13 @@
                             <p class="tagline">despre ce ne place, ce nu ne place, pe unde mai umblam</p>
                                 <p class="links"><a href="http://blog.mvmocanu.com/archives.html">Arhiva</a></p>
                                 <p class="links"><a href="http://blog.mvmocanu.com/category/cu-bicicleta.html">Cu bicicleta</a></p>
-                                <p class="social">
-                                <p>
+                            <p class="social">
+                            <form action="search.html">
+                                <div style="float: left;"><input type="text" name="q" id="tipue_search_input"></div>
+                                <div style="float: left; margin-left: 13px;"><input type="button" id="tipue_search_button" onclick="this.form.submit();"></div>
+                                <div style="clear: left;"></div>
+                            </form>
+                            <p>
                         </hgroup>
                     </header>
                 </div>
