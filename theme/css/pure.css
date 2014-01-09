@@ -39,6 +39,19 @@ pre {
     margin-left: -25%;
 }
 
+.avatar {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    margin-left: 1em;
+    border: 3px solid #fff;
+    z-index: 500;
+    background-color: #fff;
+    -webkit-box-shadow: 0 1px 1px rgba(0,0,0,0.3);
+    -moz-box-shadow: 0 1px 1px rgba(0,0,0,0.3);
+    box-shadow: 0 1px 1px rgba(0,0,0,0.3);
+}
+
 .cover-img {
     position: absolute;
     width: 100%;
@@ -93,7 +106,7 @@ pre {
 }
 
 .header {
-    text-align: left;
+    text-align: center;
     width: 767px;
     max-width: 100%;
 }
@@ -110,9 +123,8 @@ pre {
 }
 
 .tagline {
-    margin-left: 15px;
     margin-top: -15px;
-    line-height: 0.8em;
+    line-height: 15px;
     font-size: 80%;
     text-shadow: 0 1px 3px rgba(0,0,0,0.3);
     color: #fff;
@@ -260,7 +272,7 @@ pre {
         width: 100%;
         position: relative;
         margin: 0;
-        height: 425px;
+        height: 450px;
     }
     .content {
         padding: 1em 1.5em 0;
@@ -282,12 +294,6 @@ pre {
         text-align: center;
         top: auto;
         position: static;
-    }
-
-    hr {
-        border: 1px solid #f2f2f0;
-        width: inherit;
-        margin: 25px auto;
     }
 
     #layout {
